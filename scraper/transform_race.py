@@ -85,7 +85,7 @@ def transform_and_store_race(race, costometer, openai=True):
         race["latitude"] = latitude
         race["longitude"] = longitude
 
-        if lang_val == "Swedish":
+        if lang_val == "German":
         # Get swedish counties for found coordinates
             if latitude != 0:
                 race["county"] = transform_module.find_county(latitude, longitude)

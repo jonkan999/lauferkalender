@@ -5,7 +5,7 @@ import { enlargeMarkersOnZoom } from "/js/enlargeMarkersOnZoom.js";
 
 let map = L.map("map", { attributionControl: false }).setView(
   [51.278809, 10.505557],
-  5
+  6
 );
 window.globalMap = map;
 
