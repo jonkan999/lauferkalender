@@ -33,7 +33,7 @@ class PageGenerator:
       shutil.copy(source, destination)
   
   def clean_filename(self):
-    name = self.json_data["name"].replace('-', ' ').replace('/', '').replace('å', 'a').replace('ä', 'a').replace('ö', 'o').replace('Å', 'A').replace('Ä', 'A').replace('Ö', 'O').lower()
+    name = name.replace('-', ' ').replace('/', '').replace('å', 'a').replace('ä', 'a').replace('ö', 'o').replace('Å', 'A').replace('Ä', 'A').replace('Ö', 'O').replace('ß', 'ss').replace('ü', 'u').replace('Ü', 'U').lower()
     return '-'.join(name.split()).lower()
   
   def save_webp_image(self, base64_data, output_path):
@@ -90,7 +90,7 @@ class PageGenerator:
 
   def update_sitemap(self):
     #impute sitemap with new page
-    sitemap_url = f"https://loppkartan.se/{self.config['sub_domain']}/{self.clean_filename}"
+    sitemap_url = f"https://lauferkalender.de/{self.config['sub_domain']}/{self.clean_filename}"
     sitemap_url = sitemap_url.replace('&', '&amp;') 
 
     with open(self.sitemap_path, 'r', encoding='utf-8') as f:

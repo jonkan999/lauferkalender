@@ -2,6 +2,7 @@
 
 domain: "lauferkalender.de"
 google_analytics_id: "G-HYWCQCV5SV"
+main_list_name: "Laufkalender"
 
 title: "Die umfassendste Liste und Kalender für Laufveranstaltungen und Rennen in Deutschland 2024"
 title_alternative: "Die Karte, die Deutschland dazu bringt, mehr Rennen zu laufen 2024" # This is used for map
@@ -30,18 +31,18 @@ menu_items:
   - id: "navIndex"
     text: "Lauferkarte"
     url: "/index.html"
-  - id: "navLopplistan"
+  - id: "navLaufkalender"
     text: "Laufkalender"
     url: "/laufkalender.html"
   - id: "navAbout"
     text: "Über lauferkalender.de"
-    url: "/om-oss.html"
+    url: "/uber-lauferkalender.html"
   - id: "navContact"
     text: "Kontaktinformationen"
     url: "/kontakt.html"
   - id: "navAddRace"
     text: "Rennen hinzufügen"
-    url: "/lagg-till-lopp.html"
+    url: "/rennen-hinzufugen.html"
 
 main_header: "Die umfassendste Laufkalender für Läufer in Deutschland"
 main_header_alternative: "Die umfassendste Laufkalender für Läufer in Deutschland"
@@ -124,31 +125,24 @@ distance_units:
   - range: [41.9, 42.4]
     label: Marathon
 
-county_label_text: "Alle Länder"
+county_label_text: "Alle bundesländer"
 county_mapping:
-  "Stockholms": "Stockholm"
-  "Uppsala": "Uppsala"
-  "Södermanlands": "Södermanland"
-  "Östergötlands": "Östergötland"
-  "Jönköpings": "Jönköping"
-  "Kronobergs": "Kronoberg"
-  "Kalmar": "Kalmar"
-  #"Kalmar":  "Öland"
-  "Gotlands": "Gotland"
-  "Blekinge": "Blekinge"
-  "Skåne": "Skåne"
-  "Hallands": "Halland"
-  "Västra Götalands": "Västra Götaland"
-  #"Västra Götalands":  "Göteborg"
-  "Värmlands": "Värmland"
-  "Örebro": "Örebro"
-  "Västmanlands": "Västmanland"
-  "Dalarnas": "Dalarna"
-  "Gävleborgs": "Gävleborg"
-  "Västernorrlands": "Västernorrland"
-  "Jämtlands": "Jämtland"
-  "Västerbottens": "Västerbotten"
-  "Norrbottens": "Norrbotten"
+  "Bayern": "Bayern" # Add Bayern with itself
+  "Baden-Württemberg": "Baden-Württemberg" # Add Baden-Württemberg with itself
+  "Berlin": "Berlin"
+  "Brandenburg": "Brandenburg"
+  "Bremen": "Bremen"
+  "Hamburg": "Hamburg"
+  "Hessen": "Hessen"
+  "Mecklenburg-Vorpommern": "Mecklenburg-Vorpommern"
+  "Niedersachsen": "Niedersachsen"
+  "Nordrhein-Westfalen": "Nordrhein-Westfalen"
+  "Rheinland-Pfalz": "Rheinland-Pfalz"
+  "Saarland": "Saarland"
+  "Sachsen": "Sachsen"
+  "Sachsen-Anhalt": "Sachsen-Anhalt"
+  "Schleswig-Holstein": "Schleswig-Holstein"
+  "Thüringen": "Thüringen"
 
 category_label_text: "Rennenkategorie"
 category_mapping:
@@ -162,7 +156,11 @@ category_mapping:
     range: [10, 10]
   "5 km":
     range: [4, 6]
+  "5 km-Lauf":
+    range: [4, 6]
   "10 km":
+    range: [9, 11]
+  "10 km-Lauf":
     range: [9, 11]
   "Millopp":
     range: [9, 11]

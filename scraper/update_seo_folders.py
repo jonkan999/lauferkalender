@@ -4,7 +4,7 @@ import yaml
 from datetime import datetime
 
 def clean_filename(name):
-  name = name.replace('-', ' ').replace('/', '').replace('å', 'a').replace('ä', 'a').replace('ö', 'o').replace('Å', 'A').replace('Ä', 'A').replace('Ö', 'O').lower()
+  name = name.replace('-', ' ').replace('/', '').replace('å', 'a').replace('ä', 'a').replace('ö', 'o').replace('Å', 'A').replace('Ä', 'A').replace('Ö', 'O').replace('ß', 'ss').replace('ü', 'u').replace('Ü', 'U').lower()
   return '-'.join(name.split()).lower()
 
 # Read the general configuration file
@@ -54,7 +54,7 @@ for county, county_value in config["county_mapping"].items():
 
   # Generate sitemap string
   sitemap_string += f"<url>\n"
-  sitemap_string += f"  <loc>https://loppkartan.se/lan/{folder_name}/index.html</loc>\n"
+  sitemap_string += f"  <loc>https://lauferkalender.de/lan/{folder_name}/index.html</loc>\n"
   # Get the current date
   current_date = datetime.now().date()
 
@@ -90,7 +90,7 @@ for category, category_data in config["category_mapping"].items():
 
     # Generate sitemap string
     sitemap_string += f"<url>\n"
-    sitemap_string += f"  <loc>https://loppkartan.se/category/{folder_name}/index.html</loc>\n"
+    sitemap_string += f"  <loc>https://lauferkalender.de/category/{folder_name}/index.html</loc>\n"
 
     # Get the current date
     current_date = datetime.now().date()
@@ -155,7 +155,7 @@ for checkbox_config in config["checkbox_mapping"]:
     
         # Generate sitemap string
     sitemap_string += f"<url>\n"
-    sitemap_string += f"  <loc>https://loppkartan.se/category/{folder_name}/index.html</loc>\n"
+    sitemap_string += f"  <loc>https://lauferkalender.de/category/{folder_name}/index.html</loc>\n"
 
     # Get the current date
     current_date = datetime.now().date()

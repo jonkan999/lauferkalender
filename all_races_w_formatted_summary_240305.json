@@ -1,0 +1,42 @@
+[
+    {
+        "date": "20240401",
+        "type": "trail",
+        "name": "Night Trail Farsta",
+        "distance": "Night Trail Farsta",
+        "distance_m": [
+            6000,
+            11000
+        ],
+        "place": "Night Trail Farsta",
+        "latitude": 59.2444552,
+        "longitude": 18.0902987,
+        "organizer": "",
+        "website": "/race-pages/night-trail-farsta.html",
+        "src_url": "https://www.trailrunningsweden.se/trailkalendern/",
+        "id": "night-trail-farsta_20240401_httpswwwtrailrunningswedensetrailkalendern",
+        "summary": "I lördags arrangerade vi vår årliga terränglöpning med distanserna 6 km och 11 km. Deltagarna kom i alla åldrar och löparnivåer, och det var fantastiskt att se så många människor njuta av den vackra naturen. Vi är glada att främja hälsosam livsstil och ser fram emot att fortsätta arrangera dessa evenemang i framtiden! Tack till alla deltagare, volontärer och supportrar!",
+        "county": "Stockholms",
+        "website_organizer": "https://trailrunningsweden.se/events/farsta-night-trail-2022/"
+    },
+    {
+        "date": "20240407",
+        "type": "road",
+        "name": "Berlin Halbmarathon",
+        "distance": "Halbmarathon",
+        "distance_m": [
+            210975
+        ],
+        "place": "Berlin",
+        "latitude": 52.52000659999999,
+        "longitude": 13.404954,
+        "organizer": "",
+        "website": "/race-pages/berlin-halbmarathon.html",
+        "src_url": "https://www.generali-berliner-halbmarathon.de/",
+        "county": "Berlin",
+        "id": "test1234",
+        "summary": "Der GENERALI BERLINER HALBMARATHON ist ein aufregendes Laufevent, das jährlich in Berlin stattfindet. Die 21,01975 km lange Strecke führt an den bekanntesten Wahrzeichen vorbei und bietet ein unvergleichliches Lauferlebnis. Die Veranstaltung zieht etwa 34.000 Teilnehmer an, darunter Läuferinnen, Läufer, Rollstuhlfahrende, Handbiker und Inlineskater. Zudem bietet der Halbmarathon auch einen Ultramarathon auf der Straße an. Anmeldungen für 2024 sind für Läufer:innen leider ausgebucht, aber Startplätze bei Charity-Partnern und Reiseveranstaltern sind noch verfügbar. Interessierte Rollstuhlfahrende, Handbiker und Inlineskater können sich weiterhin anmelden.",
+        "website_organizer": "https://www.generali-berliner-halbmarathon.de/",
+        "new_version": true
+    }
+]

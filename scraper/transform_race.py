@@ -38,6 +38,8 @@ def transform_and_store_race(race, costometer, openai=True):
         print("got images:")
         print(image_url_list)
         images = [transform_module.convert_and_compress_image(img, max_size_kb=200) for img in image_url_list]
+        print("converted images")
+        #print(images)
         selected_images = [img for img in images if img is not None][:6]
         transform_module.add_or_update_object(race["name"], race["id"], selected_images, "images.json")
         print("done with images")
