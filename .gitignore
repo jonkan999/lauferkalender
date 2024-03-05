@@ -2,6 +2,7 @@ backend/config.py
 backend/config.json
 scraper/config.py
 scraper/configuration/keys.py
+__domain_starter/
 __domain_starter/configuration/keys.py
 temp/
 .env
