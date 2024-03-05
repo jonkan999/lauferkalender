@@ -28,19 +28,11 @@ map_button_text: "Karte"
 menu_button_text: "Menü"
 menu_items:
   - id: "navIndex"
-<<<<<<< HEAD
-    text: "Lauferkalender"
-    url: "/index.html"
-  - id: "navLopplistan"
-    text: "Lopplistan"
-    url: "/lopplistan.html"
-=======
     text: "Lauferkarte"
     url: "/index.html"
   - id: "navLopplistan"
     text: "Laufkalender"
     url: "/laufkalender.html"
->>>>>>> 080d5cdb2dacbe335bc75f8afc71a577165c2b6b
   - id: "navAbout"
     text: "Über lauferkalender.de"
     url: "/om-oss.html"

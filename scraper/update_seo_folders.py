@@ -37,7 +37,7 @@ for county, county_value in config["county_mapping"].items():
   os.makedirs(folder_path, exist_ok=True)
 
   # Copy lopplistan.html to index.html in the folder
-  shutil.copy2("../lopplistan.html", os.path.join(folder_path, "index.html"))
+  shutil.copy2("../laufkalender.html", os.path.join(folder_path, "index.html"))
 
   # Replace the field containing the county selector and add "selected"
   with open(os.path.join(folder_path, "index.html"), 'r+', encoding='utf-8') as file:
@@ -74,7 +74,7 @@ for category, category_data in config["category_mapping"].items():
     os.makedirs(folder_path, exist_ok=True)
 
     # Copy lopplistan.html to index.html in the folder
-    shutil.copy2("../lopplistan.html", os.path.join(folder_path, "index.html"))
+    shutil.copy2("../laufkalender.html", os.path.join(folder_path, "index.html"))
 
     # Replace the field containing the category selector and add "selected"
     with open(os.path.join(folder_path, "index.html"), 'r+', encoding='utf-8') as file:
@@ -115,7 +115,7 @@ for checkbox_config in config["checkbox_mapping"]:
     os.makedirs(folder_path, exist_ok=True)
 
     # Copy lopplistan.html to index.html in the folder
-    shutil.copy2("../lopplistan.html", os.path.join(folder_path, "index.html"))
+    shutil.copy2("../laufkalender.html", os.path.join(folder_path, "index.html"))
 
     # Replace the field containing the checkbox and add "active" or remove "active" accordingly
     with open(os.path.join(folder_path, "index.html"), 'r+', encoding='utf-8') as file:
