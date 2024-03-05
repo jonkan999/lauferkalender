@@ -1,0 +1,193 @@
+#Main site
+
+domain: "lauferkalender.de"
+google_analytics_id: "G-EJBRM67XCS"
+
+title: "Die umfassendste Liste und Kalender für Laufveranstaltungen und Rennen in Deutschland 2024"
+title_alternative: "Die Karte, die Deutschland dazu bringt, mehr Rennen zu laufen 2024" # This is used for map
+title_find: "Die umfassendste Liste und Kalender für Laufveranstaltungen und Rennen in Deutschland"
+seo_county_title: "Alle Rennen und Laufveranstaltungen in %s"
+seo_category_title: "Alle %s und andere Laufveranstaltungen in Deutschland. An einem Ort."
+seo_checkboxes_title: "Alle schwedischen Rennen und Laufveranstaltungen auf %s. An einem Ort."
+
+description: "Wir haben alle schwedischen Laufveranstaltungen in einer datumsbasierten Liste gesammelt. Finden Sie heute Ihr nächstes 10-km-Rennen, Halbmarathon, Marathon oder Ultramarathon bei uns."
+description_alternative: "Wir haben alle schwedischen Laufveranstaltungen auf einer interaktiven Karte gesammelt. Finden Sie heute Ihr nächstes 10-km-Rennen, Halbmarathon, Marathon oder Ultramarathon bei uns."
+seo_county_description: "Hier haben wir alle Rennen und Laufveranstaltungen in %s 2024 gesammelt. Finden Sie heute Ihr nächstes 10-km-Rennen, Halbmarathon, Marathon oder Ultramarathon bei uns."
+seo_category_description: "Hier haben wir alle %s und andere Laufveranstaltungen in Deutschland 2024 gesammelt. Finden Sie heute Ihr nächstes Rennen bei uns."
+seo_checkboxes_description: "Hier haben wir alle schwedischen Rennen und Laufveranstaltungen auf %s in Deutschland 2024 gesammelt. Finden Sie heute Ihr nächstes Rennen bei uns."
+
+promotion_text: "Unbezahlte Zusammenarbeit mit:"
+promotion_link:
+  url: "http://www.kungsholmenrunt.se/Main/Start.asp"
+  target: "_blank"
+promo_logo:
+  src: "/img/logokr_bluebg.jpg"
+  class: "promo-logo-box"
+list_button_text: "Liste"
+map_button_text: "Karte"
+menu_button_text: "Menü"
+menu_items:
+  - id: "navIndex"
+<<<<<<< HEAD
+    text: "Lauferkalender"
+    url: "/index.html"
+  - id: "navLopplistan"
+    text: "Lopplistan"
+    url: "/lopplistan.html"
+=======
+    text: "Lauferkarte"
+    url: "/index.html"
+  - id: "navLopplistan"
+    text: "Laufkalender"
+    url: "/laufkalender.html"
+>>>>>>> 080d5cdb2dacbe335bc75f8afc71a577165c2b6b
+  - id: "navAbout"
+    text: "Über lauferkalender.de"
+    url: "/om-oss.html"
+  - id: "navContact"
+    text: "Kontaktinformationen"
+    url: "/kontakt.html"
+  - id: "navAddRace"
+    text: "Rennen hinzufügen"
+    url: "/lagg-till-lopp.html"
+
+main_header: "Die umfassendste Laufkalender für Läufer in Deutschland"
+main_header_alternative: "Die umfassendste Laufkalender für Läufer in Deutschland"
+main_subheader: "Hier listen wir alle Rennen und Laufveranstaltungen in Deutschland für 2024 auf. Filtern Sie Ihr nächstes 10-km-Rennen, Halbmarathon oder Ultramarathon heraus."
+main_subheader_alternative: "Finden Sie Ihr nächstes Rennen! Wählen Sie die Strecke wie 10-km-Rennen oder Marathon und den Untergrund wie Trail oder Straße."
+
+days_filter_text: "Rennen zwischen: "
+distance_filter_text: "Strecke zwischen: "
+
+more_info_text: "Mehr Informationen"
+ending_header: "Fehlt Ihr Rennen auf der Karte? Fügen Sie es hier hinzu!"
+
+add_race_button:
+  id: "addRaceButton"
+  url: "/lagg-till-lopp.html"
+  class: "add-race-button border-style"
+  label: "Rennen hinzufügen"
+checkbox_mapping:
+  - container_id: "relayCheckboxContainer"
+    checkbox_id: "relayCheckbox"
+    check_icon_class: "check-icon-relay"
+    label_text: "Staffel"
+  - container_id: "backyardCheckboxContainer"
+    checkbox_id: "backyardCheckbox"
+    check_icon_class: "check-icon-backyard"
+    label_text: "Backyard"
+  - container_id: "terrainCheckboxContainer"
+    checkbox_id: "terrainCheckbox"
+    check_icon_class: "check-icon-terrain"
+    label_text: "Gelände"
+  - container_id: "trailCheckboxContainer"
+    checkbox_id: "trailCheckbox"
+    check_icon_class: "check-icon-trail"
+    label_text: "Trail"
+  - container_id: "roadCheckboxContainer"
+    checkbox_id: "roadCheckbox"
+    check_icon_class: "check-icon-road"
+    label_text: "Straße"
+  - container_id: "trackCheckboxContainer"
+    checkbox_id: "trackCheckbox"
+    check_icon_class: "check-icon-track"
+    label_text: "Laufbahn"
+
+month_mapping:
+  "01": "Januar"
+  "02": "Februar"
+  "03": "März"
+  "04": "April"
+  "05": "Mai"
+  "06": "Juni"
+  "07": "Juli"
+  "08": "August"
+  "09": "September"
+  "10": "Oktober"
+  "11": "November"
+  "12": "Dezember"
+
+month_mapping_short:
+  "01": "Jan."
+  "02": "Feb."
+  "03": "März"
+  "04": "Apr."
+  "05": "Mai"
+  "06": "Juni"
+  "07": "Juli"
+  "08": "Aug."
+  "09": "Sep."
+  "10": "Okt."
+  "11": "Nov."
+  "12": "Dez."
+
+distance_mapping:
+  backyard: Backyard Ultra
+  time: Zeitrennen
+  relay: Staffel
+
+distance_units:
+  - range: [20.9, 21.3]
+    label: Halbmarathon
+  - range: [41.9, 42.4]
+    label: Marathon
+
+county_label_text: "Alle Länder"
+county_mapping:
+  "Stockholms": "Stockholm"
+  "Uppsala": "Uppsala"
+  "Södermanlands": "Södermanland"
+  "Östergötlands": "Östergötland"
+  "Jönköpings": "Jönköping"
+  "Kronobergs": "Kronoberg"
+  "Kalmar": "Kalmar"
+  #"Kalmar":  "Öland"
+  "Gotlands": "Gotland"
+  "Blekinge": "Blekinge"
+  "Skåne": "Skåne"
+  "Hallands": "Halland"
+  "Västra Götalands": "Västra Götaland"
+  #"Västra Götalands":  "Göteborg"
+  "Värmlands": "Värmland"
+  "Örebro": "Örebro"
+  "Västmanlands": "Västmanland"
+  "Dalarnas": "Dalarna"
+  "Gävleborgs": "Gävleborg"
+  "Västernorrlands": "Västernorrland"
+  "Jämtlands": "Jämtland"
+  "Västerbottens": "Västerbotten"
+  "Norrbottens": "Norrbotten"
+
+category_label_text: "Rennenkategorie"
+category_mapping:
+  "1500 meter":
+    range: [1.5, 1.5]
+  "3000 meter":
+    range: [3, 3]
+  "5000 meter":
+    range: [5, 5]
+  "10000 meter":
+    range: [10, 10]
+  "5 km":
+    range: [4, 6]
+  "10 km":
+    range: [9, 11]
+  "Millopp":
+    range: [9, 11]
+  "Halbmarathon":
+    range: [20, 22]
+  "Marathon":
+    range: [40, 44]
+  "Backyard Ultra": "backyard"
+  "Ultra Marathon":
+    range: [42, 500]
+  "50 miles":
+    range: [75, 100]
+  "100 miles":
+    range: [150, 170]
+  "200 miles":
+    range: [300, 500]
+  "50 km":
+    range: [45, 55]
+  "100 km":
+    range: [90, 110]

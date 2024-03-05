@@ -1,0 +1,11 @@
+# submission success PAGE CONTENT
+submission_success_name: "submission-success"
+title: "Vielen Dank für Ihren Beitrag!"
+description: "Vielen Dank für Ihren Beitrag! Wir werden Ihr Rennen überprüfen und es so schnell wie möglich veröffentlichen."
+
+# submission success PAGE
+# SUBMISSION SUCCESS PAGE
+submission_header: "Vielen Dank für Ihren Beitrag! Alle Ergänzungen müssen überprüft werden, aber wir überprüfen kontinuierlich die Rennen, die wir erhalten, und werden sie bald veröffentlichen."
+back_to_map_box_header: "Gehen Sie gerne zurück zu unserer Rennkarte und schauen Sie sich in der Zwischenzeit alle anderen Rennen an:"
+map_button_text: "KARTE"
+list_button_text: "LISTE"

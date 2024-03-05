@@ -1,0 +1,29 @@
+# KONTAKTSEITE INHALT
+contact_name: "kontakt"
+title: "Kontaktieren Sie uns auf lauferkalender.de"
+description: "Kontaktieren Sie uns auf lauferkalender.de, wenn Sie Fragen oder Anregungen zum Inhalt eines Rennens haben."
+main_header: "Kontaktinformationen"
+secondary_header1: "Die Personen hinter der Rennkarte"
+paragraph1: |
+  Diese Website wurde aus Frustration darüber erstellt, dass es keine
+  vollständige Quelle gibt, um neue Laufveranstaltungen zu finden. Wir,
+  die Betreiber der Seite, sind selbst aktive Läufer und nehmen regelmäßig
+  an Rennen teil. Die Seite ist ein Hobbyprojekt und wird ausschließlich
+  aus Leidenschaft und Funktionärsbrötchen finanziert. Wir freuen uns über
+  Feedback, wie wir das Benutzererlebnis verbessern können, oder wenn Sie
+  Anregungen zum Inhalt eines Rennens haben. Sie können uns gerne kontaktieren unter:
+mail_to_link: "loppkartan@gmail.com"
+secondary_header2: "Fehlende Rennen hinzufügen"
+paragraph2: |
+  Wenn Sie die Liste bereits gründlich durchgesehen haben und das Gefühl haben,
+  dass ein Rennen fehlt, folgen Sie bitte dem unten stehenden Link zu unserem
+  Veranstalterformular und füllen Sie die Informationen aus, damit wir das Rennen
+  so schnell wie möglich hinzufügen können. Dies ist auch für Nicht-Veranstalter
+  und interessierte Personen möglich, die der Meinung sind, dass uns etwas fehlt.
+  Der Link lautet:
+add_race_link: "/rennen-hinzufuegen.html"
+add_race_link_text: "Rennen hinzufügen"
+
+add_new_race_box_header: "Genug über uns, finden Sie Ihr nächstes Rennen mit Hilfe der Karte oder der Liste unten:"
+map_button_text: "KARTE"
+list_button_text: "LISTE"
