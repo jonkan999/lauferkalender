@@ -19,7 +19,7 @@ icons: ["analytics", "shapes", "navigate-circle", "calendar-clear"]
 
 # Components
 map: True
-mapbox_center: "18.027053, 59.32547"
+mapbox_center: "10.505557, 51.278809"
 calendar: False
 
 # Additional labels
