@@ -62,5 +62,5 @@ def find_county(lat, lon):
 
 if __name__ == "__main__":
     #read_dpf()
-    print(find_county(51.378809, 10.505557))
+    print(find_county(53.20341269999999, 7.237635000000001))
     #print(find_county(60.346972, 15.748689))

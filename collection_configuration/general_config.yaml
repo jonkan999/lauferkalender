@@ -46,6 +46,7 @@ menu_items:
 
 main_header: "Die umfassendste Laufkalender für Läufer in Deutschland"
 main_header_alternative: "Die umfassendste Laufkalender für Läufer in Deutschland"
+seo_county_main_header: "Deutschlands umfassendster Laufkalender für Rennen in %s"
 main_subheader: "Hier listen wir alle Rennen und Laufveranstaltungen in Deutschland für 2024 auf. Filtern Sie Ihr nächstes 10-km-Rennen, Halbmarathon oder Ultramarathon heraus."
 main_subheader_alternative: "Finden Sie Ihr nächstes Rennen! Wählen Sie die Strecke wie 10-km-Rennen oder Marathon und den Untergrund wie Trail oder Straße."
 

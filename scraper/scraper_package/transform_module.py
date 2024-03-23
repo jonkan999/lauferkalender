@@ -8,6 +8,9 @@ import io
 import base64
 from urllib.parse import urlparse, urlunparse
 from openai import OpenAI
+import geopandas as gpd
+from shapely.geometry import Point
+from sweref99 import projections
 from requests.exceptions import Timeout
 from urllib.parse import unquote
 import time
@@ -20,11 +23,10 @@ from selenium.webdriver.support import expected_conditions as EC
 import re
 import random
 from json.decoder import JSONDecodeError
-import geopandas as gpd
-from shapely.geometry import Point
-import pandas as pd
 import pyproj
+from googleapiclient.discovery import build
 
+# Load the GeoJSON file
 gdf = gpd.read_file('counties/bundesland.geojson')
 
 def remove_duplicate_words_in_string(string):
@@ -121,7 +123,7 @@ def find_county(lat, lon):
                 if row['geometry'].contains(new_point_transformed):
                     return row['NAME_1']
 
-    # If the point is not inside any polygon, return None
+    # If no mapping is found after all adjustments, return None
     return None
 
 def import_json(json_file):
@@ -179,6 +181,7 @@ def check_allowed_url_get_goog(disallowed_urls, query):
 
     try:
         # Using the googlesearch library to perform a search and get the results
+        print(f"Searching for '{query}'")
         results_generator = search(query, num_results=5)
         # Convert the generator to a list
         urls = list(results_generator)
@@ -238,7 +241,35 @@ def check_allowed_url_get_bing(disallowed_urls, query):
     print("No suitable URL found.")
     return None
 
-def check_allowed_url(url, query):
+def check_allowed_url_get_custom_goog(query, api_key, cx, lr):
+
+    try:
+        # Using the get_bing_search_results function to perform a Bing search and get the results
+        results = google_custom_search(query, api_key, cx, lr)
+        print(f"Found {len(results)} search results.")
+
+        # Filter out URLs that start with specified prefixes
+        filtered_urls = [result for result in results if not result.startswith(tuple(disallowed_urls))]
+
+        if filtered_urls:
+            # Return the first URL that doesn't start with specified prefixes
+            return filtered_urls[0]
+        else:
+            print("No suitable URL found.")
+            return None
+
+    except requests.exceptions.HTTPError as e:
+        if "429" in str(e):
+            print(f"Received 429 error. Waiting before retrying...")
+        else:
+            print(f"An HTTP error occurred while searching: {e}")
+    except Exception as e:
+        print(f"An error occurred while searching: {e}")
+
+    print("No suitable URL found.")
+    return None
+
+def check_allowed_url(url, query, goog_access_token, cse_cx, lr):
     disallowed_urls = {
         "https://www.lopplistan.se",
         "https://www.trailrunningsweden.se",
@@ -253,7 +284,12 @@ def check_allowed_url(url, query):
         "https://www.kondis.no",
         "https://www.sidespor.no",
         "https://www.friidrett.no/",
-        "https://terminlista.kondis.no/"
+        "https://terminlista.kondis.no/",
+        "https://live.eqtiming.com/",
+        "https://www.sportsidioten.no/",
+        "https://www.runme.de",
+        "https://www.laufen.de"
+
     }
 
     if not url.startswith(tuple(disallowed_urls)) and url != "":
@@ -271,10 +307,15 @@ def check_allowed_url(url, query):
         bing_result = check_allowed_url_get_bing(disallowed_urls, query)
         if bing_result:
             return bing_result
+        
+        # If Bing search fails, try custom google search
+        custom_google_result = check_allowed_url_get_custom_goog(query, api_key=goog_access_token, cx=cse_cx, lr = lr)
+        if custom_google_result:
+            return custom_google_result
 
         # If both searches fail, pause for 30 seconds and try Google search once more
         if _ <= number_of_retries - 1:
-            print("Both Google and Bing searches failed. Waiting for 30 seconds before retrying...")
+            print("Both Google, google custom and Bing searches failed. Waiting for 30 seconds before retrying...")
             time.sleep(30)
 
     return None
@@ -309,6 +350,27 @@ def get_bing_search_results(query):
             return hrefs
 
     except requests.exceptions.RequestException as e:
+        print(f"An error occurred during the request: {e}")
+
+    return None
+
+def google_custom_search(query, api_key, cx, lr, num_results=5):
+    try:
+        # Create a service object for interacting with the Custom Search API
+        service = build("customsearch", "v1", developerKey=api_key)
+
+        # Execute the search request
+        response = service.cse().list(
+            q=query, cx=cx, num=num_results, start=1, lr=lr
+        ).execute()
+
+        # Extract the URLs from the search response
+        search_results = response.get("items", [])
+        urls = [result.get("link") for result in search_results]
+
+        return urls
+
+    except Exception as e:
         print(f"An error occurred during the request: {e}")
 
     return None

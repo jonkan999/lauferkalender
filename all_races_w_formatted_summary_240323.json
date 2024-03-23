@@ -1,0 +1,742 @@
+[
+    {
+        "date": "20240323",
+        "type": "trail",
+        "name": "Meulenwald-Föhren-Lauf (ehemals Bendersbachtallauf)",
+        "distance": "10 km",
+        "distance_m": [
+            10000
+        ],
+        "place": "54343 Föhren, DE  ",
+        "latitude": 49.8588045,
+        "longitude": 6.7656678,
+        "organizer": "",
+        "website": "/race-pages/meulenwald-fohren-lauf-(ehemals-bendersbachtallauf).html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Rheinland-Pfalz",
+        "id": "meulenwald-föhren-lauf-ehemals-bendersbachtallauf_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Willkommen beim LG Meulenwald Föhren Trail Race! Unser atemberaubendes 10 km Trail-Rennen führt durch die wunderschönen Wälder und Landschaften der Region. Egal ob erfahrener Trailrunner oder Gesundheitsbewusster Läufer, bei uns ist jeder willkommen. Nehmen Sie teil, genießen Sie die Natur und lernen Sie Gleichgesinnte kennen. Seien Sie dabei und erleben Sie die einzigartige Atmosphäre unseres Laufevents! Wir freuen uns auf Sie!",
+        "website_organizer": "http://www.lg-meulenwald-foehren.de/",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "road",
+        "name": "AOK Winterlaufserie des ASV Duisburg",
+        "distance": "10 km",
+        "distance_m": [
+            10000
+        ],
+        "place": "47058 Duisburg, Nordrhein",
+        "latitude": 51.4392709,
+        "longitude": 6.795755199999999,
+        "organizer": "",
+        "website": "/race-pages/aok-winterlaufserie-des-asv-duisburg.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Nordrhein-Westfalen",
+        "id": "aok-winterlaufserie-des-asv-duisburg_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer, \n\ndie Winterlaufserie des ASV Duisburg steht vor der Tür! Neben verschiedenen Rennen bietet sie auch eine 10 km Strecke auf der Straße. Egal ob Anfänger oder erfahrener Läufer, jeder ist herzlich eingeladen, an diesem spannenden Laufevent teilzunehmen. Die Streckenführung ist für alle Laufniveaus geeignet und verspricht eine spannende Herausforderung. Wir freuen uns auf eure Teilnahme!",
+        "website_organizer": "https://www.asv-winterlaufserie.de/ausschreibung/",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "road",
+        "name": "Ems-Dollart-Winterlaufserie",
+        "distance": "5 km-W",
+        "distance_m": [
+            5000
+        ],
+        "place": "26831 Bunde, Niedersachsen  ",
+        "latitude": 53.20341269999999,
+        "longitude": 7.237635000000001,
+        "organizer": "",
+        "website": "/race-pages/ems-dollart-winterlaufserie.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Niedersachsen",
+        "id": "ems-dollart-winterlaufserie_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Kommt und macht mit bei unserem Laufevent 2024! Egal ob Anfänger oder erfahrener Läufer, bei uns ist für jeden etwas dabei. Unser 5-km-Straßenrennen bietet eine tolle Gelegenheit neue Bestzeiten aufzustellen und Gleichgesinnte kennenzulernen. Von Kindern bis Senioren, alle Altersgruppen sind herzlich willkommen in unserer freundlichen und unterstützenden Atmosphäre. Wir freuen uns darauf, euch an der Startlinie zu begrüßen!",
+        "website_organizer": "https://www.tv-bunde.de/seite/539359/laufkalender-2023.html",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "trail",
+        "name": "Ibbenbürener Klippenlauf",
+        "distance": "12,4 km, 25,4 km",
+        "distance_m": [
+            12000,
+            25000
+        ],
+        "place": "49477 Ibbenbüren, DE  ",
+        "latitude": 52.2750008,
+        "longitude": 7.7099696,
+        "organizer": "",
+        "website": "/race-pages/ibbenburener-klippenlauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Nordrhein-Westfalen",
+        "id": "ibbenbürener-klippenlauf_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer,\n\nwillkommen zum Ibbenbürener Klippenlauf - dem ultimativen Trail-Erlebnis! Dieser Landschaftslauf bietet zwei herausfordernde Streckenlängen: 12 km und 25 km, eingebettet in die atemberaubende Natur der Ibbenbürener Klippen. Neben steilen Anstiegen erwarten euch gut ausgestattete Verpflegungsstationen, professionelle Zeitmessung und ein unvergleichliches Gemeinschaftsgefühl. Seid dabei und erlebt einen unvergesslichen Tag!\n\nSportliche Grüße,\nEuer Klippenlauf-Team",
+        "website_organizer": "http://www.ibbenbuerener-klippenlauf.de/event/",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "trail",
+        "name": "Engelberglauf",
+        "distance": "6,5 km, 8 km",
+        "distance_m": [
+            5000,
+            5000,
+            6000,
+            8000
+        ],
+        "place": "63920 Großheubach, DE  ",
+        "latitude": 49.7246335,
+        "longitude": 9.229786299999999,
+        "organizer": "",
+        "website": "/race-pages/engelberglauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Bayern",
+        "id": "engelberglauf_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Die Bayerische Sportjugend Kreis 2 Miltenberg veranstaltet ein aufregendes Trailrennen mit Distanzen von 5 km, 5 km, 6 km und 8 km. Läufer aller Leistungsniveaus sind willkommen, um die herausfordernden Strecken durch malerische Landschaften zu erleben. Es ist eine großartige Gelegenheit, die örtlichen Trails zu entdecken und sich mit anderen zu messen. Freuen Sie sich auf ein abwechslungsreiches und anspruchsvolles Trailrennen inmitten der Natur!",
+        "website_organizer": "https://www.engelberglauf.de/ausschreibung/",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "road",
+        "name": "Springe-Deister-Marathon",
+        "distance": "5 km",
+        "distance_m": [
+            5000
+        ],
+        "place": "31832 Springe, Niedersachsen  ",
+        "latitude": 52.2048941,
+        "longitude": 9.6049895,
+        "organizer": "",
+        "website": "/race-pages/springe-deister-marathon.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Niedersachsen",
+        "id": "springe-deister-marathon_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer,\n\nnehmen Sie am nächsten Springe-Deister-Marathon teil! Er bietet verschiedene Kategorien und Streckenlängen an, darunter die beliebte 5 km-Strecke. Der Marathon führt entlang der Straßen und bietet atemberaubende Ausblicke. Egal, ob erfahren oder Anfänger, es ist für jeden etwas dabei. Unterstützen Sie die Gemeinschaft und haben Sie Spaß an Bewegung im Freien. Schnüren Sie Ihre Laufschuhe und seien Sie dabei! Wir freuen uns auf Sie!\n\nBis bald!",
+        "website_organizer": "http://springe-deister-marathon.com/",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "trail",
+        "name": "Braveheart Battle",
+        "distance": "10 km-Hindernis",
+        "distance_m": [
+            10000
+        ],
+        "place": "97653 Bischofsheim a.d. Rhön, DE  ",
+        "latitude": 50.4057912,
+        "longitude": 9.9917781,
+        "organizer": "",
+        "website": "/race-pages/braveheart-battle.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Bayern",
+        "id": "braveheart-battle_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Seid dabei bei der Braveheart Battle, einer Herausforderung, die dich an deine Grenzen bringen wird! Mit verschiedenen Kategorien und Distanzen, einschließlich eines anspruchsvollen 10 km langen Trail-Laufs, ist für Läufer aller Levels etwas dabei. Das Gelände ist herausfordernd, aber die atemberaubende Kulisse und die gemeinsame Erfahrung machen dieses Ereignis unvergesslich. Beweist euren Mut und überwindet Hindernisse bei der Braveheart Battle!",
+        "website_organizer": "http://www.braveheartbattle.de/",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "trail",
+        "name": "Essinger Panoramaläufe",
+        "distance": "6,5 km, 11 km",
+        "distance_m": [
+            5000,
+            6000,
+            11000
+        ],
+        "place": "73457 Essingen, DE  ",
+        "latitude": 48.79648599999999,
+        "longitude": 10.0311214,
+        "organizer": "",
+        "website": "/race-pages/essinger-panoramalaufe.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Baden-Württemberg",
+        "id": "essinger-panoramaläufe_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Laufbegeisterte,\nsichern Sie sich jetzt die reduzierten Anmeldegebühren für die Essinger Panoramaläufe am Samstag, den 29. März 2025. Seien Sie Teil dieses großartigen Laufevents und wählen Sie zwischen den Strecken von 5 km, 6 km oder 11 km, die durch herrliche Landschaften führen. Melden Sie sich jetzt an und erleben Sie eine abenteuerliche und anspruchsvolle Laufveranstaltung! Wir freuen uns darauf, Sie an der Startlinie zu sehen!",
+        "website_organizer": "https://lac-essingen.de/panoramalauf/",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "road",
+        "name": "Kellmünzer Frühjahrsstraßenlauf",
+        "distance": "2,4 km, 10 km",
+        "distance_m": [
+            2000,
+            10000
+        ],
+        "place": "89281 Kellmünz, Bayern  ",
+        "latitude": 48.1598956,
+        "longitude": 10.1140711,
+        "organizer": "",
+        "website": "/race-pages/kellmunzer-fruhjahrsstrassenlauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Bayern",
+        "id": "kellmünzer-frühjahrsstraßenlauf_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer, seid bereit für den jährlichen Laufwettbewerb auf den Straßen von Berlin! Mit verschiedenen Streckenlängen, darunter ein 2 km-Lauf für Kinder und ein 10 km-Lauf für erfahrene Läufer, ist dieser Wettbewerb für alle Niveaus geeignet. Genießt die Stadt Berlin und verbindet euch mit anderen Laufbegeisterten bei diesem spannenden Rennen. Lasst euch die Live-Unterhaltung, Verpflegungsstände und Familienaktivitäten nicht entgehen! Seid dabei und zeigt, was ihr drauf habt!",
+        "website_organizer": "http://lg-illerschwaben.info/lauf-2014/",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "road",
+        "name": "Kaisersteinlauf",
+        "distance": "6,5 km-W/NW, 6,5 km, 11,3 km-W/NW, 11,3 km",
+        "distance_m": [
+            6000,
+            6000,
+            11000,
+            11000
+        ],
+        "place": "39638 Letzlingen, Sachsen",
+        "latitude": 52.4465493,
+        "longitude": 11.4862361,
+        "organizer": "",
+        "website": "/race-pages/kaisersteinlauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Sachsen-Anhalt",
+        "id": "kaisersteinlauf_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer, am 23. März 2024 findet der 32. Kaisersteinlauf in Letzlingen statt! Erleben Sie eine malerische Strecke auf asphaltierten Straßen und genießen Sie atemberaubende Ausblicke auf die Landschaft. Wir bieten Streckenlängen von 6 km und 11 km für Läufer jeden Levels. Musik und Stimmung entlang der Strecke sorgen für eine tolle Atmosphäre. Seien Sie dabei und verschieben Sie Ihre Grenzen beim 32. Kaisersteinlauf!",
+        "website_organizer": "https://my.raceresult.com/268443/registration",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "road",
+        "name": "Lauf Am Gallun",
+        "distance": "5 km-NW",
+        "distance_m": [
+            5000
+        ],
+        "place": "06886 Lutherstadt Wittenberg, Sachsen",
+        "latitude": 51.86693959999999,
+        "longitude": 12.5926233,
+        "organizer": "",
+        "website": "/race-pages/lauf-am-gallun.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Sachsen-Anhalt",
+        "id": "lauf-am-gallun_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Komm und nimm am Fläminglauf teil, einem atemberaubenden Landschaftslauf mit verschiedenen Streckenlängen und Schwierigkeitsgraden. Erlebe die malerische Landschaft und messe dich auf der 5 km langen Straßenstrecke mit anderen Läufern. Eine einzigartige Gelegenheit, deine persönliche Bestzeit zu erreichen und die Schönheit der Region zu genießen!",
+        "website_organizer": "http://xn--flminglauf-r5a.de/",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "road",
+        "name": "Frühlingslauf",
+        "distance": "6 km",
+        "distance_m": [
+            6000
+        ],
+        "place": "14974 Ludwigsfelde, Brandenburg (Bundesland)  ",
+        "latitude": 52.2780825,
+        "longitude": 13.2569144,
+        "organizer": "",
+        "website": "/race-pages/fruhlingslauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Brandenburg",
+        "id": "frühlingslauf_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer,\n\nHerzlich willkommen zum Ludwigsfelder Leichtathletik-Rennen! Unser renommiertes Rennen bietet Strecken von 6 km und findet auf der Straße statt. Von Kindern ab 4 Jahren bis hin zu Jugendlichen ab 14 Jahren ist für jeden etwas dabei. Wir freuen uns auf einen tollen Tag voller sportlicher Leistungen und Gemeinschaftsgeist.\n\nMit sportlichen Grüßen,\nDas Ludwigsfelder Leichtathleten e.V. Team",
+        "website_organizer": "https://www.llv-ludwigsfelde.de/blog",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "road",
+        "name": "Schnee­glöck­chen Lauf",
+        "distance": "6 km-W",
+        "distance_m": [
+            6000
+        ],
+        "place": "01990 Ortrand, Brandenburg (Bundesland)  ",
+        "latitude": 51.3779309,
+        "longitude": 13.7575979,
+        "organizer": "",
+        "website": "/race-pages/schnee­glock­chen-lauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Brandenburg",
+        "id": "schneeglöckchen-lauf_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer, wir freuen uns, unseren jährlichen Schneeglöckchen-Lauf ankündigen zu können! Dieses Jahr haben wir bereits 3.941 € für wohltätige Zwecke gesammelt und freuen uns auf eine weitere erfolgreiche Veranstaltung. Der Lauf bietet verschiedene Kategorien: Laufen, Walken, Wandern und Radeln. Die Strecke beträgt 6 km und führt entlang einer malerischen Straße. Egal, ob Sie ein erfahrener Läufer oder ein Gelegenheitssportler sind, bei diesem Lauf ist für jeden etwas dabei. Wir freuen uns auf Ihre Teilnahme und einen sportlichen und spaßigen Tag! Anmeldeschluss war am 17. März 2024.",
+        "website_organizer": "https://schneeglocke.de/ortrand/",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "road",
+        "name": "XLIII. Internationaler 100km-Lauf bzw. Störitzsee-Lauf",
+        "distance": "12 Std., 5 km",
+        "distance_m": [
+            5000
+        ],
+        "place": "15537 Grünheide/OT Störitz, Brandenburg (Bundesland)  ",
+        "latitude": 52.3868474,
+        "longitude": 13.8474194,
+        "organizer": "",
+        "website": "/race-pages/xliii.-internationaler-100km-lauf-bzw.-storitzsee-lauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Brandenburg",
+        "id": "xliii-internationaler-100km-lauf-bzw-störitzsee-lauf_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Der XLIII. Internationale 100km-Lauf bzw. 9. Störitzsee-Lauf findet am 23.03.2024 in Grünheide/OT Störitz statt. Die Laufveranstaltung umfasst verschiedene Rennkategorien und Streckenlängen, darunter auch ein 5-km-Rennen auf der Straße. Teilnehmer aus aller Welt können die wunderschöne Umgebung des Störitzsees genießen und sich einer gut organisierten Veranstaltung und herrlichen Laufstrecke anschließen.",
+        "website_organizer": "https://my.raceresult.com/272527/registration",
+        "new_version": true
+    },
+    {
+        "date": "20240323",
+        "type": "road",
+        "name": "Branitzer Parklauf",
+        "distance": "5 km-Laufen & Walking",
+        "distance_m": [
+            5000,
+            5000
+        ],
+        "place": "03012 Branitz, DE",
+        "latitude": 51.74715560000001,
+        "longitude": 14.3814148,
+        "organizer": "",
+        "website": "/race-pages/branitzer-parklauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Brandenburg",
+        "id": "branitzer-parklauf_20240323_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läufer und Laufbegeisterte,\n\nplant euch bereits jetzt für den 33. Pfannkuchenlauf am 10. Februar 2024 ein! Der von Cottbuser Parkläufer e.V. organisierte Lauf bietet Strecken von 5 km und 10 km entlang von Straßen an. Egal ob Profi oder Anfänger, jeder ist herzlich eingeladen, sich anzumelden und an diesem tollen Event teilzunehmen. Schnappt euch eure Laufschuhe und seid dabei!",
+        "website_organizer": "http://www.cpl-ev.de/html/veranstaltungen.htm",
+        "new_version": true
+    },
+    {
+        "date": "20240324",
+        "type": "trail",
+        "name": "Pfälzer Bergland-Trail",
+        "distance": "45 km",
+        "distance_m": [
+            45000
+        ],
+        "place": "67752 Wolfstein, DE  ",
+        "latitude": 49.58340949999999,
+        "longitude": 7.6117525,
+        "organizer": "",
+        "website": "/race-pages/pfalzer-bergland-trail.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Rheinland-Pfalz",
+        "id": "pfälzer-bergland-trail_20240324_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer, herzlich willkommen zum jährlichen Trail Ultramarathon! Dieses Jahr bieten wir atemberaubende Strecken von 50 km, 75 km und 100 km an. Erleben Sie felsige Pfade, steile Anstiege und atemberaubende Abfahrten inmitten einer malerischen Landschaft. Egal ob Anfänger oder erfahrener Läufer, hier findet jeder seine Laufherausforderung. Seien Sie Teil dieses unvergesslichen Trail Ultramarathons und erleben Sie ein unvergessliches Laufabenteuer.",
+        "website_organizer": "http://pfaelzer-berglandtrail.de/2020/Ausschreibung/",
+        "new_version": true
+    },
+    {
+        "date": "20240324",
+        "type": "trail",
+        "name": "Rodenbacher Trailrun",
+        "distance": "5 km-Trailrun",
+        "distance_m": [
+            5000
+        ],
+        "place": "67688 Rodenbach, DE  ",
+        "latitude": 49.4732137,
+        "longitude": 7.6561381,
+        "organizer": "",
+        "website": "/race-pages/rodenbacher-trailrun.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Rheinland-Pfalz",
+        "id": "rodenbacher-trailrun_20240324_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer, seid herzlich willkommen zum 10. Trail Run Rodenbach! Nehmt an diesem aufregenden Rennen teil, das durch die malerische Landschaft von Rodenbach führt. Die 5 km lange Strecke bietet eine Herausforderung für alle, vom Anfänger bis zum erfahrenen Trail-Läufer. Kommt und erlebt die Natur in ihrer besten Form! Wir freuen uns auf euch am 24. März 2024 von 10:00 bis 14:00 Uhr. Bis bald!",
+        "website_organizer": "http://www.tv-rodenbach.de/?event=trail-run",
+        "new_version": true
+    },
+    {
+        "date": "20240330",
+        "type": "trail",
+        "name": "Oster-Ilsetallauf",
+        "distance": "8,7 km, 16,5 km",
+        "distance_m": [
+            8000,
+            16000
+        ],
+        "place": "38871 Ilsenburg, DE  ",
+        "latitude": 51.8677998,
+        "longitude": 10.6848786,
+        "organizer": "",
+        "website": "/race-pages/oster-ilsetallauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Sachsen-Anhalt",
+        "id": "oster-ilsetallauf_20240330_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer, der Oster- und Brockenlauf ist perfekt für alle Trailrunning-Enthusiasten! Mit atemberaubenden Aussichten und herausfordernden Strecken bieten wir zwei Hauptdistanzen: 8 km und 16 km. Nehmen Sie an diesem aufregenden Rennen teil und erleben Sie die einzigartige Landschaft des Brocken auf einer unvergesslichen Strecke. Fordern Sie sich heraus und genießen Sie das Gefühl der Erfüllung!",
+        "website_organizer": "https://brockenlauf.de/osterlauf/",
+        "new_version": true
+    },
+    {
+        "date": "20240331",
+        "type": "trail",
+        "name": "Trainingslauf zum Bottwartalmarathon",
+        "distance": "15 km",
+        "distance_m": [
+            15000
+        ],
+        "place": "71711 Steinheim/Murr, DE  ",
+        "latitude": 48.9766237,
+        "longitude": 9.280336499999999,
+        "organizer": "",
+        "website": "/race-pages/trainingslauf-zum-bottwartalmarathon.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Baden-Württemberg",
+        "id": "trainingslauf-zum-bottwartalmarathon_20240331_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer,\n\nwir präsentieren unser Trainingsangebot für den Bottwartal-Marathon. Unsere spektakuläre Strecke durch das malerische Bottwartal ist perfekt für alle Laufbegeisterten. In diesem Jahr bieten wir eine Vielzahl an Rennkategorien an, darunter auch die 15 km Trail-Strecke. Halten Sie sich mit unserem News-Ticker auf dem Laufenden und seien Sie bestens vorbereitet. Egal ob erfahrener Trailrunner oder Einsteiger, unser Rennen hat für jeden etwas zu bieten. Wir freuen uns darauf, Sie an der Startlinie zu begrüßen und wünschen Ihnen viel Erfolg beim Training. Keep on running!",
+        "website_organizer": "https://www.bottwartal-marathon.de/seite/390772/trainingsangebot.html",
+        "new_version": true
+    },
+    {
+        "date": "20240401",
+        "type": "trail",
+        "name": "Night Trail Farsta",
+        "distance": "Night Trail Farsta",
+        "distance_m": [
+            6000,
+            11000
+        ],
+        "place": "Night Trail Farsta",
+        "latitude": 59.2444552,
+        "longitude": 18.0902987,
+        "organizer": "",
+        "website": "/race-pages/night-trail-farsta.html",
+        "src_url": "https://www.trailrunningsweden.se/trailkalendern/",
+        "id": "night-trail-farsta_20240401_httpswwwtrailrunningswedensetrailkalendern",
+        "summary": "I lördags arrangerade vi vår årliga terränglöpning med distanserna 6 km och 11 km. Deltagarna kom i alla åldrar och löparnivåer, och det var fantastiskt att se så många människor njuta av den vackra naturen. Vi är glada att främja hälsosam livsstil och ser fram emot att fortsätta arrangera dessa evenemang i framtiden! Tack till alla deltagare, volontärer och supportrar!",
+        "county": "Stockholms",
+        "website_organizer": "https://trailrunningsweden.se/events/farsta-night-trail-2022/"
+    },
+    {
+        "date": "20240407",
+        "type": "road",
+        "name": "Berlin Halbmarathon",
+        "distance": "Halbmarathon",
+        "distance_m": [
+            210975
+        ],
+        "place": "Berlin",
+        "latitude": 52.52000659999999,
+        "longitude": 13.404954,
+        "organizer": "",
+        "website": "/race-pages/berlin-halbmarathon.html",
+        "src_url": "https://www.generali-berliner-halbmarathon.de/",
+        "county": "Berlin",
+        "id": "test1234",
+        "summary": "Der GENERALI BERLINER HALBMARATHON ist ein aufregendes Laufevent, das jährlich in Berlin stattfindet. Die 21,01975 km lange Strecke führt an den bekanntesten Wahrzeichen vorbei und bietet ein unvergleichliches Lauferlebnis. Die Veranstaltung zieht etwa 34.000 Teilnehmer an, darunter Läuferinnen, Läufer, Rollstuhlfahrende, Handbiker und Inlineskater. Zudem bietet der Halbmarathon auch einen Ultramarathon auf der Straße an. Anmeldungen für 2024 sind für Läufer:innen leider ausgebucht, aber Startplätze bei Charity-Partnern und Reiseveranstaltern sind noch verfügbar. Interessierte Rollstuhlfahrende, Handbiker und Inlineskater können sich weiterhin anmelden.",
+        "website_organizer": "https://www.generali-berliner-halbmarathon.de/",
+        "new_version": true
+    },
+    {
+        "date": "20240412",
+        "type": "trail",
+        "name": "Pusacker Berglauf",
+        "distance": "6 km",
+        "distance_m": [
+            6000
+        ],
+        "place": "03159 Pusack, DE  ",
+        "latitude": 51.589381,
+        "longitude": 14.732628,
+        "organizer": "",
+        "website": "/race-pages/pusacker-berglauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Sachsen",
+        "id": "pusacker-berglauf_20240412_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Der Pusacker Berglauf bietet eine anspruchsvolle 6 km lange Strecke auf Trail-Spuren durch atemberaubende Landschaften. Mit verschiedenen Kategorien und Distanzen ist der Berglauf für jeden Läufer geeignet. Die Veranstaltung verspricht ein herausforderndes Erlebnis inmitten wunderschöner Natur. Seien Sie dabei und erleben Sie den Nervenkitzel des Pusacker Berglaufs!",
+        "website_organizer": "http://ltsv.de/ausdauercup-spree-neisse/termine/pusacker-berglauf/",
+        "new_version": true
+    },
+    {
+        "date": "20240413",
+        "type": "trail",
+        "name": "Polderlauf",
+        "distance": "5 km",
+        "distance_m": [
+            5000
+        ],
+        "place": "55130 Mainz, DE  ",
+        "latitude": 49.9516812,
+        "longitude": 8.3228729,
+        "organizer": "",
+        "website": "/race-pages/polderlauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Rheinland-Pfalz",
+        "id": "polderlauf_20240413_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer, seid herzlich willkommen beim Polderlauf organisiert vom Turnverein Laubenheim! Unser aufregendes Laufevent bietet eine 5 km lange Trail-Strecke, die euch die Möglichkeit bietet, durch malerische Landschaften zu laufen und eure Ausdauer zu testen. Egal ob Mitglied oder Nichtmitglied, jeder ist herzlich eingeladen, an dieser erlebnisreichen Veranstaltung teilzunehmen. Seid dabei, setzt neue persönliche Bestzeiten und genießt die Schönheit der Natur! Wir freuen uns auf euch!",
+        "website_organizer": "https://www.tv-laubenheim.de/veranstaltungen/polderlauf/",
+        "new_version": true
+    },
+    {
+        "date": "20240413",
+        "type": "trail",
+        "name": "Leiblachlauf",
+        "distance": "7,2 km-W/NW, 11,4 km",
+        "distance_m": [
+            7000,
+            11000
+        ],
+        "place": "88138 Hergensweiler, DE  ",
+        "latitude": 47.6100729,
+        "longitude": 9.7770315,
+        "organizer": "",
+        "website": "/race-pages/leiblachlauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Bayern",
+        "id": "leiblachlauf_20240413_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer,\nSie sind herzlich zur jährlichen TSV Hergensweiler Laufveranstaltung eingeladen! Wählen Sie zwischen 7 km und 11 km langen Trail-Rennen durch malerische Landschaften. Erfahrene Streckenposten und eine warme, freundliche Atmosphäre erwarten Sie im Herzen von Hergensweiler. Egal ob erfahrener Trail-Läufer oder Einsteiger, bei uns ist für jeden etwas dabei. Freuen Sie sich auf einen unvergesslichen Lauftag!\n\nSportliche Grüße,\nIhr Rennleitungsteam der TSV Hergensweiler Laufveranstaltung",
+        "website_organizer": "https://tsv-hergensweiler.de/",
+        "new_version": true
+    },
+    {
+        "date": "20240413",
+        "type": "trail",
+        "name": "WiedtalUltraTrail (WUT)",
+        "distance": "65 km",
+        "distance_m": [
+            65000
+        ],
+        "place": "97729 Ramsthal, DE  ",
+        "latitude": 50.1387937,
+        "longitude": 10.0682917,
+        "organizer": "",
+        "website": "/race-pages/wiedtalultratrail-(wut).html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Bayern",
+        "id": "wiedtalultratrail-wut_20240413_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Willkommen beim Wiedtal Ultra Trail! Entdecken Sie die wunderschönen Wälder und Täler des Wiedtals bei unserem Trail Ultramarathon. Erfahrene Ultraläufer und Neulinge sind herzlich eingeladen, die Herausforderung anzunehmen. Melden Sie sich noch heute an, um an diesem aufregenden Event teilzunehmen und unvergessliche Lauferlebnisse zu schaffen. Bis bald auf der Strecke!",
+        "website_organizer": "https://www.mut-zum-wut.de/",
+        "new_version": true
+    },
+    {
+        "date": "20240413",
+        "type": "trail",
+        "name": "Saaletalmarathon",
+        "distance": "4,2 km, 10 km-W",
+        "distance_m": [
+            4000,
+            10000
+        ],
+        "place": "97729 Ramsthal, DE  ",
+        "latitude": 50.1387937,
+        "longitude": 10.0682917,
+        "organizer": "",
+        "website": "/race-pages/saaletalmarathon.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Bayern",
+        "id": "saaletalmarathon_20240413_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Laufbegeisterte, seid herzlich willkommen zum Saaletal-Marathon! Egal, ob ihr Anfänger oder Profis seid, bei uns gibt es die passende Strecke für jeden. Wählt zwischen 4 und 10 km auf einem abwechslungsreichen Trailkurs. Die Startnummernausgabe erfolgt am Veranstaltungstag im Sportheim des SV Ramsthals. Seid dabei und erlebt den Nervenkitzel des Saaletal-Marathons!",
+        "website_organizer": "https://saaletal-marathon.de/allgemeine-informationen-zum-saaletal-marathon/",
+        "new_version": true
+    },
+    {
+        "date": "20240413",
+        "type": "trail",
+        "name": "Kyffhäuser-Berglauf",
+        "distance": "22 km-MTB",
+        "distance_m": [
+            22000
+        ],
+        "place": "06567 Bad Frankenhausen, DE  ",
+        "latitude": 51.3563251,
+        "longitude": 11.1108943,
+        "organizer": "",
+        "website": "/race-pages/kyffhauser-berglauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Thüringen",
+        "id": "kyffhäuser-berglauf_20240413_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läufer,\n\nUnser aufregendes Trailrennen erkundet die atemberaubende Landschaft der Region mit einer 22 km langen Strecke. Die Rennkategorien umfassen Einzel- und Teamwettbewerbe, sodass Läufer jeden Levels die Möglichkeit haben, teilzunehmen. Testen Sie Ihre Ausdauer und Geschicklichkeit inmitten der Natur und lassen Sie sich von der beeindruckenden Kulisse inspirieren.\n\nRennleiter",
+        "website_organizer": "http://www.kyffhaeuser-berglauf.de/",
+        "new_version": true
+    },
+    {
+        "date": "20240413",
+        "type": "trail",
+        "name": "Geringswalder Schlossberglauf",
+        "distance": "23 km-MTB",
+        "distance_m": [
+            23000
+        ],
+        "place": "09326 Geringswalde, DE  ",
+        "latitude": 51.0778024,
+        "longitude": 12.9057028,
+        "organizer": "",
+        "website": "/race-pages/geringswalder-schlossberglauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Sachsen",
+        "id": "geringswalder-schlossberglauf_20240413_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Kommt zum Geringswalder Schlossberglauf durch den Auenwald! Diese atemberaubende 23 km lange Trailstrecke bietet ein spannendes Rennen für Läufer aller Niveaus. Wir haben auch Crosslauf, Mountainbike und Leichtathletik. Sponsoren wie Birgit Lietz Physiotherapie und Birgit Weiß Frisör unterstützen die Veranstaltung. Nach dem Rennen könnt ihr euch bei der Leipziger Hütte entspannen. Seid dabei und genießt ein abwechslungsreiches Rennen!",
+        "website_organizer": "http://www.lwv-geringswalde.de/schlossberglauf/",
+        "new_version": true
+    },
+    {
+        "date": "20240417",
+        "type": "trail",
+        "name": "Mönchswalder Berglauf",
+        "distance": "2,4 km, 3,3 km",
+        "distance_m": [
+            2000,
+            3000
+        ],
+        "place": "02692 Obergurig, DE  ",
+        "latitude": 51.1407444,
+        "longitude": 14.4048035,
+        "organizer": "",
+        "website": "/race-pages/monchswalder-berglauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Sachsen",
+        "id": "mönchswalder-berglauf_20240417_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "\nDer Mönchswalder Berglauf ist ein traditionsreicher Lauf, der 2023 wiederbelebt wird. Läuferinnen und Läufer aus der ganzen Region werden erwartet, um an diesem einzigartigen Rennen teilzunehmen. Es gibt Streckenlängen von 2 km und 3 km auf anspruchsvollen Trail-Strecken, die den Teilnehmern ein einzigartiges Lauferlebnis bieten.",
+        "website_organizer": "http://berglauf.moenchswalde.de/",
+        "new_version": true
+    },
+    {
+        "date": "20240420",
+        "type": "trail",
+        "name": "Lupsinger Lauf",
+        "distance": "4,7 km, 8 km-W/NW",
+        "distance_m": [
+            4000,
+            8000
+        ],
+        "place": "4419 Lupsingen, CH  ",
+        "latitude": 47.4439729,
+        "longitude": 7.695993099999999,
+        "organizer": "",
+        "website": "/race-pages/lupsinger-lauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": null,
+        "id": "lupsinger-lauf_20240420_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Willkommen beim Lupsinger Lauf! Wir bieten 4 km und 8 km Trailrennen entlang anspruchsvoller Strecken. Egal ob erfahrener Trailrunner oder Anfänger, unser Event bietet für alle ein unvergessliches Erlebnis. Kommen Sie vorbei und erleben Sie die atemberaubende Landschaft der Lupsinger Berge. Wir freuen uns auf Ihr Kommen!",
+        "website_organizer": "https://www.lupsingerlauf.ch/informationen/",
+        "new_version": true
+    },
+    {
+        "date": "20240421",
+        "type": "trail",
+        "name": "Bilstein-Marathon (BiMa10/BiMa21/BiMa42/BiMa57)",
+        "distance": "21,1 km, 21,1 km (Wandern), 42,2 km (Wandern)",
+        "distance_m": [
+            21000,
+            21000,
+            42000
+        ],
+        "place": "4419 Lupsingen, CH  ",
+        "latitude": 47.4439729,
+        "longitude": 7.695993099999999,
+        "organizer": "",
+        "website": "/race-pages/bilstein-marathon-(bima10bima21bima42bima57).html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": null,
+        "id": "bilstein-marathon-bima10bima21bima42bima57_20240421_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läufer und Naturfreunde, seid dabei beim Bilstein-Marathon und erlebt atemberaubende Ausblicke auf den Kaufunger Wald. Mit verschiedenen Distanzen wie dem Trail Halvmarathon, Trail Marathon und dem knackigen Trail Halvmarathon ist für jeden etwas dabei. Lasst euch von den Höhenmetern und der wunderschönen Landschaft herausfordern und erlebt ein unvergessliches Abenteuer in der Natur. Wir freuen uns darauf, euch am Start zu sehen!",
+        "website_organizer": "http://www.bilstein-marathon.de/html/ausschreibung.html",
+        "new_version": true
+    },
+    {
+        "date": "20240421",
+        "type": "trail",
+        "name": "Sparkassen Bückeberg Lauf",
+        "distance": "6 km-W/NW",
+        "distance_m": [
+            6000
+        ],
+        "place": "31655 Hörkamp",
+        "latitude": 52.29682709999999,
+        "longitude": 9.2360846,
+        "organizer": "",
+        "website": "/race-pages/sparkassen-buckeberg-lauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Niedersachsen",
+        "id": "sparkassen-bückeberg-lauf_20240421_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Willkommen zu unserem jährlichen Laufrennen! Unsere Veranstaltung bietet verschiedene Strecken, darunter auch eine 6 km lange Trailstrecke durch Wälder und entlang von Flüssen. Egal ob erfahrener Trailrunner oder Laufanfänger, es ist für jeden etwas dabei. Wir schaffen eine einladende und familienfreundliche Atmosphäre, in der sich Läufer jeden Alters und Könnens willkommen fühlen. Wir freuen uns darauf, Sie an der Startlinie zu sehen und ein unvergessliches Lauferlebnis zu erleben.",
+        "website_organizer": "http://www.tsv-eintracht-bueckeberge.de/",
+        "new_version": true
+    },
+    {
+        "date": "20240421",
+        "type": "trail",
+        "name": "Steiger(Pizza)lauf",
+        "distance": "4 km",
+        "distance_m": [
+            4000
+        ],
+        "place": "99096 Erfurt, DE  ",
+        "latitude": 50.956666,
+        "longitude": 11.0293482,
+        "organizer": "",
+        "website": "/race-pages/steiger(pizza)lauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Thüringen",
+        "id": "steigerpizzalauf_20240421_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer, seid dabei beim 87. Steiger(Frühjahrs)lauf in Erfurt! Erlebt eine abwechslungsreiche Trail-Strecke und genießt die wunderschöne Natur. Egal ob Anfänger oder erfahrene Trailrunner, für jeden ist etwas dabei. Meldet euch noch heute an für die 4 km Distanz und seid dabei, wenn die Zielgerade erreicht wird. Wir freuen uns auf ein unvergessliches Rennen!",
+        "website_organizer": "http://www.ltv-erfurt.de/steigerpizzalauf/79-steigerpizzalauf",
+        "new_version": true
+    },
+    {
+        "date": "20240426",
+        "type": "trail",
+        "name": "Tüfelsschlucht-Berglauf",
+        "distance": "4,6 km-W/NW, 4,6 km, 8 km",
+        "distance_m": [
+            4000,
+            4000,
+            8000
+        ],
+        "place": "4614 Hägendorf, CH  ",
+        "latitude": 47.3439097,
+        "longitude": 7.827473599999999,
+        "organizer": "",
+        "website": "/race-pages/tufelsschlucht-berglauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": null,
+        "id": "tüfelsschlucht-berglauf_20240426_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Läuferinnen und Läufer, wir freuen uns, den 35. Tüfelsschlucht-Berglauf und Berglauf SM2024 anzukündigen! Die Rennen werden auf anspruchsvollen Wald- und Bergwegen ausgetragen und bieten atemberaubende Ausblicke. Es gibt Distanzen von 4 km, 4 km und 8 km auf Trail-Strecken. Wir laden alle herzlich ein, an diesem spannenden Berglauf-Event teilzunehmen und freuen uns auf ein unvergessliches Erlebnis für alle Teilnehmer. Anmeldungen unter Swiss-athletics.",
+        "website_organizer": "https://www.juratoptour.ch/de/wertungslaeufe/tuefelsschlucht-berglauf",
+        "new_version": true
+    },
+    {
+        "date": "20240427",
+        "type": "trail",
+        "name": "Gipfelsturm Osnabrück",
+        "distance": "9,9 km",
+        "distance_m": [
+            9000
+        ],
+        "place": "49078 Osnabrück, DE  ",
+        "latitude": 52.2557914,
+        "longitude": 7.997689500000001,
+        "organizer": "",
+        "website": "/race-pages/gipfelsturm-osnabruck.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": "Niedersachsen",
+        "id": "gipfelsturm-osnabrück_20240427_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Liebe Lauffreunde! Meldet euch jetzt zum alljährlichen Osnabrücker Gipfelsturm an! Genießt atemberaubende Trails in einer wunderschönen Landschaft und unterstützt dabei wichtige diakonische Projekte. Wähle aus verschiedenen Distanzen, darunter die beliebte 9 km Strecke. Kommt und lauft gemeinsam für den guten Zweck!",
+        "website_organizer": "http://www.gipfelsturm-os.de/",
+        "new_version": true
+    },
+    {
+        "date": "20240427",
+        "type": "trail",
+        "name": "Glantaler Wasserweglauf",
+        "distance": "8,8 km",
+        "distance_m": [
+            8000
+        ],
+        "place": "9556 Liebenfels, AT  ",
+        "latitude": 46.73716750000001,
+        "longitude": 14.2876932,
+        "organizer": "",
+        "website": "/race-pages/glantaler-wasserweglauf.html",
+        "src_url": "https://www.runme.de/laufkalender/deutschland/",
+        "county": null,
+        "id": "glantaler-wasserweglauf_20240427_httpswwwrunmedelaufkalenderdeutschland",
+        "summary": "Die Berglaufmeisterschaft kehrt zurück! Erleben Sie die atemberaubende Landschaft bei unserem Rennen, das verschiedene Strecken anbietet, darunter die beliebte 8-km-Strecke. Egal, ob Anfänger oder erfahrener Trailrunner, bei uns ist für jeden etwas dabei. Genießen Sie malerische Wälder, klare Bäche und aufregende Anstiege. Melden Sie sich an und seien Sie Teil dieser unvergesslichen Erfahrung!",
+        "website_organizer": "http://www.wasserweglauf.at/",
+        "new_version": true
+    }
+]
