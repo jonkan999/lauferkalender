@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+      re
+    />
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+
+    <script defer="" src="/js/pgJs.js"></script>
+
+    <link href="/css/pg-style.css" rel="stylesheet" />
+    <link href="/css/pg-queries.css" rel="stylesheet" />
+
+    <title>
+      Loppsida för Panoramalauf rund um die Burg Are - 
+    </title>
+    <link rel="icon" href="/img/logo100px.jpg"" />
+    <meta name="description" content="Der Panoramalauf rund um die Burg Are wird vom Selbstläufer Altenahr e.V. organisiert und bietet landschaftlich reizvolle und anspruchsvolle Laufstrecken im mittleren Ahrtal. Die Strecken erstrecken sich über 5 km, 16 km und 54 km und führen durch das Ahrgebirge, vorbei an malerischen Weingärten und -bergen. Der Lauf zeichnet sich durch längere, bergauf und bergab Passagen, kurze, knackige Anstiege und flache Abschnitte aus. Am letzten Samstag im August lockt der Panoramalauf Läufer aus Nah und Fern an und bietet eine einzigartige Lauf- und Naturerfahrung. Anmeldung bis eine halbe Stunde vor dem Lauf möglich. Startgeld: 10 Euro für die 5 km Strecke, 15 Euro für die 16 km Strecke und 20 Euro für die Langstrecke." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+
+  <body>
+    <div class="show-all-overlay" id="showAllOverlay"></div>
+    <button class="hide-grid" id="hideGrid">
+      <ion-icon name="close-outline" class="close-icon"></ion-icon>
+    </button>
+    <header class="header header-black section">
+      <div class="brand-box">
+        <a class="header-brand-name" href="/index.html">
+          <img
+            class="brand-box-small-image"
+            src="/img/logo.svg"
+            alt="Brand logo"
+        /></a>
+      </div>
+      <div class="menu">
+        <ul>
+          <li>
+            <p class="category-link">
+              Loppsida för: Panoramalauf rund um die Burg Are
+            </p>
+          </li>
+        </ul>
+      </div>
+    </header>
+    <main>
+      <section class="venue-page" id="venuePage">
+        <div class="show-all-grid" id="showAllGrid">
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/panoramalauf-rund-um-die-burg-are_1.webp"
+              alt="image 1 for: Panoramalauf rund um die Burg Are"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/panoramalauf-rund-um-die-burg-are_2.webp"
+              alt="image 2 for: Panoramalauf rund um die Burg Are"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/panoramalauf-rund-um-die-burg-are_3.webp"
+              alt="image 3 for: Panoramalauf rund um die Burg Are"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/panoramalauf-rund-um-die-burg-are_4.webp"
+              alt="image 4 for: Panoramalauf rund um die Burg Are"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/panoramalauf-rund-um-die-burg-are_5.webp"
+              alt="image 5 for: Panoramalauf rund um die Burg Are"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/panoramalauf-rund-um-die-burg-are_6.webp"
+              alt="image 6 for: Panoramalauf rund um die Burg Are"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+        </div>
+        <div class="images-section section airy-margin" id="imageSection">
+          <div class="left-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/panoramalauf-rund-um-die-burg-are_1.webp"
+              alt="image 1 for: Panoramalauf rund um die Burg Are"
+            />
+            <div class="image-overlay"></div>
+          </div>
+          <div class="right-images-section">
+            <div class="top-right-image">
+              <img
+                class="image-inner-img"
+                src="/race-pages/img/panoramalauf-rund-um-die-burg-are_2.webp"
+                alt="image 2 for: Panoramalauf rund um die Burg Are"
+              />
+              <div class="image-overlay"></div>
+            </div>
+            <div class="bottom-right-images">
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/panoramalauf-rund-um-die-burg-are_3.webp"
+                  alt="image 3 for: Panoramalauf rund um die Burg Are"
+                />
+                <div class="image-overlay"></div>
+              </div>
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/panoramalauf-rund-um-die-burg-are_4.webp"
+                  alt="image 4 for: Panoramalauf rund um die Burg Are"
+                />
+                <div class="show-all-container" id="showAll">
+                  <div class="square-icon-container-container">
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                  </div>
+                  <div class="show-all-images-text">
+                    Visa alla
+                  </div>
+                  <div class="image-overlay"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="info-container" id="infoContainer">
+          <!-- Venue Name -->
+          <h1 class="event-space-title">Panoramalauf rund um die Burg Are</h1>
+
+          <!-- Venue Address -->
+          <div class="adress-div">
+            <ion-icon
+              class="icon ion-ios-location-outline"
+              name="location-outline"
+            ></ion-icon>
+            <p class="event-space-address">53505 Altenahr, DE  </p>
+          </div>
+
+          <!-- Highlights Container -->
+          <ul class="highlights-container">
+            <!-- Star Rating -->
+            <div class="highlight-stars">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a href="http://selbstlaeufer-altenahr.npage.de/panoramalauf-ausschreibung.html"
+                >Länk till anmälan</a
+              >
+            </div>
+
+            <!-- Guests and Size Info -->
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Distanser: 5 km, 16 km
+              </p>
+            </li>
+            <li class="highlight-info mobile full-row">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Distanser: 5 km, 16 km
+              </p>
+            </li>
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Underlag: trail
+              </p>
+            </li>
+
+            <!-- Food and Drink Info -->
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-navigate-circle-outline"
+                name="navigate-circle-outline"
+              ></ion-icon>
+              <p>
+                Plats: 53505 Altenahr, DE  
+              </p>
+            </li>
+            <li class="highlight-info second-col mobile">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Underlag: trail
+              </p>
+            </li>
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-calendar-clear-outline"
+                name="calendar-clear-outline"
+              ></ion-icon>
+              <p>
+                Datum: 20240831
+              </p>
+            </li>
+            <div class="highlight-star-mobile second-col">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a class="highlight-link" href="http://selbstlaeufer-altenahr.npage.de/panoramalauf-ausschreibung.html"
+                >Länk till anmälan</a
+              >
+            </div>
+          </ul>
+
+          <!-- Calendar and Mail Template Containers -->
+          <div class="subsection-split-container">
+            <!-- Description Container -->
+            <div class="description-container">
+              <h2>Om loppet:</h2>
+              <div class="disclaimer-box">
+                <p>All info på den här sidan är baserat på öppen källdata. Vi gör vårt bästa för att hålla den uppdaterad men
+kan inte garantera att allt är korrekt. Ser du några felaktigheter, kontakta oss gärna 
+<a href="/kontakt.html">kontakt</a> så rättar vi till det snarast.
+</p>
+              </div>
+              <p class="venue-description">
+                Der "Panoramalauf rund um die Burg Are" wird vom Selbstläufer Altenahr e.V. organisiert und bietet sowohl landschaftlich reizvolle als auch anspruchsvolle Laufstrecken im mittleren Ahrtal. Die Strecken erstrecken sich über 19 km, 35 km und 54 km und führen durch das Ahrgebirge, vorbei an malerischen Weingärten und -bergen. Der Lauf zeichnet sich durch längere, bergauf und bergab Passagen, kurze, knackige Anstiege und flache Abschnitte aus, während die längeren Strecken auch anspruchsvolle Single-Trails beinhalten. Am letzten Samstag im August lockt der Panoramalauf Läufer aus Nah und Fern an und bietet sowohl für erfahrene Trailrunner als auch Einsteiger eine einzigartige Lauf- und Naturerfahrung.
+
+Der Lauf bietet eine Einzelwertung für Männer und Frauen ohne Altersklassenwertung, sowie eine Wertung für die größte teilnehmende Gruppe. Die Siegerehrung erfolgt zeitnah nach den einzelnen Läufen und es werden kleine Sachpreise sowie eine Sonderprämie für neue Streckenrekorde vergeben. Außerdem werden für die Strecken K19, K35 und K54 Verpflegungsstellen mit einer breiten Auswahl an Snacks und Getränken angeboten. Nach dem Lauf können die Teilnehmer ihre Urkunde vor Ort ausdrucken. Eine begrenzte Anzahl von Toiletten ist verfügbar und es gibt begrenzte Waschgelegenheiten, jedoch keine offizielle Dusche. Die Veranstaltung bietet auch Übernachtungsmöglichkeiten in der Jugendherberge Altenahr, auf Campingplätzen und in verschiedenen Hotels und Pensionen in der Umgebung. Das Startgeld beträgt 10 Euro für die 5 km Strecke, 15 Euro für die 16 km Strecke und 20 Euro für die Langstrecke. Nachmeldungen sind bis eine halbe Stunde vor dem Lauf möglich, sofern das Teilnehmerkontingent noch nicht überschritten wurde.
+              </p>
+              <h3>Detaljerad information:</h3>
+              <ul>
+                
+                <li>
+                  Distanser: 5 km, 16 km
+                </li>
+                
+                <li>
+                  Underlag: trail
+                </li>
+                
+                <li>
+                  Plats: 53505 Altenahr, DE  
+                </li>
+                
+                <li>
+                  Datum: 20240831
+                </li>
+                 
+                <li>
+                  Loppkategorier: 5 km, 16 km
+                </li>
+                
+                <li>
+                  Län: Rheinland-Pfalz
+                </li>
+                
+                <li>
+                  Organisatör: 
+                </li>
+                
+              </ul>
+              <h3>Länk till arrangörens hemsida:</h3>
+              <a class="venue-price" href="http://selbstlaeufer-altenahr.npage.de/panoramalauf-ausschreibung.html">
+                http://selbstlaeufer-altenahr.npage.de/panoramalauf-ausschreibung.html
+              </a>
+            </div>
+
+            <div class="subsection-right-split-container">
+              <div
+                data-mapboxCenter="[6.9949264, 50.5482946]"
+                data-mapboxcenter="[]"
+                class="map-container mapboxgl-map"
+                id="mapboxContainer"
+              ></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Rest of your HTML content -->
+      </section>
+      <div id="errorMessage" class="error-message"></div>
+    </main>
+  </body>
+</html>

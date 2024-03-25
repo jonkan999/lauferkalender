@@ -191,6 +191,7 @@ def main():
             search_button.click()
 
         try:
+            time.sleep(4)
             event_headers = WebDriverWait(driver, 10).until(
                 EC.presence_of_all_elements_located((By.CLASS_NAME, "event-header"))
             )
@@ -322,6 +323,10 @@ def main():
                             "href": href,
                             "race_type": race_type
                         }      
+                    
+                    if len(data_directory) > 75:
+                        print("Found 75 entries, breaking loop")
+                        break
             print("Finished crawling " + url)
         except Exception as e:
             print("Error:", e)
@@ -348,7 +353,9 @@ def main():
         website_ai_fallback = name
         referer_link = None
         try:
-            referer_link = driver.find_element(By.CLASS_NAME, "referer-link")
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "referer-link"))
+            )
         except Exception as e:
             print(f"No referer-link found for {name}")
 
@@ -377,8 +384,8 @@ def main():
             race.add_id('extract')
             race_collection.add_race_if_doesnt_exist('extraction/sourced_races.json', race)
         print(f"date = {proper_date}, type = {default_race_type}, name = {name}, distance = {distance_str}, distance_m = {distances}, place = {place}, organizer = '', website = {website}, src_url = {url}, website_ai_fallback = {website_ai_fallback}")
-        race_collection.append_or_create_source_json(subdomain)
-    
+
+    race_collection.append_or_create_source_json(subdomain)
     race_collection.append_or_create_source_json()
     print("Finished crawling " + url)
 
