@@ -241,7 +241,7 @@ def check_allowed_url_get_bing(disallowed_urls, query):
     print("No suitable URL found.")
     return None
 
-def check_allowed_url_get_custom_goog(query, api_key, cx, lr):
+def check_allowed_url_get_custom_goog(disallowed_urls,query, api_key, cx, lr):
 
     try:
         # Using the get_bing_search_results function to perform a Bing search and get the results
@@ -288,8 +288,8 @@ def check_allowed_url(url, query, goog_access_token, cse_cx, lr):
         "https://live.eqtiming.com/",
         "https://www.sportsidioten.no/",
         "https://www.runme.de",
-        "https://www.laufen.de"
-
+        "https://www.laufen.de",
+        "https://my.raceresult/"
     }
 
     if not url.startswith(tuple(disallowed_urls)) and url != "":
@@ -309,7 +309,7 @@ def check_allowed_url(url, query, goog_access_token, cse_cx, lr):
             return bing_result
         
         # If Bing search fails, try custom google search
-        custom_google_result = check_allowed_url_get_custom_goog(query, api_key=goog_access_token, cx=cse_cx, lr = lr)
+        custom_google_result = check_allowed_url_get_custom_goog(disallowed_urls,query, api_key=goog_access_token, cx=cse_cx, lr = lr)
         if custom_google_result:
             return custom_google_result
 
