@@ -76,7 +76,7 @@ def main():
 
             # Find and print href attributes of header element
             try:
-                href = f'({base_url}{header.get_attribute("href")}'
+                href = header.get_attribute("href")
                 print("Anchor Href:", href)
             except Exception as e:
                 print("No anchor elements found")
@@ -147,12 +147,12 @@ def main():
                 from_to_distance_string = from_to_distance_string_element.text
                 print("Distance Promo Text:", from_to_distance_string)
                 if "Strecke" in from_to_distance_string:
-                    km_value = from_to_distance_string.split(" ")[1].replace(",", ".")
+                    km_value = from_to_distance_string.split(" ")[1].split(",")[0] #get first digit if fraction
                     distance_str += f"{km_value}, "
                     distances.append(int(km_value)*1000)
                 elif "Strecken" in from_to_distance_string:
-                    km_value_1 = from_to_distance_string.split(" ")[1].replace(",", ".")
-                    km_value_2 = from_to_distance_string.split(" ")[3].replace(",", ".")
+                    km_value_1 = from_to_distance_string.split(" ")[1].split(",")[0] #get first digit if fraction
+                    km_value_2 = from_to_distance_string.split(" ")[3].split(",")[0] #get first digit if fraction
                     distance_str += f"{km_value_1}, "
                     distance_str += f"{km_value_2}, "
                     distances.append(int(km_value_1)*1000)

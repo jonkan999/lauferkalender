@@ -28,7 +28,7 @@
   <priority>0.60</priority>
 </url>
 <url>
-  <loc>https://lauferkalender.de/rennen-hinzufuegen</loc>
+  <loc>https://lauferkalender.de/rennen-hinzufugen</loc>
   <lastmod>2024-03-02T14:19:49+00:00</lastmod>
   <priority>0.75</priority>
 </url>
@@ -1164,5 +1164,565 @@
 </url><url>
   <loc>https://lauferkalender.de/race-pages/schelder-berglauf</loc>
   <lastmod>2024-03-26T14:38:08.406794+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/deko-volkslauf</loc>
+  <lastmod>2024-03-27T16:28:45.745090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/rheinuferlauf</loc>
+  <lastmod>2024-03-27T16:28:46.753107+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/stundenpaarlauf</loc>
+  <lastmod>2024-03-27T16:28:48.223106+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/lew-kuhseetriathlon</loc>
+  <lastmod>2024-03-27T16:28:48.933107+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/hochsauerlandlauf</loc>
+  <lastmod>2024-03-27T16:28:50.426093+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/lausitzer-seenland-100</loc>
+  <lastmod>2024-03-27T16:28:51.143091+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/kappelseelauf-rentweinsdorf</loc>
+  <lastmod>2024-03-27T16:28:53.054102+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/taubertaltrail-adelshofen</loc>
+  <lastmod>2024-03-27T16:28:54.183089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/wangener-altstadtlauf</loc>
+  <lastmod>2024-03-27T16:28:55.806110+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/suderburger-abendlauf</loc>
+  <lastmod>2024-03-27T16:28:56.851089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/freundschaftslauf-lt-rennschnecke-dudweiler</loc>
+  <lastmod>2024-03-27T16:28:57.856089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/mittsommernachtslauf-hannover</loc>
+  <lastmod>2024-03-27T16:28:59.368090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/sachsenlauf-coswig</loc>
+  <lastmod>2024-03-27T16:29:00.145092+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/heidenheimer-sparkassen-stadtlauf</loc>
+  <lastmod>2024-03-27T16:29:01.075089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/berliner-vollmond-ultra-marathon-und-9.-berliner-vollmond-halbmarathon</loc>
+  <lastmod>2024-03-27T16:29:02.459091+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/bike24-sachsentrail-powered-by-on-im-erzgebirge</loc>
+  <lastmod>2024-03-27T16:29:03.402092+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/europalauf</loc>
+  <lastmod>2024-03-27T16:29:04.365090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/24-stunden-lauf-in-strinz-margaretha</loc>
+  <lastmod>2024-03-27T16:29:05.799101+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/buchholzer-stadtlauf</loc>
+  <lastmod>2024-03-27T16:29:09.056089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/eschathlon-der-eschborner-halbmarathon</loc>
+  <lastmod>2024-03-27T16:29:12.593092+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/sielmanns-heidelauf-in-der-doberitzer-heide</loc>
+  <lastmod>2024-03-27T16:29:15.343094+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/salomon-zugspitz-ultratrail-powered-by-ledlenser</loc>
+  <lastmod>2024-03-27T16:29:16.273091+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/zwickauer-stundenlaufserie</loc>
+  <lastmod>2024-03-27T16:29:17.721089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/freigerichter-lauf-event</loc>
+  <lastmod>2024-03-27T16:29:18.710089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/elsterlauf</loc>
+  <lastmod>2024-03-27T16:29:22.064089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/mountainman-nesselwang</loc>
+  <lastmod>2024-03-27T16:29:22.946089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/marsch-zum-meer-hohwachter-bucht</loc>
+  <lastmod>2024-03-27T16:29:24.323090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/howut-2024</loc>
+  <lastmod>2024-03-27T16:29:24.365088+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/stundenlaufserie-halle</loc>
+  <lastmod>2024-03-27T16:29:26.007092+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/welveraner-stadionlauf</loc>
+  <lastmod>2024-03-27T16:29:27.257089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/amrumer-muko-lauf</loc>
+  <lastmod>2024-03-27T16:29:28.517089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/team2run-teamstaffel-munchen</loc>
+  <lastmod>2024-03-27T16:29:29.502090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/berliner-teamstaffel</loc>
+  <lastmod>2024-03-27T16:29:31.008102+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/regensburg-marathon</loc>
+  <lastmod>2024-03-27T16:29:32.204088+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/welzheimer-limeslaufe</loc>
+  <lastmod>2024-03-27T16:29:34.111090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/lichtenstein-trail</loc>
+  <lastmod>2024-03-27T16:29:35.428089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/berndorfer-volkslauf</loc>
+  <lastmod>2024-03-27T16:29:35.936088+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/bad-waldseer-lauffieber</loc>
+  <lastmod>2024-03-27T16:29:37.622107+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/alteburglauf</loc>
+  <lastmod>2024-03-27T16:29:38.167090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/lange-bahn-lauf</loc>
+  <lastmod>2024-03-27T16:29:39.453106+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/hiddenseelauf</loc>
+  <lastmod>2024-03-27T16:29:39.755100+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/gapa-trail</loc>
+  <lastmod>2024-03-27T16:29:40.847090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/donnersbergtrail</loc>
+  <lastmod>2024-03-27T16:29:41.688089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/diespecker-laufspecktakel</loc>
+  <lastmod>2024-03-27T16:29:43.286089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/ultratrail-frankische-schweiz</loc>
+  <lastmod>2024-03-27T16:29:44.878090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/heldenmarsch</loc>
+  <lastmod>2024-03-27T16:29:46.546089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/albside-up-the-hill</loc>
+  <lastmod>2024-03-27T16:29:47.404112+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/raschutzlauf-lampertswalde</loc>
+  <lastmod>2024-03-27T16:29:47.629121+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/breitunger-pless-berglauf</loc>
+  <lastmod>2024-03-27T16:29:48.586091+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/trailrun21-&amp;-8.-trailrun-light</loc>
+  <lastmod>2024-03-27T16:29:49.772090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/5-+-10-kilometer-stadtlauf-wiesloch</loc>
+  <lastmod>2024-03-27T16:29:51.520089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/lauf-durchs-schone-gailachtal</loc>
+  <lastmod>2024-03-27T16:29:53.431090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/unterkirnacher-weihermooslauf</loc>
+  <lastmod>2024-03-27T16:29:54.884090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/zwei-seen-panorama-erlebnislauf</loc>
+  <lastmod>2024-03-27T16:29:55.421092+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/big-city-trail-essen</loc>
+  <lastmod>2024-03-27T16:29:56.100089+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/leipzig-marathon</loc>
+  <lastmod>2024-03-27T16:29:56.768090+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/maarauelauf-jubilaumslauf</loc>
+  <lastmod>2024-03-27T16:29:59.286119+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/kayher-kirschblutenlauf</loc>
+  <lastmod>2024-03-27T16:29:59.959162+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/hammer-charity-lauf</loc>
+  <lastmod>2024-03-27T16:30:01.895165+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/garten-reden-haldenlauf-event</loc>
+  <lastmod>2024-03-27T16:30:05.791163+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/passauer-djk-domlauf</loc>
+  <lastmod>2024-03-27T16:30:11.367162+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/warnemunder-stoltera-kustenwaldlauf</loc>
+  <lastmod>2024-03-27T16:30:11.865163+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/citylauf-sommerda</loc>
+  <lastmod>2024-03-27T16:30:12.939166+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/schlappeseppel-marktplatzlauf</loc>
+  <lastmod>2024-03-27T16:30:13.659179+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/quakenbrucker-hase-run</loc>
+  <lastmod>2024-03-27T16:30:14.496162+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/puls-300</loc>
+  <lastmod>2024-03-27T16:30:16.513166+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/cold-mountain-run</loc>
+  <lastmod>2024-03-27T16:30:17.616171+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/wernberger-strassenlauf</loc>
+  <lastmod>2024-03-27T16:30:19.194160+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/citylauf-heidenau</loc>
+  <lastmod>2024-03-27T16:30:21.878171+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/vr-bank-lauftag-am-waginger-see</loc>
+  <lastmod>2024-03-27T16:30:23.927162+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/pfalzerwald-marathon</loc>
+  <lastmod>2024-03-27T16:30:25.588163+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/h-von-kelheim</loc>
+  <lastmod>2024-03-27T16:30:26.996179+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/volkswandertag-in-denkershausen</loc>
+  <lastmod>2024-03-27T16:30:29.391162+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/hennesee-panoramalauf-volksbank-sauerland-laufcup</loc>
+  <lastmod>2024-03-27T16:30:30.393171+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/lauftrefferoffnung-der-lag-saarbrucken</loc>
+  <lastmod>2024-03-27T16:30:31.361182+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/kids-cross-challenge</loc>
+  <lastmod>2024-03-27T16:30:32.465164+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/menschen-laufen-fur-menschen</loc>
+  <lastmod>2024-03-27T16:30:33.656178+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/kreis-pforzheim-waldlaufmeisterschaften</loc>
+  <lastmod>2024-03-27T16:30:37.082161+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/mannschaftscrosslauf-im-priessnitzgrund-der-dresdner-heide</loc>
+  <lastmod>2024-03-27T16:30:37.846187+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/walhallalauf</loc>
+  <lastmod>2024-03-27T16:30:39.715162+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/osterlauf-wismar</loc>
+  <lastmod>2024-03-27T16:30:40.754169+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/wetzlarer-drachentrail</loc>
+  <lastmod>2024-03-27T16:30:41.884166+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/herbrumer-lauftag</loc>
+  <lastmod>2024-03-27T16:30:43.195168+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/soprema-neckar-run</loc>
+  <lastmod>2024-03-27T16:30:44.526174+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/sommerzeitlauf</loc>
+  <lastmod>2024-03-27T16:30:45.543163+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/int.-wilhelmsburger-insellauf-2024</loc>
+  <lastmod>2024-03-27T16:30:47.810183+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/marathon-deutsche-weinstrasse</loc>
+  <lastmod>2024-03-27T16:30:49.225163+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/internationaler-solitudelauf-gerlingen</loc>
+  <lastmod>2024-03-27T16:30:50.294176+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/mein-freiburg-marathon-2024</loc>
+  <lastmod>2024-03-27T16:30:51.464164+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/altstadtlauf-halberstadt-2024</loc>
+  <lastmod>2024-03-27T16:30:52.274165+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/seligenstadter-wasserlauf</loc>
+  <lastmod>2024-03-27T16:30:53.459179+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/waldlauf</loc>
+  <lastmod>2024-03-27T16:30:54.558238+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/hohlenbarenlauf</loc>
+  <lastmod>2024-03-27T16:30:56.065236+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/kreichauf-bau-run-thalmassing-2024</loc>
+  <lastmod>2024-03-27T16:30:57.590237+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/tsv-jubilaumslauf</loc>
+  <lastmod>2024-03-27T16:30:58.865236+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/hamelner-stadt-galerie-lauf</loc>
+  <lastmod>2024-03-27T16:30:59.664252+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/donaudammlauf-ingolstadt</loc>
+  <lastmod>2024-03-27T16:31:00.954291+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/emder-berglauf-und-franken-und-sohn-berglauf</loc>
+  <lastmod>2024-03-27T16:31:02.794287+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/3-berge-lauf</loc>
+  <lastmod>2024-03-27T16:31:03.442290+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/int.-zeppelinlauf-mulheim-an-der-mosel</loc>
+  <lastmod>2024-03-27T16:31:03.569288+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/lm-strassenlauf</loc>
+  <lastmod>2024-03-27T16:31:06.285292+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/lauf-rund-um-das-schaubergwerk-rohrigschacht</loc>
+  <lastmod>2024-03-27T16:31:09.367299+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/goltzschtal-marathon-inkl.-33.-landesmeisterschaft-im-strassenlauf</loc>
+  <lastmod>2024-03-27T16:31:09.870291+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/benrather-volkslauf-2024</loc>
+  <lastmod>2024-03-27T16:31:11.358295+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/karl-heinz-hahn-walk-2024</loc>
+  <lastmod>2024-03-27T16:31:12.697290+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/zeppelinlauf-marinefliegerstutzpunkt-nordholz</loc>
+  <lastmod>2024-03-27T16:31:13.443292+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/wolfsfahrtetrail</loc>
+  <lastmod>2024-03-27T16:31:13.921287+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/stortebeker-strassenlauf</loc>
+  <lastmod>2024-03-27T16:31:14.367298+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/hamburger-osterlauf</loc>
+  <lastmod>2024-03-27T16:31:15.376308+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/internationaler-broichbachtal-lauf</loc>
+  <lastmod>2024-03-27T16:31:15.419289+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/halloween-run-bremen</loc>
+  <lastmod>2024-03-27T16:31:16.035308+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/dresden-marathon</loc>
+  <lastmod>2024-03-27T16:31:20.769299+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/degewo-great-10k</loc>
+  <lastmod>2024-03-27T16:31:20.815325+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/mitteldeutscher-marathon</loc>
+  <lastmod>2024-03-27T16:31:22.068287+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/crow-mountain-survival</loc>
+  <lastmod>2024-03-27T16:31:23.276291+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/nibelungenlauf-worms</loc>
+  <lastmod>2024-03-27T16:31:23.716292+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/volksbank-munster-marathon</loc>
+  <lastmod>2024-03-27T16:31:25.069300+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/nurnberger-halbmarathon</loc>
+  <lastmod>2024-03-27T16:31:26.704290+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/kolner-halbmarathon-–-die-generalprobe</loc>
+  <lastmod>2024-03-27T16:31:27.739287+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/stilfserjoch-stelvio-trail-run</loc>
+  <lastmod>2024-03-27T16:31:28.867287+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/seiser-alm-halbmarathon</loc>
+  <lastmod>2024-03-27T16:31:31.098287+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/bremer-bruckenlauf</loc>
+  <lastmod>2024-03-27T16:31:32.123292+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/kolner-zoolauf</loc>
+  <lastmod>2024-03-27T16:31:33.109288+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/hella-hamburg-halbmarathon-2024</loc>
+  <lastmod>2024-03-27T16:31:35.893469+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/halderner-volkslauf-−-„rund-ums-reeser-meer“</loc>
+  <lastmod>2024-03-27T16:31:37.958466+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/sparkassen-metropolmarathon</loc>
+  <lastmod>2024-03-27T16:31:39.613468+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/eifelmarathon</loc>
+  <lastmod>2024-03-27T16:31:43.784470+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/gorch-fock-lauf-wilhelmshaven</loc>
+  <lastmod>2024-03-27T16:31:44.692469+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/salzkotten-marathon</loc>
+  <lastmod>2024-03-27T16:31:49.208471+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/frauenlauf-bremen</loc>
+  <lastmod>2024-03-27T16:31:50.282486+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/frankfurter-runden-powered-by-mainova</loc>
+  <lastmod>2024-03-27T16:31:51.120487+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/ing-night-marathon-luxembourg</loc>
+  <lastmod>2024-03-27T16:31:52.753465+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/s-25-berlin</loc>
+  <lastmod>2024-03-27T16:31:53.048476+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/rhein-ruhr-marathon</loc>
+  <lastmod>2024-03-27T16:31:58.204487+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/lohners-vulkan-marathon-2024</loc>
+  <lastmod>2024-03-27T16:31:59.147471+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/haspa-marathon-hamburg</loc>
+  <lastmod>2024-03-27T16:32:01.177479+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/schonbuch-trophy-trail-run</loc>
+  <lastmod>2024-03-27T16:32:02.327466+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/tangermunder-elbdeichmarathon</loc>
+  <lastmod>2024-03-27T16:32:03.211505+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/frauenlauf-an-der-messe-stuttgart</loc>
+  <lastmod>2024-03-27T16:32:03.980471+00:00</lastmod>
+  <priority>0.8</priority>
+</url><url>
+  <loc>https://lauferkalender.de/race-pages/vvo-oberelbe-marathon</loc>
+  <lastmod>2024-03-27T16:32:08.965468+00:00</lastmod>
   <priority>0.8</priority>
 </url></urlset>
