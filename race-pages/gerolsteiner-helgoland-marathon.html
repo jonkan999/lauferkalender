@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+      re
+    />
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+
+    <script defer="" src="/js/pgJs.js"></script>
+
+    <link href="/css/pg-style.css" rel="stylesheet" />
+    <link href="/css/pg-queries.css" rel="stylesheet" />
+
+    <title>
+      Seite für Laufrennen GEROLSTEINER Helgoland-Marathon - 
+    </title>
+    <link rel="icon" href="/img/logo100px.jpg"" />
+    <meta name="description" content="Der 5-km-Straßenlauf ist ein aufregendes und energiegeladenes Laufereignis für Läufer jeden Alters und Niveaus. Die malerische Strecke durch die Stadt und die begeisterte Unterstützung der Zuschauer sorgen für eine unvergessliche Erfahrung. Mit verschiedenen Kategorien für alle Altersgruppen ist dieses Rennen perfekt für die ganze Familie. Die 5-km-Strecke bietet eine herausfordernde, aber erreichbare Route, die sowohl Anfänger als auch erfahrene Läufer anspricht." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+
+  <body>
+    <div class="show-all-overlay" id="showAllOverlay"></div>
+    <button class="hide-grid" id="hideGrid">
+      <ion-icon name="close-outline" class="close-icon"></ion-icon>
+    </button>
+    <header class="header header-black section">
+      <div class="brand-box">
+        <a class="header-brand-name" href="/index.html">
+          <img
+            class="brand-box-small-image"
+            src="/img/logo.svg"
+            alt="Brand logo"
+        /></a>
+      </div>
+      <div class="menu">
+        <ul>
+          <li>
+            <p class="category-link">
+              Seite für Laufrennen: GEROLSTEINER Helgoland-Marathon
+            </p>
+          </li>
+        </ul>
+      </div>
+    </header>
+    <main>
+      <section class="venue-page" id="venuePage">
+        <div class="show-all-grid" id="showAllGrid">
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gerolsteiner-helgoland-marathon_1.webp"
+              alt="image 1 for: GEROLSTEINER Helgoland-Marathon"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gerolsteiner-helgoland-marathon_2.webp"
+              alt="image 2 for: GEROLSTEINER Helgoland-Marathon"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gerolsteiner-helgoland-marathon_3.webp"
+              alt="image 3 for: GEROLSTEINER Helgoland-Marathon"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gerolsteiner-helgoland-marathon_4.webp"
+              alt="image 4 for: GEROLSTEINER Helgoland-Marathon"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gerolsteiner-helgoland-marathon_5.webp"
+              alt="image 5 for: GEROLSTEINER Helgoland-Marathon"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gerolsteiner-helgoland-marathon_6.webp"
+              alt="image 6 for: GEROLSTEINER Helgoland-Marathon"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+        </div>
+        <div class="images-section section airy-margin" id="imageSection">
+          <div class="left-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gerolsteiner-helgoland-marathon_1.webp"
+              alt="image 1 for: GEROLSTEINER Helgoland-Marathon"
+            />
+            <div class="image-overlay"></div>
+          </div>
+          <div class="right-images-section">
+            <div class="top-right-image">
+              <img
+                class="image-inner-img"
+                src="/race-pages/img/gerolsteiner-helgoland-marathon_2.webp"
+                alt="image 2 for: GEROLSTEINER Helgoland-Marathon"
+              />
+              <div class="image-overlay"></div>
+            </div>
+            <div class="bottom-right-images">
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/gerolsteiner-helgoland-marathon_3.webp"
+                  alt="image 3 for: GEROLSTEINER Helgoland-Marathon"
+                />
+                <div class="image-overlay"></div>
+              </div>
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/gerolsteiner-helgoland-marathon_4.webp"
+                  alt="image 4 for: GEROLSTEINER Helgoland-Marathon"
+                />
+                <div class="show-all-container" id="showAll">
+                  <div class="square-icon-container-container">
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                  </div>
+                  <div class="show-all-images-text">
+                    Alle anzeigen
+                  </div>
+                  <div class="image-overlay"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="info-container" id="infoContainer">
+          <!-- Venue Name -->
+          <h1 class="event-space-title">GEROLSTEINER Helgoland-Marathon</h1>
+
+          <!-- Venue Address -->
+          <div class="adress-div">
+            <ion-icon
+              class="icon ion-ios-location-outline"
+              name="location-outline"
+            ></ion-icon>
+            <p class="event-space-address">27498 Helgoland</p>
+          </div>
+
+          <!-- Highlights Container -->
+          <ul class="highlights-container">
+            <!-- Star Rating -->
+            <div class="highlight-stars">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a href="http://www.helholandmarathon.com/"
+                >Link zur Anmeldung</a
+              >
+            </div>
+
+            <!-- Guests and Size Info -->
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 5 km
+              </p>
+            </li>
+            <li class="highlight-info mobile full-row">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 5 km
+              </p>
+            </li>
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+
+            <!-- Food and Drink Info -->
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-navigate-circle-outline"
+                name="navigate-circle-outline"
+              ></ion-icon>
+              <p>
+                Ort: 27498 Helgoland
+              </p>
+            </li>
+            <li class="highlight-info second-col mobile">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-calendar-clear-outline"
+                name="calendar-clear-outline"
+              ></ion-icon>
+              <p>
+                Datum: 20240504
+              </p>
+            </li>
+            <div class="highlight-star-mobile second-col">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a class="highlight-link" href="http://www.helholandmarathon.com/"
+                >Länk till anmälan</a
+              >
+            </div>
+          </ul>
+
+          <!-- Calendar and Mail Template Containers -->
+          <div class="subsection-split-container">
+            <!-- Description Container -->
+            <div class="description-container">
+              <h2>Über das Rennen:</h2>
+              <div class="disclaimer-box">
+                <p>Alle Informationen auf dieser Seite basieren auf offenen Quelldaten. Wir tun unser Bestes, um sie aktuell zu halten, 
+können jedoch nicht garantieren, dass alles korrekt ist. Wenn Sie Fehler bemerken, kontaktieren Sie uns bitte 
+unter <a href="/kontakt.html">Kontakt</a>, damit wir sie so schnell wie möglich korrigieren können.
+</p>
+              </div>
+              <p class="venue-description">
+                Der 5-km-Straßenlauf ist eine aufregende und energiegeladene Veranstaltung, die Läufer jeden Alters und Niveaus anlockt. Als Renndirektor ist es meine Aufgabe, sicherzustellen, dass alles reibungslos abläuft und dass die Teilnehmer eine unvergessliche Erfahrung haben. Die Strecke bietet eine malerische Kulisse, während die Läufer entlang der Straßen der Stadt laufen und die begeisterte Unterstützung der Zuschauer genießen.
+
+Die verschiedenen Kategorien und Streckenlängen ermöglichen es den Teilnehmern, ihre individuellen Ziele zu erreichen, sei es persönliche Bestzeiten zu setzen oder einfach nur Spaß zu haben. Mit Kategorien für alle Altersgruppen ist dieses Rennen eine großartige Möglichkeit, die ganze Familie in das Laufsportereignis einzubeziehen. Die 5-km-Strecke bietet Läufern eine herausfordernde, aber erreichbare Strecke, die sowohl Anfänger als auch erfahrene Läufer anspricht. Die Atmosphäre ist elektrisierend, und die Teilnehmer werden von der Begeisterung und Energie der Veranstaltung mitgerissen.
+              </p>
+              <h3>Ausführliche Informationen:</h3>
+              <ul>
+                
+                <li>
+                  Strecken: 5 km
+                </li>
+                
+                <li>
+                  Untergrund: road
+                </li>
+                
+                <li>
+                  Ort: 27498 Helgoland
+                </li>
+                
+                <li>
+                  Datum: 20240504
+                </li>
+                 
+                <li>
+                  Rennkategorien: 5 km
+                </li>
+                
+                <li>
+                  Land: Schleswig-Holstein
+                </li>
+                
+                <li>
+                  Veranstalter: 
+                </li>
+                
+              </ul>
+              <h3>Link zur Veranstalter-Website:</h3>
+              <a class="venue-price" href="http://www.helholandmarathon.com/">
+                http://www.helholandmarathon.com/
+              </a>
+            </div>
+
+            <div class="subsection-right-split-container">
+              <div
+                data-mapboxCenter="[7.8863887, 54.1830721]"
+                data-mapboxcenter="[]"
+                class="map-container mapboxgl-map"
+                id="mapboxContainer"
+              ></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Rest of your HTML content -->
+      </section>
+      <div id="errorMessage" class="error-message"></div>
+    </main>
+  </body>
+</html>
