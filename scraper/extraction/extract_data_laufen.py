@@ -146,17 +146,17 @@ def main():
                 from_to_distance_string_element = header.find_element(By.CLASS_NAME, "info.wettbewerbe")
                 from_to_distance_string = from_to_distance_string_element.text
                 print("Distance Promo Text:", from_to_distance_string)
-                if "Strecke" in from_to_distance_string:
-                    km_value = from_to_distance_string.split(" ")[1].split(",")[0] #get first digit if fraction
-                    distance_str += f"{km_value}, "
-                    distances.append(int(km_value)*1000)
-                elif "Strecken" in from_to_distance_string:
+                if "Strecken" in from_to_distance_string:
                     km_value_1 = from_to_distance_string.split(" ")[1].split(",")[0] #get first digit if fraction
                     km_value_2 = from_to_distance_string.split(" ")[3].split(",")[0] #get first digit if fraction
                     distance_str += f"{km_value_1}, "
                     distance_str += f"{km_value_2}, "
                     distances.append(int(km_value_1)*1000)
                     distances.append(int(km_value_2)*1000)
+                elif "Strecke" in from_to_distance_string:
+                    km_value = from_to_distance_string.split(" ")[1].split(",")[0] #get first digit if fraction
+                    distance_str += f"{km_value}, "
+                    distances.append(int(km_value)*1000)
             except Exception as e:
                 print("No distance promo text found")
                 print("Error:", e)
@@ -218,8 +218,11 @@ def main():
         distances = data_directory[data_id]["distances"]
         place = data_directory[data_id]["place"]
         detail_url = data_directory[data_id]["href"]
-        driver.get(detail_url)
-
+        if detail_url:
+            driver.get(detail_url)
+        else:
+            print(f"Skipping {name} due to missing detail url")
+            continue
         # Check if the detail page contains an anchor with class "referer-link"
         website = ""
         website_ai_fallback = name

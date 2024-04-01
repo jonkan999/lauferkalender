@@ -343,7 +343,11 @@ def main():
         distances = data_directory[data_id]["distances"]
         place = data_directory[data_id]["place"]
         detail_url = data_directory[data_id]["href"]
-        driver.get(detail_url)
+        if detail_url: 
+            driver.get(detail_url)
+        else:
+            print(f"No detail url found for {name}")
+            continue
 
         # Check if the detail page contains an anchor with class "referer-link"
         website = ""

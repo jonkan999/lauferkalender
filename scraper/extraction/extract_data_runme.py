@@ -346,12 +346,16 @@ def main():
         distances = data_directory[data_id]["distances"]
         place = data_directory[data_id]["place"]
         detail_url = data_directory[data_id]["href"]
-        driver.get(detail_url)
-
+        if detail_url:
+            driver.get(detail_url)
+        else:
+            print(f"Skipping {name} due to missing detail url")
+            continue
         # Check if the detail page contains an anchor with class "referer-link"
         website = ""
         website_ai_fallback = name
         referer_link = None
+
         try:
             WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CLASS_NAME, "referer-link"))
