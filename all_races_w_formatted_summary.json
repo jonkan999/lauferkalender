@@ -4652,6 +4652,26 @@
   {
     "date": "20240427",
     "type": "road",
+    "name": "Hotfootrun Nürburgring",
+    "distance": "6 km",
+    "distance_m": [
+      6000
+    ],
+    "place": "53520 Nürburg, Rheinland",
+    "latitude": 50.3418803,
+    "longitude": 6.9520304,
+    "organizer": "",
+    "website": "/race-pages/hotfootrun-nurburgring.html",
+    "src_url": "https://www.runme.de/laufkalender/deutschland/",
+    "county": "Rheinland-Pfalz",
+    "id": "hotfootrun-nürburgring_20240427_httpswwwrunmedelaufkalenderdeutschland",
+    "summary": "Liebe Läuferinnen und Läufer! Willkommen beim Hotfoot Run am Nürburgring! Unser Hindernislauf bietet 46 Hindernisse über 24 km, aber auch eine kürzere Strecke von 6 km. Egal für welche Distanz du dich entscheidest, der Hotfoot Run am Nürburgring wird eine unvergessliche Herausforderung und ein atemberaubendes Erlebnis sein. Wir freuen uns darauf, dich an der Startlinie zu sehen - sei bereit für ein Rennen, das deine Grenzen überwindet! Bis bald beim Hotfoot Run!",
+    "website_organizer": "https://nuerburgring.de/events/categories/entertainment/hotfootrun?locale=en",
+    "new_version": true
+  },
+  {
+    "date": "20240427",
+    "type": "road",
     "name": "Arnstädter Citylauf",
     "distance": "5 km",
     "distance_m": [
@@ -13650,6 +13670,90 @@
   },
   {
     "date": "20240615",
+    "type": "road",
+    "name": "Nordheimlauf",
+    "distance": "1, 10",
+    "distance_m": [
+      1000,
+      10000
+    ],
+    "place": "74226 Nordheim (Württemberg)",
+    "latitude": 49.1118628,
+    "longitude": 9.1173279,
+    "organizer": "",
+    "website": "/race-pages/nordheimlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "nordheimlauf_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Der Nordheimlauf 2024 ist ein aufregendes Laufereignis für Läufer aller Altersgruppen und Fitnessniveaus. Mit Streckenlängen von 1 km und 10 km bietet der Straßenlauf die perfekte Herausforderung für alle. Die malerische Route bietet spektakuläre Ausblicke und die Teilnehmer können sich auf eine tolle Atmosphäre und großartige Wettkampfbedingungen freuen. Der Nordheimlauf 2024 ist ein Ereignis, das man nicht verpassen sollte!",
+    "website_organizer": "http://www.nordheimlauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Rettichfestlauf",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "67105 Schifferstadt",
+    "latitude": 49.3828647,
+    "longitude": 8.376704799999999,
+    "organizer": "",
+    "website": "/race-pages/rettichfestlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Rheinland-Pfalz",
+    "id": "rettichfestlauf_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Lauffreunde! Vielen Dank für eure Teilnahme und Unterstützung beim diesjährigen Silvesterlauf. Trotz des herausfordernden Wetters konnten wir einen großartigen Tag mit sportlichen Leistungen und Gemeinschaft erleben. Die 5 km- und 10 km-Strecken durch die malerische Landschaft von Schifferstadt waren sowohl für Amateure als auch Profis geeignet. Wir freuen uns schon auf nächstes Jahr und wünschen euch bis dahin viel Freude beim Training! Bleibt gesund und bis bald!",
+    "website_organizer": "http://www.lc-schifferstadt.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Ansmann Cup 2024",
+    "distance": "2, 10",
+    "distance_m": [
+      2000,
+      10000
+    ],
+    "place": "97959 Assamstadt",
+    "latitude": 49.43365559999999,
+    "longitude": 9.683252699999999,
+    "organizer": "",
+    "website": "/race-pages/ansmann-cup-2024.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "ansmann-cup-2024_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim Stadtwerke Rothenburg Lichterlauf! Erleben Sie ein unvergessliches Lauferlebnis auf geschmückten Straßen. Unsere Strecken umfassen 2 km und 10 km auf der Straße, für alle Altersgruppen und Laufniveaus geeignet. Genießen Sie ein festliches Rennen und feiern Sie die Freude am Laufen mit uns!",
+    "website_organizer": "https://www.racesolution.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Straßenlauf Gollhofen",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "97258 Gollhofen",
+    "latitude": 49.5694771,
+    "longitude": 10.1920919,
+    "organizer": "",
+    "website": "/race-pages/strassenlauf-gollhofen.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "straßenlauf-gollhofen_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim FC Gollhofen! Unser jährlicher Laufevent bietet zwei Hauptstrecken: die 10 km und die 0 km für alle Teilnehmer. Entlang malerischer Straßen können Läufer atemberaubende Ausblicke genießen. Unser Rennen ist perfekt für Läufer jeden Alters und Könnens geeignet. Unser Ziel ist es, eine sichere, unterhaltsame und herausfordernde Erfahrung zu schaffen. Seien Sie Teil dieser aufregenden Veranstaltung und laufen Sie mit uns mit!",
+    "website_organizer": "http://www.fcgollhofen.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
     "type": "trail",
     "name": "Stunden von Rheinland-Pfalz",
     "distance": "24 Std.",
@@ -13664,6 +13768,48 @@
     "id": "stunden-von-rheinland-pfalz_20240615_httpswwwrunmedelaufkalenderdeutschland",
     "summary": "Willkommen bei den \"24 Stunden von Rheinland-Pfalz\"! Machen Sie sich bereit für eine ganz besondere Wandererfahrung. Mit Streckenlängen von 50 km, 100 km und 200 km sowie einem Trail-Wettbewerb bieten wir für jeden etwas. Treten Sie ein in die malerische Landschaft von Rheinland-Pfalz und genießen Sie 24 Stunden voller Abenteuer, Natur und Gemeinschaft. Wir freuen uns auf Sie!",
     "website_organizer": "http://www.24stunden-rlp.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Hofmann-Flechtkulturlauf-Obermain",
+    "distance": "3, 10",
+    "distance_m": [
+      3000,
+      10000
+    ],
+    "place": "96215 Lichtenfels",
+    "latitude": 50.1738979,
+    "longitude": 11.0475145,
+    "organizer": "",
+    "website": "/race-pages/hofmann-flechtkulturlauf-obermain.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "hofmann-flechtkulturlauf-obermain_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Begleiten Sie uns am 15. Juni 2024 beim 12. \"HOFMANN-Flechtkulturlauf-Obermain\" des ASC Burgberg Lichtenfels. Laufen Sie 3 km oder 10 km auf Asphaltstraßen entlang des malerischen Obermains und entdecken Sie die Flechtkultur der Region. Registrieren Sie sich auf unserer Website und seien Sie Teil dieses geselligen Rennens für Läufer aller Niveaus.",
+    "website_organizer": "https://www.flechtkulturlauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Sommernachtslauf Limburg 2024",
+    "distance": "2, 21",
+    "distance_m": [
+      2000,
+      21000
+    ],
+    "place": "65549 Limburg an der Lahn",
+    "latitude": 50.38413389999999,
+    "longitude": 8.0679509,
+    "organizer": "",
+    "website": "/race-pages/sommernachtslauf-limburg-2024.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "sommernachtslauf-limburg-2024_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Sportlerinnen und Sportler,\n\nBereit für den Sommernachtslauf in Limburg am 15. Juni 2024? Egal ob Anfänger, Fortgeschrittener oder Profi, bei uns ist für jeden etwas dabei. Wir bieten verschiedene Rennkategorien und Distanzen, darunter 2 km und ein Halbmarathon, die alle auf der Straße stattfinden. Melden Sie sich jetzt an und seien Sie Teil dieses unvergesslichen Laufereignisses! Bis bald in Limburg!",
+    "website_organizer": "http://www.sommernachtslauf-limburg.de/",
     "new_version": true
   },
   {
@@ -13834,6 +13980,113 @@
   {
     "date": "20240615",
     "type": "road",
+    "name": "Tiergartenlauf 2024",
+    "distance": "1, 21",
+    "distance_m": [
+      1000,
+      5000,
+      9000,
+      21000
+    ],
+    "place": "46342 Velen",
+    "latitude": 51.8807629,
+    "longitude": 6.938673,
+    "organizer": "",
+    "website": "/race-pages/tiergartenlauf-2024.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "tiergartenlauf-2024_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Guten Tag! Melden Sie sich jetzt zum Tiergartenlauf Velen an! Mit Rennstrecken von 1 km, 5 km, 9 km und dem Halbmarathon ist für jeden etwas dabei. Nehmen Sie die Herausforderung an und genießen Sie die malerische Landschaft entlang der Straßen von Velen. Egal ob erfahrener Läufer oder Neuling, seien Sie Teil dieses unvergesslichen Laufevents!",
+    "website_organizer": "http://www.tiergartenlauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Die 47. Nacht von Borgholzhausen",
+    "distance": "10 km1, 10",
+    "distance_m": [
+      10000,
+      1000,
+      10000
+    ],
+    "place": "33829 Borgholzhausen",
+    "latitude": 52.1025558,
+    "longitude": 8.2813014,
+    "organizer": "",
+    "website": "/race-pages/die-47.-nacht-von-borgholzhausen.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "die-47-nacht-von-borgholzhausen_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nHerzlich willkommen zum LC Solbad Ravensberg Rennen! Wählen Sie zwischen 10 km, 5 km oder 1 km und genießen Sie die asphaltierten Strecken mit atemberaubenden Ausblicken. Egal ob erfahren oder Anfänger, bringen Sie Ihre Familie und Freunde mit und erleben Sie gemeinsam diesen besonderen Tag. Wir freuen uns darauf, Sie bei LC Solbad Ravensberg zu sehen und eine unvergessliche Veranstaltung zu erleben. Viel Erfolg und viel Spaß beim Laufen!",
+    "website_organizer": "http://www.lcsolbad.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "GlückLauf",
+    "distance": "1, 21",
+    "distance_m": [
+      1000,
+      21000
+    ],
+    "place": "38229 Salzgitter",
+    "latitude": 52.107989,
+    "longitude": 10.3640976,
+    "organizer": "",
+    "website": "/race-pages/glucklauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "glücklauf_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nunser Trail-Halbmarathon am 15. Juni 2024 beinhaltet fast 400 Höhenmeter und besteht zu 60% aus Singletrails durch den Wald. Doch keine Sorge, für diejenigen, die sich noch nicht bereit fühlen, bieten wir auch einen 1 km Straßenlauf an. Egal ob erfahrener Läufer oder Einsteiger, bei uns ist für jeden etwas dabei. Wir freuen uns auf euch beim Glück Lauf!",
+    "website_organizer": "https://www.gluecklauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Sudenburg-Lauf - Der Lauf mit dem Lächeln",
+    "distance": "11",
+    "distance_m": [
+      11000
+    ],
+    "place": "39112 Magdeburg",
+    "latitude": 52.1131283,
+    "longitude": 11.6080946,
+    "organizer": "",
+    "website": "/race-pages/sudenburg-lauf-der-lauf-mit-dem-lacheln.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Sachsen-Anhalt",
+    "id": "sudenburg-lauf-der-lauf-mit-dem-lächeln_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Lauf mit dem Lächeln! Der Sudenburg-Lauf in Magdeburg bietet verschiedene Kategorien und Strecken, darunter die beliebte 11 km-Strecke. Unser Rennen findet auf der Straße statt und unser Motto ist „Von Läufern für Läufer“. Unser Ziel ist es, allen Teilnehmenden unvergessliche Erfahrungen zu bescheren und sie dabei zu unterstützen, ihre persönlichen Laufziele zu erreichen. Seid dabei und lasst euer Lächeln beim Sudenburg-Lauf strahlen!",
+    "website_organizer": "http://www.sudenburg-lauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Söltjerlauf",
+    "distance": "3, 3",
+    "distance_m": [
+      3000,
+      3000
+    ],
+    "place": "31848 Bad Münder",
+    "latitude": 52.2184983,
+    "longitude": 9.4374889,
+    "organizer": "",
+    "website": "/race-pages/soltjerlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "söltjerlauf_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, die Anmeldung für den Söltjerlauf 2024 in Bad Münder ist eröffnet! Nehmen Sie am Volkslauf durch den Süntel teil und unterstützen Sie den Lauftreff SC Bad Münder. Mit Distanzen von 3 km und 10 km bietet der Söltjerlauf eine Herausforderung für Läufer jeden Leistungsstandes. Erleben Sie eine malerische Strecke auf Straßen und Wegen mit atemberaubender Naturaussicht. Seien Sie dabei und genießen Sie die lebendige Atmosphäre des Rennens! Wir freuen uns auf Ihren Start beim Söltjerlauf 2024!",
+    "website_organizer": "https://lauftreff-sc-bm.eu/index.php/sl-home",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
     "name": "Sielmanns Heidelauf in der Döberitzer Heide",
     "distance": "5 km",
     "distance_m": [
@@ -13849,6 +14102,91 @@
     "id": "sielmanns-heidelauf-in-der-döberitzer-heide_20240615_httpswwwrunmedelaufkalenderdeutschland",
     "summary": "Liebe Läuferinnen und Läufer,\n\nam 15. Juni 2024 findet der 15. Sielmanns Heidelauf in der Döberitzer Heide in Dallgow-Döberitz statt. Das Organisationsbüro öffnet um 07:00 Uhr. Wir bieten verschiedene Rennkategorien und Distanzen an, darunter auch 5 km auf der Straße. Der Lauf verspricht ein spannendes Erlebnis inmitten der Natur und ist sowohl für erfahrene Läufer als auch für Anfänger geeignet. Machen Sie sich bereit, um sich herauszufordern und gemeinsam mit anderen begeisterten Läufern die wunderschöne Döberitzer Heide zu erkunden.\n\nWir freuen uns auf Ihre Anmeldung und darauf, Sie am Start zu sehen.\n\nMit sportlichen Grüßen,\n[Your Name]\nRennleiter",
     "website_organizer": "https://www.strassenlauf.org/va_details.php?id=815",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Volksbank Haren Citylauf",
+    "distance": "5 km0, 10",
+    "distance_m": [
+      5000,
+      0,
+      10000
+    ],
+    "place": "49733 Haren (Ems)",
+    "latitude": 52.80430880000001,
+    "longitude": 7.2312094,
+    "organizer": "",
+    "website": "/race-pages/volksbank-haren-citylauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "volksbank-haren-citylauf_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer! Herzlich willkommen zu unserem jährlichen Laufevent. Dieses Jahr bieten wir drei verschiedene Rennkategorien an: 5 km, 10 km und einen 1 km Spaßlauf für Familien. Alle Rennen finden auf einer Straßenstrecke statt, die für Anfänger und erfahrene Läufer geeignet ist. Start und Ziel liegen im Herzen der Stadt, die Strecken führen entlang malerischer Sehenswürdigkeiten und durch grüne Parks. Feiern Sie nach dem Rennen mit anderen Läufern im Zielbereich und genießen Sie Verpflegungsstationen und Live-Unterhaltung. Wir freuen uns auf Ihren Besuch! Viel Spaß und Erfolg!",
+    "website_organizer": "http://www.citylauf-haren.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Volkslauf Um die Taakener Ähren",
+    "distance": "2, 10",
+    "distance_m": [
+      2000,
+      10000
+    ],
+    "place": "27367 Taaken",
+    "latitude": 53.1582026,
+    "longitude": 9.204488399999999,
+    "organizer": "",
+    "website": "/race-pages/volkslauf-um-die-taakener-ahren.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "volkslauf-um-die-taakener-ähren_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "SV Taaken Lauf bietet Laufbegeisterten die Möglichkeit, an unserem jährlichen Rennen teilzunehmen. Wir bieten verschiedene Distanzen an, darunter 2 km und 10 km, die auf einer Asphaltstrecke stattfinden. Unser Rennen schafft eine positive und unterstützende Umgebung für Läufer jeden Alters und Fähigkeitsniveaus. Besuchen Sie unsere Webseite, um mehr über uns zu erfahren und sich anzumelden. Wir freuen uns darauf, Sie an der Startlinie zu sehen!",
+    "website_organizer": "http://www.sv-taaken.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Ottermeerlauf 6 Stunden-Staffellauf",
+    "distance": "2, 50",
+    "distance_m": [
+      2000,
+      50000
+    ],
+    "place": "26639 Wiesmoor",
+    "latitude": 53.4113669,
+    "longitude": 7.7248722,
+    "organizer": "",
+    "website": "/race-pages/ottermeerlauf-6-stunden-staffellauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "ottermeerlauf-6-stunden-staffellauf_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim laufmanager.de! Unser jährlicher Laufevent bietet eine Vielzahl an Wettbewerben für Läufer jeden Niveaus. Von einem gemütlichen 2 km-Lauf bis hin zu einem anspruchsvollen Ultramarathon ist für jeden etwas dabei. Unsere Laufstrecken führen entlang malerischer Straßen und bieten eine einzigartige Lauferfahrung. Machen Sie sich bereit, Ihre Grenzen zu überwinden und ein unvergessliches Lauferlebnis zu genießen!",
+    "website_organizer": "http://laufmanager.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Harsefelder Lauf- und Musikfestival",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "21698 Harsefeld",
+    "latitude": 53.4539625,
+    "longitude": 9.5037217,
+    "organizer": "",
+    "website": "/race-pages/harsefelder-lauf-und-musikfestival.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "harsefelder-lauf-und-musikfestival_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Das Lauf- und Musikfestival Harsefeld 2024 ist ein aufregendes Event, das Laufen und Musik auf einzigartige Weise vereint. Mit verschiedenen Rennkategorien und Distanzen, darunter 0 km und 10 km, bietet das Festival für Läufer jeden Levels eine Möglichkeit, an diesem aufregenden Event teilzunehmen. Die malerische Strecke führt die Teilnehmer über Straßen und bietet eine großartige Laufatmosphäre. Mit Live-Musik und Unterhaltung entlang der Strecke und einer Festival-Atmosphäre nach dem Rennen ist dieses Event ein unvergessliches Erlebnis für Laufbegeisterte.",
+    "website_organizer": "https://www.lauf-musik-festival.de/",
     "new_version": true
   },
   {
@@ -13874,6 +14212,26 @@
   {
     "date": "20240615",
     "type": "road",
+    "name": "EWE-Nordseelauf 2024 - Cuxhaven (7. Etappe)",
+    "distance": "10",
+    "distance_m": [
+      10000
+    ],
+    "place": "27427 Cuxhaven",
+    "latitude": 53.859336,
+    "longitude": 8.6879057,
+    "organizer": "",
+    "website": "/race-pages/ewe-nordseelauf-2024-cuxhaven-(7.-etappe).html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "ewe-nordseelauf-2024-cuxhaven-7-etappe_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Hallo Läufer! Der Sommerlauf 2022 bringt Läufer jeden Alters und Niveaus zusammen, um durch malerische Landschaften zu laufen. Mit verschiedenen Kategorien und Distanzen, einschließlich des beliebten 10-km-Laufs, bieten wir für jeden Läufer das passende Rennen. Die Rennstrecke ist hauptsächlich auf der Straße, was ein schnelles und angenehmes Lauferlebnis garantiert. Meldet euch an und erreicht eure Laufziele mit uns!",
+    "website_organizer": "https://www.nordseelauf.com/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
     "name": "Fischland-Darss-Zingst-Ultramarathon (FDZU)",
     "distance": "115",
     "distance_m": [
@@ -13889,6 +14247,48 @@
     "id": "fischland-darss-zingst-ultramarathon-fdzu_20240615_httpswwwlaufendedlv-laufkalender",
     "summary": "Liebe Laufbegeisterte, seien Sie dabei beim Fischland-Darss-Zingst-Ultramarathon, dem längsten Naturerlebnislauf in Mecklenburg-Vorpommern. Mit verschiedenen Rennkategorien und Strecken, darunter der beliebte Ultramarathon, bietet dieses Rennen ein einzigartiges Lauferlebnis entlang der Küstenlandschaften. Melden Sie sich jetzt über das Portal der Tollense Timing GmbH an und entdecken Sie die Schönheit der Region beim Laufen auf der Straße. Wir freuen uns auf Ihren Start!",
     "website_organizer": "http://www.fischland-darss-zingst-ultramarathon.eu/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Mut-Lauf",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "24146 Kiel",
+    "latitude": 54.2920931,
+    "longitude": 10.1857667,
+    "organizer": "",
+    "website": "/race-pages/mut-lauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Schleswig-Holstein",
+    "id": "mut-lauf_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Machen Sie mit beim jährlichen Laufevent! Zur Auswahl stehen zwei Strecken: 10 km und die Spaßlaufstrecke von 0 km. Unser Rennen findet auf der Straße statt und ist für Läufer jeden Alters und Fitnesslevels geeignet. Die Strecken sind gut markiert und sicher, und entlang der Strecke gibt es Verpflegungsstationen. Ob alleine oder mit Freunden und Familie, es wird ein tolles Event für die ganze Gemeinschaft! Jetzt anmelden und dabei sein!",
+    "website_organizer": "http://www.ltvkiel-ost.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240615",
+    "type": "road",
+    "name": "Nospa Mittsommerlauf",
+    "distance": "5, 10",
+    "distance_m": [
+      5000,
+      10000
+    ],
+    "place": "25917 Enge-Sande",
+    "latitude": 54.726671,
+    "longitude": 8.996726599999999,
+    "organizer": "",
+    "website": "/race-pages/nospa-mittsommerlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Schleswig-Holstein",
+    "id": "nospa-mittsommerlauf_20240615_httpswwwlaufendedlv-laufkalender",
+    "summary": "Herzlich willkommen zum Laufevent des SV Enge-Sande! Unser Breitensportverein organisiert ein großes Sportangebot, darunter auch ein fantastisches Laufrennen. Egal ob erfahrener Läufer oder Anfänger, es gibt für jeden die passende Distanz - sei es die 5 km oder die 10 km. Die Strecken führen durch die malerische Landschaft von Enge-Sande und bieten ein einzigartiges Lauferlebnis auf der Straße. Wir laden Läufer jeden Alters dazu ein, Teil einer lebendigen Gemeinschaft zu sein. Wir freuen uns darauf, Sie an der Startlinie zu sehen!",
+    "website_organizer": "http://www.sv-enge-sande.de/",
     "new_version": true
   },
   {
@@ -13914,6 +14314,47 @@
   {
     "date": "20240616",
     "type": "road",
+    "name": "Inklusionslauf",
+    "distance": "0",
+    "distance_m": [
+      0
+    ],
+    "place": "71665 Vaihingen an der Enz",
+    "latitude": 48.9456327,
+    "longitude": 8.9670738,
+    "organizer": "",
+    "website": "/race-pages/inklusionslauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "inklusionslauf_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Wir freuen uns, Sie zum Inklusions-Lauf 2024 einzuladen! Unser Rennen bietet 5 km, 10 km und 0,5 km Spaßlauf-Kategorien auf der Straße. Der Lauf ist darauf ausgerichtet, einfach, barrierefrei und unterhaltsam zu sein. All das erwartet Sie im Jahr 2024 hier in Vaihingen an der Enz. Wir laden Sie ein, gemeinsam mit uns an den Start zu gehen und ein unvergessliches Lauferlebnis zu erleben. Bis nächstes Jahr!",
+    "website_organizer": "https://www.inklusionslauf-lebenshilfe-vm.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Freundschaftslauf der LTF Köllertal",
+    "distance": "7, 10",
+    "distance_m": [
+      7000,
+      10000
+    ],
+    "place": "66333 Völklingen",
+    "latitude": 49.2556226,
+    "longitude": 6.8588948,
+    "organizer": "",
+    "website": "/race-pages/freundschaftslauf-der-ltf-kollertal.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Saarland",
+    "id": "freundschaftslauf-der-ltf-köllertal_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Der Sonnwendlauf des LTF-Köllertal ist zurück! Nehmen Sie an unserem jährlichen Straßenrennen teil, das 7 km und 10 km Rennen anbietet. Unsere Strecken sind herausfordernd und bieten Laufbegeisterten jeden Niveaus die Möglichkeit, ihre Ausdauer und Geschwindigkeit zu testen. Seien Sie Teil dieser großartigen Veranstaltung und erleben Sie die Faszination des Laufens in einer wunderschönen Umgebung.",
+    "website_organizer": "https://www.ltf-koellertal.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
     "name": "Sparkassen Metropolmarathon",
     "distance": "0",
     "distance_m": [
@@ -13929,6 +14370,48 @@
     "id": "sparkassen-metropolmarathon_20240616_httpswwwlaufendedlv-laufkalender",
     "summary": "Liebe Läufer:innen, seid bereit für den Metropol Marathon 2024! Am 16. Juni 2024 findet das Rennen von Fürth nach Nürnberg statt und bietet Läufer:innen aller Leistungsklassen die Möglichkeit, sich auf einer der schönsten Straßenrennstrecken Deutschlands zu beweisen. Unser Marathon umfasst verschiedene Streckenlängen, darunter auch Halbmarathon und 10 km Rennen. Egal, ob du ein erfahrener Läufer bist oder gerade erst mit dem Laufen begonnen hast, bei uns ist für jeden etwas dabei. Diese gut organisierte Veranstaltung führt durch die atemberaubende Kulisse von Fürth und Nürnberg. Ein Rennen, das du nicht verpassen solltest! Schnür deine Laufschuhe und sei dabei!",
     "website_organizer": "https://metropolmarathon.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Integrationslauf des VfB Reichenbach",
+    "distance": "1, 8",
+    "distance_m": [
+      1000,
+      8000
+    ],
+    "place": "66879 Reichenbach-Steegen",
+    "latitude": 49.5018805,
+    "longitude": 7.5355317,
+    "organizer": "",
+    "website": "/race-pages/integrationslauf-des-vfb-reichenbach.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Rheinland-Pfalz",
+    "id": "integrationslauf-des-vfb-reichenbach_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nwir laden euch herzlich zur jährlichen VfB Reichenbach 1921 e.V. Laufveranstaltung ein! Mit zwei Streckenlängen (1 km für Kinder und Anfänger, 8 km für erfahrene Läufer) entlang malerischer Straßen bieten wir für alle Fitnesslevel etwas. Unser Ziel ist es, Menschen jeden Alters zu ermutigen, sich zu bewegen und eine starke Gemeinschaft aufzubauen. Meldet euch an und genießt gemeinsam mit uns die wunderschöne Strecke!\n\nWir sehen uns am Start - lasst uns gemeinsam laufen!",
+    "website_organizer": "http://www.vfbreichenbach.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Kurt-Roth Gedächtnislauf",
+    "distance": "1, 21",
+    "distance_m": [
+      1000,
+      21000
+    ],
+    "place": "64395 Wersau",
+    "latitude": 49.7767569,
+    "longitude": 8.8625759,
+    "organizer": "",
+    "website": "/race-pages/kurt-roth-gedachtnislauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "kurt-roth-gedächtnislauf_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nam 18.06.2023 findet der 27. Kurt-Roth-Gedächtnislauf in Brensbach/Wersau/Odw statt. Der Lauf ehrt Kurt Roth und bietet Rennkategorien, darunter ein 1 km-Rennen für Kinder und einen Halbmarathon für erfahrene Läufer. Beide Rennen finden auf der Straße statt und bieten eine wunderschöne Strecke durch die Landschaft. Der Lauf unterstützt die lokale Laufgemeinschaft und lädt Läufer jeden Alters und Erfahrungsstufe dazu ein, an einem Tag voller Spaß und Camaraderie teilzunehmen.\n\nMit laufenden Grüßen,\n[Your Name] – Laufdirektor",
+    "website_organizer": "https://my.raceresult.com/225773/contact",
     "new_version": true
   },
   {
@@ -13954,6 +14437,69 @@
   {
     "date": "20240616",
     "type": "road",
+    "name": "Ortslauf Wallertheim",
+    "distance": "1, 10",
+    "distance_m": [
+      1000,
+      10000
+    ],
+    "place": "55578 Wallertheim",
+    "latitude": 49.8457298,
+    "longitude": 8.0489139,
+    "organizer": "",
+    "website": "/race-pages/ortslauf-wallertheim.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Rheinland-Pfalz",
+    "id": "ortslauf-wallertheim_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim La.Net 3 Straßenrennen! Dieses Jahr bieten wir sowohl eine 1 km als auch eine 10 km Strecke an. Egal, ob Sie Anfänger oder Profi sind, es gibt eine Kategorie für Sie. Genießen Sie malerische Stadtstraßen und stellen Sie Ihre Ausdauer unter Beweis. Melden Sie sich jetzt an und seien Sie bereit, neue Ziele zu erreichen!",
+    "website_organizer": "https://lanet3.de/external/dlv/register/7049",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Urberacher Kinderlauf",
+    "distance": "0",
+    "distance_m": [
+      0
+    ],
+    "place": "63322 mark-UrberachrRöde",
+    "latitude": 49.9779267,
+    "longitude": 8.8047981,
+    "organizer": "",
+    "website": "/race-pages/urberacher-kinderlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "urberacher-kinderlauf_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Der 17. Urberacher Kinderlauf in Rödermark bietet Kinder jeden Alters spannende Laufstrecken, darunter auch 0 km. Das Rennen findet auf der Straße statt und fördert die Teilnehmer, ihre Leidenschaft für das Laufen zu entdecken. Sicherheit und Fairness stehen im Mittelpunkt, während engagierte Freiwillige für ein unvergessliches Ereignis sorgen. Willkommen sind Kinder aller Laufniveaus - ein Erlebnis für die ganze Familie!",
+    "website_organizer": "https://roedermark.de/localstorage/kultur-sport-freizeit/veranstaltungskalender/?tx_ewroedermark_event%5Bevent%5D=1339&tx_ewroedermark_event%5Baction%5D=show&tx_ewroedermark_event%5Bcontroller%5D=Event&cHash=d25a1833ea83fab79604faa260bb6289",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Ingelheimer Halbe, Sebastian-Münster-Stadtlauf",
+    "distance": "10 km2, 21",
+    "distance_m": [
+      10000,
+      2000,
+      21000
+    ],
+    "place": "55128 Ingelheim",
+    "latitude": 49.9783406,
+    "longitude": 8.239082999999999,
+    "organizer": "",
+    "website": "/race-pages/ingelheimer-halbe,-sebastian-munster-stadtlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Rheinland-Pfalz",
+    "id": "ingelheimer-halbe-sebastian-münster-stadtlauf_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim Sebastian-Münster-Stadtlauf! Unser Halbmarathon führt durch die historische Stadt und endet im Herzen des Geschehens. Neben dem Halbmarathon bieten wir Strecken von 10 km und 2 km an, sodass für Läufer jedes Niveaus etwas dabei ist. Unser Rennen findet ausschließlich auf der Straße statt und bietet eine spannende und abwechslungsreiche Strecke. Join us for a challenging but rewarding race experience! Bis zum nächsten Stadtlauf!",
+    "website_organizer": "https://www.der-ingelheimer-halbe.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
     "name": "Eschathlon - Der Eschborner Halbmarathon",
     "distance": "10 km",
     "distance_m": [
@@ -13969,6 +14515,180 @@
     "id": "eschathlon-der-eschborner-halbmarathon_20240616_httpswwwrunmedelaufkalenderdeutschland",
     "summary": "Liebe Läuferinnen und Läufer, seid herzlich willkommen zum Eschathlon 2024 in Eschborn! Egal ob erfahrene Läufer oder Anfänger, bei uns findet ihr die passende Strecke: 21,1 Kilometer mit spektakulären Ausblicken oder 10 Kilometer entlang malerischer Straßen. Genießt die einzigartige Laufatmosphäre und das Gemeinschaftsgefühl beim Eschathlon!",
     "website_organizer": "https://www.eschathlon.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Rund um die Ködeltalsperre",
+    "distance": "3, 9",
+    "distance_m": [
+      3000,
+      9000
+    ],
+    "place": "96349 Steinwiesen",
+    "latitude": 50.3117496,
+    "longitude": 11.4516987,
+    "organizer": "",
+    "website": "/race-pages/rund-um-die-kodeltalsperre.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "rund-um-die-ködeltalsperre_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Laufbegeisterte, dieses Jahr veranstalten wir ein aufregendes Rennen entlang malerischer Straßen. Mit verschiedenen Distanzen und Kategorien - einschließlich 3 km und 9 km - ist für Läufer aller Leistungsniveaus etwas dabei. Ob Anfänger oder erfahrener Läufer, unsere Veranstaltung bietet eine großartige Gelegenheit, Ihre Laufziele zu erreichen und die Gemeinschaft zu stärken. Seien Sie dabei und genießen Sie gemeinsam die Freude am Laufen! Wir freuen uns auf Sie!",
+    "website_organizer": "http://www.koedeltalsperrelauf.de.tl/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Töpfermarktlauf",
+    "distance": "0, 12",
+    "distance_m": [
+      0,
+      3000,
+      12000,
+      13000
+    ],
+    "place": "07616 Bürgel",
+    "latitude": 50.9390093,
+    "longitude": 11.7502775,
+    "organizer": "",
+    "website": "/race-pages/topfermarktlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Thüringen",
+    "id": "töpfermarktlauf_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim Töpfermarktlauf Bürgel! Unsere traditionelle Laufveranstaltung bietet Streckenoptionen für alle Läufer, darunter 0 km, 3 km, 12 km und 13 km. Der Lauf findet am Sonntag, den 16. Juni 2024, auf der Straße und durch die malerische Landschaft Bürgels statt. Melden Sie sich an und erleben Sie ein unvergessliches Lauferlebnis in Bürgel!",
+    "website_organizer": "http://toepfermarktlauf-buergel.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Kirschlauf",
+    "distance": "0, 14",
+    "distance_m": [
+      0,
+      14000
+    ],
+    "place": "99100 Kleinfahner",
+    "latitude": 51.037962,
+    "longitude": 10.8461761,
+    "organizer": "",
+    "website": "/race-pages/kirschlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Thüringen",
+    "id": "kirschlauf_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Der 22. Kirschlauf über die Fahner Höhe 2024 findet am 16.06.2024 in Gierstädt Kleinfahner, Thüringen statt. Läuferinnen und Läufer jeden Alters und Niveaus sind herzlich eingeladen, an diesem aufregenden Rennen teilzunehmen. Die Strecken umfassen 0 km und 14 km auf der Straße. Die Teilnehmer haben die Möglichkeit, sich auf verschiedene Wettkämpfe vorzubereiten und sich mit anderen Läufern zu messen. Weitere Informationen sind auf der Veranstalterwebseite verfügbar. Wir freuen uns auf ein spannendes Rennen mit vielen begeisterten Teilnehmern!",
+    "website_organizer": "https://events.larasch.de/en/kirschlauf-kleinfahner",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Mendener Citylauf mit Halbmarathon und Schülerläufen",
+    "distance": "5 km1, 21",
+    "distance_m": [
+      5000,
+      1000,
+      21000
+    ],
+    "place": "58706 Menden",
+    "latitude": 51.4300527,
+    "longitude": 7.789601599999998,
+    "organizer": "",
+    "website": "/race-pages/mendener-citylauf-mit-halbmarathon-und-schulerlaufen.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "mendener-citylauf-mit-halbmarathon-und-schülerläufen_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Der Marathonclub Menden organisiert seit über 35 Jahren Laufveranstaltungen im regionalen Umfeld von Menden. Unser jährliches Rennen bietet verschiedene Kategorien und Streckenlängen, einschließlich 5 km, 10 km und Halbmarathon auf der Straße. Egal ob erfahrener Läufer oder Anfänger, es ist für jeden etwas dabei. Machen Sie mit und genießen Sie dieses sportliche Ereignis in familiärer Atmosphäre.",
+    "website_organizer": "http://www.marathonclubmenden.net/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Reinhardswaldwalking",
+    "distance": "3, 8",
+    "distance_m": [
+      3000,
+      8000
+    ],
+    "place": "34359 Reinhardshagen",
+    "latitude": 51.4939455,
+    "longitude": 9.5954672,
+    "organizer": "",
+    "website": "/race-pages/reinhardswaldwalking.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "reinhardswaldwalking_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim Reinhardswald-Lauf! Entdecken Sie die atemberaubende Landschaft und versteckten Schätze der Region bei unserem jährlichen Lauf. Wir bieten Rennkategorien und Strecken für alle Altersgruppen und Leistungsstufen, einschließlich 3 km und 8 km Läufe. Jedes Rennen findet auf der Straße statt, um Ihnen das bestmögliche Lauferlebnis zu bieten. Egal, ob erfahrener Läufer oder Anfänger, für jeden ist etwas dabei. Seien Sie bereit, Ihre Grenzen zu verschieben und die Natur zu erleben. Wir freuen uns auf Ihr Kommen!",
+    "website_organizer": "https://www.komoot.com/guide/202770/hiking-around-reinhardswald",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Volkswandertag",
+    "distance": "8, 8",
+    "distance_m": [
+      0,
+      8000,
+      8000,
+      21000
+    ],
+    "place": "37115 Tiftlingerode",
+    "latitude": 51.5004093,
+    "longitude": 10.2436488,
+    "organizer": "",
+    "website": "/race-pages/volkswandertag.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "volkswandertag_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\nSeid herzlich zum jährlichen Volkswandertag eingeladen! An diesem spannenden Event könnt ihr an Rennen auf asphaltierten Straßen in den Kategorien 5 km, 8 km und Halbmarathon teilnehmen. Doch nicht nur das Rennen, auch ein tolles Rahmenprogramm für die ganze Familie erwartet euch. Kommt vorbei und erlebt ein unvergessliches Rennen und Gemeinschaftsgefühl. Wir sehen uns an der Startlinie!",
+    "website_organizer": "https://en.langenscheidt.com/german-english/volkswandertag",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Letter Vituslauf",
+    "distance": "5 km0, 10",
+    "distance_m": [
+      5000,
+      0,
+      10000
+    ],
+    "place": "59302 Oelde",
+    "latitude": 51.8009056,
+    "longitude": 8.1774995,
+    "organizer": "",
+    "website": "/race-pages/letter-vituslauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "letter-vituslauf_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim Heimrennen! Unsere jährliche Veranstaltung bietet Strecken von 5 km, 10 km und 0 km für Läufer aller Fähigkeiten. Die malerische Rennstrecke führt durch die Landschaft und bietet eine atemberaubende Aussicht. Das Rennen ist familienfreundlich mit Musik, Essen und Kinderaktivitäten. Egal ob Profi oder Anfänger, es ist für jeden etwas dabei. Schnüren Sie Ihre Laufschuhe und seien Sie bereit für ein unvergessliches Erlebnis!",
+    "website_organizer": "http://www.lv-oelde.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Schlossinsellauf Lübben",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "15907 Lübben (Spreewald)",
+    "latitude": 51.9448818,
+    "longitude": 13.8885264,
+    "organizer": "",
+    "website": "/race-pages/schlossinsellauf-lubben.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Brandenburg",
+    "id": "schlossinsellauf-lübben_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Wir freuen uns, den Schlossinsellauf in Lübben am 16. Juni 2024 anzukündigen! Die Einzelanmeldung für das Rennen startet am 1. Februar 2024. Es gibt Strecken von 0 km und 10 km auf der Straße. Erfahrene Läufer und Anfänger sind herzlich willkommen, um die malerische Kulisse von Lübben zu genießen. Sichern Sie sich jetzt Ihren Platz und seien Sie Teil dieses unvergesslichen Events!",
+    "website_organizer": "https://schlossinsellauf.de/index.php/anmeldung/",
     "new_version": true
   },
   {
@@ -13989,6 +14709,49 @@
     "id": "scharmützelseelauf_20240616_httpswwwrunmedelaufkalenderdeutschland",
     "summary": "Liebe Läuferinnen und Läufer, seid dabei bei unserem jährlichen Laufwettbewerb! Der 5 km lange Trail ist perfekt für erfahrene Trailrunner und Neueinsteiger. Genießt die malerische Natur und nehmt an dieser herausfordernden und unvergesslichen Veranstaltung teil. Kommt alleine oder mit Freunden und Familie und lasst uns gemeinsam an der Startlinie stehen! Wir freuen uns auf euch!",
     "website_organizer": "http://www.sachselauf.de/smsee_lauf_ext/ausschreibung/ausschreibung.pdf",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Barsinghäuser Lebenshaus Spendenlauf",
+    "distance": "0",
+    "distance_m": [
+      0
+    ],
+    "place": "30890 Barsinghausen",
+    "latitude": 52.34375350000001,
+    "longitude": 9.4806112,
+    "organizer": "",
+    "website": "/race-pages/barsinghauser-lebenshaus-spendenlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "barsinghäuser-lebenshaus-spendenlauf_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim Fuchsbau-Lauf! Erleben Sie malerische Streckenlängen für Läufer jeden Niveaus, von 5 km bis zum Halbmarathon. Der Lauf findet auf der Straße statt und unterstützt den Ambulanten Hospizdienst „Aufgefangen“. Melden Sie sich jetzt an und machen Sie mit!",
+    "website_organizer": "https://aufgefangen.de/fuchsbau/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Dahlenburger Moorlauf",
+    "distance": "0, 8",
+    "distance_m": [
+      0,
+      1000,
+      5000,
+      8000
+    ],
+    "place": "21368 Dahlenburg",
+    "latitude": 53.1878707,
+    "longitude": 10.739827,
+    "organizer": "",
+    "website": "/race-pages/dahlenburger-moorlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "dahlenburger-moorlauf_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Machen Sie sich bereit für unser jährliches Laufrennen! Wählen Sie aus 0 km, 1 km, 5 km und 8 km Strecken. Egal, ob Sie ein erfahrener Läufer oder Anfänger sind, es gibt für jeden etwas. Das Rennen findet auf Straßen statt und bietet eine großartige Möglichkeit, die schöne Landschaft zu genießen. Melden Sie sich heute an und seien Sie Teil eines unvergesslichen Renntages!",
+    "website_organizer": "http://my.raceresult.com/",
     "new_version": true
   },
   {
@@ -14015,6 +14778,199 @@
     "new_version": true
   },
   {
+    "date": "20240616",
+    "type": "road",
+    "name": "Ludwigsluster Schlossgartenlauf",
+    "distance": "2, 15",
+    "distance_m": [
+      2000,
+      15000
+    ],
+    "place": "19288 Ludwigslust",
+    "latitude": 53.3244914,
+    "longitude": 11.4969238,
+    "organizer": "",
+    "website": "/race-pages/ludwigsluster-schlossgartenlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Mecklenburg-Vorpommern",
+    "id": "ludwigsluster-schlossgartenlauf_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen zur tollense-timing Laufveranstaltung! Wir bieten präzise Zeitmessungssysteme für unsere 2 km und 15 km Straßenläufe. Die 2 km Strecke ist perfekt für Anfänger und Schulkinder, während die 15 km Strecke eine ideale Herausforderung für erfahrene Läufer darstellt. Unser Ziel ist es, allen Laufbegeisterten die Möglichkeit zu geben, an einem fairen und professionellen Rennen teilzunehmen. Wir freuen uns auf Ihre Teilnahme!",
+    "website_organizer": "http://www.tollense-timing.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Donatus-Lauf",
+    "distance": "5, 11",
+    "distance_m": [
+      5000,
+      11000
+    ],
+    "place": "22559 Hamburg",
+    "latitude": 53.5830905,
+    "longitude": 9.753759800000001,
+    "organizer": "",
+    "website": "/race-pages/donatus-lauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hamburg",
+    "id": "donatus-lauf_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läufer, herzlich willkommen zum jährlichen Lauftreff Wedel e.V.! Unser Rennen bietet Streckenlängen von 5 km und 11 km, perfekt für Läufer aller Fitnesslevel. Entdecken Sie malerische Straßen und genießen Sie die schöne Landschaft. Familien sind herzlich willkommen und nach dem Rennen warten Erfrischungen. Kommen Sie und feiern Sie mit uns! Wir freuen uns auf Ihren Start!",
+    "website_organizer": "http://www.lauftreff-wedel.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "RVB Harlingerland Volkslauf",
+    "distance": "0, 21",
+    "distance_m": [
+      0,
+      1000,
+      10000,
+      21000
+    ],
+    "place": "26427 Dunum",
+    "latitude": 53.59659809999999,
+    "longitude": 7.646220199999999,
+    "organizer": "",
+    "website": "/race-pages/rvb-harlingerland-volkslauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "rvb-harlingerland-volkslauf_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nDie Anmeldung für den 41. RVB Harlingerland Volkslauf am 16. 06. 2024 ist eröffnet! Unser beliebter Lauf findet dieses Jahr im Schafhauser Wald statt und bietet Strecken für alle Niveaus: 1 km, 10 km, Halbmarathon und ein spezieller Lauf für Kinder. Die malerische Strecke führt entlang von Straßen und bietet atemberaubende Ausblicke auf die umliegende Landschaft. Seien Sie Teil dieses traditionsreichen Laufs und erleben Sie gemeinsames Laufgefühl inmitten der Natur. Wir freuen uns auf Ihre Teilnahme!",
+    "website_organizer": "https://www.lt-schafhauserwald.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "BikeNavy Run",
+    "distance": "10",
+    "distance_m": [
+      10000
+    ],
+    "place": "27639 Wurster Nordseeküste",
+    "latitude": 53.7543426,
+    "longitude": 8.6037524,
+    "organizer": "",
+    "website": "/race-pages/bikenavy-run.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "bikenavy-run_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, seid dabei beim spektakulären \"Bike Navy Run\" am 09. Juli 2023 auf dem Flughafen in Nordholz! Mit Einzelstarts und Zeitfahren bieten wir Rennen für alle Niveaus. Wir haben auch ein inklusives Laufevent und eine 10-km-Strecke für Straßenrennenliebhaber. Seid dabei und erlebt unvergessliche Momente!",
+    "website_organizer": "https://bike-navy.de/run/",
+    "new_version": true
+  },
+  {
+    "date": "20240616",
+    "type": "road",
+    "name": "Stadtlauf Kappeln Rund",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "24376 Kappeln",
+    "latitude": 54.6746346,
+    "longitude": 9.940032,
+    "organizer": "",
+    "website": "/race-pages/stadtlauf-kappeln-rund.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Schleswig-Holstein",
+    "id": "stadtlauf-kappeln-rund_20240616_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer! Seid dabei beim TSV Kappeln-Lauf in der malerischen Stadt Kappeln im Kreis Schleswig-Flensburg. Wir bieten euch zwei Strecken an: 10 km und 5 km durch die Stadt. Es wird ein unterhaltsames und herausforderndes Rennen für Läufer aller Niveaus. Meldet euch jetzt an und seid Teil dieses unvergesslichen Erlebnisses auf der Straße!",
+    "website_organizer": "http://www.tsv-kappeln.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240618",
+    "type": "road",
+    "name": "Darmstädter Stadtlauf",
+    "distance": "1, 5",
+    "distance_m": [
+      0,
+      1000,
+      5000,
+      10000
+    ],
+    "place": "64283 Darmstadt",
+    "latitude": 49.8695282,
+    "longitude": 8.6506852,
+    "organizer": "",
+    "website": "/race-pages/darmstadter-stadtlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "darmstädter-stadtlauf_20240618_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Laufbegeisterte, Willkommen zu Darmstadt läuft! Unsere jährliche Laufveranstaltung bietet Rennstrecken für Läufer aller Könnensstufen. Wir haben 0 km, 1 km, 5 km und 10 km Rennen, die alle auf der Straße stattfinden. Unser Ziel ist es, die Freude am Laufen in der Gemeinschaft zu fördern und den Sport für jeden zugänglich zu machen. Die atemberaubende Kulisse von Darmstadt verspricht ein unvergessliches Lauferlebnis. Wir freuen uns darauf, Läufer jeden Alters und jeder Herkunft zu begrüßen. Seien Sie bereit, Ihre Laufschuhe anzuziehen und sich uns anzuschließen, wenn Darmstadt läuft! Bis bald an der Startlinie!",
+    "website_organizer": "http://www.darmstadt-laeuft.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240619",
+    "type": "road",
+    "name": "Sommernachtslauf am Hufeisen",
+    "distance": "5, 7",
+    "distance_m": [
+      3000,
+      5000,
+      7000,
+      18000
+    ],
+    "place": "63589 Linsengericht",
+    "latitude": 50.180369,
+    "longitude": 9.229002699999999,
+    "organizer": "",
+    "website": "/race-pages/sommernachtslauf-am-hufeisen.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "sommernachtslauf-am-hufeisen_20240619_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läufer und Läuferinnen, seien Sie dabei bei unserer diesjährigen Laufveranstaltung, organisiert von my.race result. Wir bieten vier Streckenoptionen: 3 km, 5 km, 7 km und 18 km, alle auf der Straße. Genießen Sie malerische Landschaften und tolle Unterhaltung. Melden Sie sich noch heute an und machen Sie diesen Tag zu einem unvergesslichen Laufabenteuer! Viel Glück beim Training und bis bald an der Startlinie!",
+    "website_organizer": "https://my.raceresult.com/",
+    "new_version": true
+  },
+  {
+    "date": "20240620",
+    "type": "road",
+    "name": "run4healthineers",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "91058 Erlangen",
+    "latitude": 49.5613968,
+    "longitude": 11.0043771,
+    "organizer": "",
+    "website": "/race-pages/run4healthineers.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "run4healthineers_20240620_httpswwwlaufendedlv-laufkalender",
+    "summary": "Viel Spaß und Teamgeist beim Run4Healthineers in Erlangen heute! Lauf mit uns auf der Straße über 5 km, 10 km oder 15 km. Egal ob Profi oder Anfänger, alle sind willkommen, die lokale Umgebung zu erkunden und positive Energie zu teilen. Wir freuen uns auf das nächste Event!",
+    "website_organizer": "https://www.linkedin.com/posts/elisabethstaudinger_run4healthineers-2023-activity-7085349409802043392-2TTj",
+    "new_version": true
+  },
+  {
+    "date": "20240620",
+    "type": "road",
+    "name": "Firmenlauf Bremerhaven",
+    "distance": "6",
+    "distance_m": [
+      6000
+    ],
+    "place": "27580 Bremerhaven",
+    "latitude": 53.581361,
+    "longitude": 8.5915275,
+    "organizer": "",
+    "website": "/race-pages/firmenlauf-bremerhaven.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "firmenlauf-bremerhaven_20240620_httpswwwlaufendedlv-laufkalender",
+    "summary": "Wir sind begeistert, den Bremerhaven-Lauf anzukündigen, ein spannendes Event für alle Laufbegeisterten! Unsere Veranstaltung bietet verschiedene Distanzen, darunter die beliebte 6 km Strecke, perfekt für Läufer aller Niveaus. Der Lauf findet auf asphaltierten Straßen statt und bietet die ideale Umgebung für persönliche Bestleistungen. Seien Sie dabei und erleben Sie einen unvergesslichen Lauf durch die malerische Stadt Bremerhaven!",
+    "website_organizer": "https://brhvlauf.rosoware.de/?index=events&event=firma24",
+    "new_version": true
+  },
+  {
     "date": "20240621",
     "type": "trail",
     "name": "Högl-Berglauf",
@@ -14037,6 +14993,28 @@
   {
     "date": "20240621",
     "type": "road",
+    "name": "Seelbach Schwarzwald Sonnwendlauf",
+    "distance": "10 km0, 10",
+    "distance_m": [
+      10000,
+      0,
+      10000
+    ],
+    "place": "77960 Seelbach (Schutter)",
+    "latitude": 48.30994829999999,
+    "longitude": 7.941062199999998,
+    "organizer": "",
+    "website": "/race-pages/seelbach-schwarzwald-sonnwendlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "seelbach-schwarzwald-sonnwendlauf_20240621_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim Seelbach Schwarzwald Sonnwendlauf 2024! Ein aufregendes Laufereignis im schönen Schwarzwald mit Streckenlängen von 5 km, 10 km und Halbmarathon. Erfahrene Läufer und Anfänger sind herzlich willkommen. Entdecke die atemberaubende Landschaft und fordere dich selbst heraus. Laufe alleine oder mit Familie und Freunden. Erlebe den Schwarzwald hautnah beim Sonnwendlauf!",
+    "website_organizer": "http://www.sonnwendlauf-seelbach.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240621",
+    "type": "road",
     "name": "Nagolder Mittsommerlauf",
     "distance": "1½ Std. (Staffel)",
     "distance_m": [],
@@ -14050,6 +15028,219 @@
     "id": "nagolder-mittsommerlauf_20240621_httpswwwrunmedelaufkalenderdeutschland",
     "summary": "Liebe Läuferinnen und Läufer, seien Sie Teil des Nagolder Mittsommerlaufs 2022! Erleben Sie die atemberaubende Schönheit von Nagold beim 5 km- oder 10 km-Lauf auf der Straße. Unser Lauf ist für alle zugänglich und bietet die Möglichkeit, Laufziele zu erreichen und die Gemeinschaft zu stärken. Nach dem Rennen erwarten Sie Verpflegungsstände und Unterhaltung. Seien Sie dabei und machen Sie diesen Tag unvergesslich! Wir freuen uns auf Sie an der Startlinie.",
     "website_organizer": "https://www.nagold.de/Tourismus/Sportportal/Sportveranstaltungen/Veranstaltung?view=publish&item=eventDate&id=15904",
+    "new_version": true
+  },
+  {
+    "date": "20240621",
+    "type": "road",
+    "name": "Retzbachlauf Gaimersheim",
+    "distance": "1, 9",
+    "distance_m": [
+      1000,
+      9000
+    ],
+    "place": "85080 Gaimersheim",
+    "latitude": 48.814421,
+    "longitude": 11.3602507,
+    "organizer": "",
+    "website": "/race-pages/retzbachlauf-gaimersheim.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "retzbachlauf-gaimersheim_20240621_httpswwwlaufendedlv-laufkalender",
+    "summary": "Kommt und nehmt am Retzbachlauf Gaimersheim 2024 teil! Mit Strecken von 1 km und 9 km ist für alle Altersgruppen und Fitnessniveaus etwas dabei. Laufschuhe schnüren und sich der Herausforderung stellen! Ein unvergessliches Erlebnis in malerischer Umgebung erwartet euch. Seid Teil dieses spektakulären Events und lernt neue Leute kennen!",
+    "website_organizer": "https://my.raceresult.com/275312/registration",
+    "new_version": true
+  },
+  {
+    "date": "20240621",
+    "type": "road",
+    "name": "Erftflitzer Lauf",
+    "distance": "0, 5",
+    "distance_m": [
+      0,
+      5000
+    ],
+    "place": "41472 Neuss-Holzheim",
+    "latitude": 51.1599723,
+    "longitude": 6.6651798,
+    "organizer": "",
+    "website": "/race-pages/erftflitzer-lauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "erftflitzer-lauf_20240621_httpswwwlaufendedlv-laufkalender",
+    "summary": "Die Holzheimer Sportgemeinschaft präsentiert am 21. Juni 2024 den 32. Erftflitzerlauf. Läufer jeden Niveaus sind eingeladen, sich den Herausforderungen der malerischen Straßen von Holzheim zu stellen. Mit Distanzen von 5 km und 10 km bieten wir für jeden etwas. Kommen Sie und nehmen Sie an diesem unvergesslichen Straßenrennen teil.",
+    "website_organizer": "http://www.sg-holzheim.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240621",
+    "type": "road",
+    "name": "Dr. Ernst van Aaken Gedächtnislauf",
+    "distance": "0, 5",
+    "distance_m": [
+      0,
+      5000
+    ],
+    "place": "41366 Schwalmtal",
+    "latitude": 51.2113052,
+    "longitude": 6.259379399999999,
+    "organizer": "",
+    "website": "/race-pages/dr.-ernst-van-aaken-gedachtnislauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "dr-ernst-van-aaken-gedächtnislauf_20240621_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läufer und Läuferinnen, der 41. Dr. Ernst van Aaken-Gedächtnislauf findet am 21. Juni 2024 in Waldniel statt. Nach einer Pause von vier Jahren bieten wir Strecken über 5 km und 10 km an. Der Lauf findet auf der Straße statt und verspricht ein spannendes Rennen für alle Teilnehmer. Wir heißen alle Sportlerinnen und Sportler herzlich willkommen und hoffen auf eine rege Teilnahme. Freut euch auf einen unvergesslichen Lauf-Tag! Wir sehen uns in Waldniel.",
+    "website_organizer": "http://www.osc-lauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240621",
+    "type": "road",
+    "name": "Oesterweger Feuerwehrlauf",
+    "distance": "10 km1, 10",
+    "distance_m": [
+      10000,
+      1000,
+      10000
+    ],
+    "place": "33775 Versmold-Oesterweg",
+    "latitude": 52.0348997,
+    "longitude": 8.199973,
+    "organizer": "",
+    "website": "/race-pages/oesterweger-feuerwehrlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "oesterweger-feuerwehrlauf_20240621_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, herzlich willkommen zu unserem jährlichen Straßenrennen! Wir bieten Streckenlängen von 1 km, 5 km und 10 km an, damit jeder Teilnehmer, unabhängig von seinem Laufniveau, die passende Herausforderung findet. Neben der malerischen Landschaft bieten wir auch eine Kinderstrecke an. Nach dem Rennen feiern wir gemeinsam mit Musik und Erfrischungen. Wir freuen uns, Sie an der Startlinie zu sehen! Bis bald!",
+    "website_organizer": "http://www.lz-oesterweg.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240621",
+    "type": "road",
+    "name": "Bad Essener Abendlauf",
+    "distance": "1, 10",
+    "distance_m": [
+      1000,
+      1000,
+      10000,
+      10000,
+      10000
+    ],
+    "place": "49152 Bad Essen",
+    "latitude": 52.3404825,
+    "longitude": 8.3955076,
+    "organizer": "",
+    "website": "/race-pages/bad-essener-abendlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "bad-essener-abendlauf_20240621_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen zum jährlichen Laufevent!Wir bieten verschiedene Kategorien&Distanzen an: 1km, 5km und 10km alle auf der Straße. Egal ob Anfänger oder erfahrener Läufer, jeder ist willkommen. 1km-Strecken sind perfekt für Familien und Kinder, 5km & 10km bieten eine größere Herausforderung. Machen Sie mit und genießen Sie einen Tag voller Spaß, Fitness und Gemeinschaft! Bis bald beim Rennen!",
+    "website_organizer": "http://www.tusbadessen.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240621",
+    "type": "road",
+    "name": "Jemgumer Dörploop (Müggenmarktlauf)",
+    "distance": "0, 20",
+    "distance_m": [
+      0,
+      20000
+    ],
+    "place": "26844 Jemgum",
+    "latitude": 53.2681662,
+    "longitude": 7.3849623,
+    "organizer": "",
+    "website": "/race-pages/jemgumer-dorploop-(muggenmarktlauf).html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "jemgumer-dörploop-müggenmarktlauf_20240621_httpswwwlaufendedlv-laufkalender",
+    "summary": "Wir freuen uns auf unseren Laufevent mit 10 km und 20 km Strecken entlang der Straße. Eine malerische Umgebung erwartet alle Läuferinnen und Läufer. Alle Interessierten sind herzlich eingeladen! Klicken Sie auf die Überschriften der News für weitere Informationen. Viel Spaß beim Training und bis zum Renntag!",
+    "website_organizer": "https://lauftreff-sv-ems-jemgum.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240621",
+    "type": "road",
+    "name": "MidSummerRun 2024",
+    "distance": "1, 10",
+    "distance_m": [
+      1000,
+      10000
+    ],
+    "place": "22377 Hamburg",
+    "latitude": 53.5488282,
+    "longitude": 9.987170299999999,
+    "organizer": "",
+    "website": "/race-pages/midsummerrun-2024.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hamburg",
+    "id": "midsummerrun-2024_20240621_httpswwwlaufendedlv-laufkalender",
+    "summary": "Der MidSummerRun ist ein Volkslauf in Hamburg, der am 21. Juni 2023 stattfindet. Der Lauf unterstützt die 17 Nachhaltigkeitsziele der Vereinten Nationen und soll globale Probleme ins Bewusstsein rufen. Die Teilnehmer haben die Möglichkeit, an Aktionen teilzunehmen und die Botschaft des Laufs zu unterstützen. Die Rennen umfassen Streckenlängen von 1 km und 10 km und finden auf der Straße statt. Es ist eine großartige Gelegenheit, an einer einzigartigen und sinnvollen Veranstaltung teilzunehmen und gleichzeitig einen sportlichen Tag zu erleben.",
+    "website_organizer": "http://www.lauftreff-alstertal.de/midsummer",
+    "new_version": true
+  },
+  {
+    "date": "20240621",
+    "type": "road",
+    "name": "Brunsbüttler Citylauf",
+    "distance": "5, 10",
+    "distance_m": [
+      5000,
+      10000
+    ],
+    "place": "25541 Brunsbüttel",
+    "latitude": 53.9024485,
+    "longitude": 9.115056599999999,
+    "organizer": "",
+    "website": "/race-pages/brunsbuttler-citylauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Schleswig-Holstein",
+    "id": "brunsbüttler-citylauf_20240621_httpswwwlaufendedlv-laufkalender",
+    "summary": "Wir sind aufgeregt, den diesjährigen Citylauf in Brunsbüttel anzukündigen! Mit Streckenlängen von 5 km und 10 km wird der Lauf auf der Straße stattfinden und die malerische Schleusenstadt in Dithmarschen erleben. Der VfB Brunsbüttel e.V. freut sich auf Läufer jeden Alters und Fähigkeitsstufe. Der sportliche Wettkampf wird von einem tollen Rahmenprogramm begleitet. Schnüren Sie Ihre Laufschuhe und seien Sie Teil dieses unvergesslichen Ereignisses!",
+    "website_organizer": "http://www.citylauf-brunsbuettel.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "road",
+    "name": "Dachauer Sommernachtslauf",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "85221 Dachau",
+    "latitude": 48.2579001,
+    "longitude": 11.452981,
+    "organizer": "",
+    "website": "/race-pages/dachauer-sommernachtslauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "dachauer-sommernachtslauf_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Laufbegeisterte,\n\nder Sommernachtslauf München steht bevor! Laufen Sie entweder die 10 km- oder die 5 km-Strecke auf der Straße und genießen Sie eine atemberaubende Route durch die Stadt unter dem Sternenhimmel. Es wird ein Rennen voller Spannung, Spaß und Gemeinschaft. Seien Sie dabei und überwinden Sie neue Herausforderungen. Wir freuen uns, Sie an der Startlinie zu begrüßen!\n\nRennleitung",
+    "website_organizer": "https://citylauf-muenchen.de/teilnehmerinfo",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "road",
+    "name": "100km Staffellauf um den Pokal der Uni Tübingen",
+    "distance": "100",
+    "distance_m": [
+      100000
+    ],
+    "place": "72074 Tübingen",
+    "latitude": 48.5723636,
+    "longitude": 9.0779068,
+    "organizer": "",
+    "website": "/race-pages/100km-staffellauf-um-den-pokal-der-uni-tubingen.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "100km-staffellauf-um-den-pokal-der-uni-tübingen_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nunser jährlicher Ultramarathon ist umgezogen und dieses Jahr auf folgender Website zu finden: https://uni-tuebingen.de/de/174006. Die Strecke führt hauptsächlich über befestigte Straßen und bietet einzigartige Blicke auf die Umgebung. Mit verschiedenen Distanzen zur Auswahl, darunter auch die Kategorie Ultramarathon, verspricht der Wettbewerb ein unvergessliches Erlebnis. Seien Sie dabei und erleben Sie die Herausforderung des Ultramarathons! Wir freuen uns auf zahlreiche Anmeldungen.",
+    "website_organizer": "http://www.hsp.uni-tuebingen.de/",
     "new_version": true
   },
   {
@@ -14072,6 +15263,27 @@
     "id": "stuifenläufe_20240622_httpswwwrunmedelaufkalenderdeutschland",
     "summary": "Liebe Läuferinnen und Läufer,\n\nmelden Sie sich noch heute für die jährliche Laufveranstaltung des Turnverein Wißgoldingen 1896 e.V. an! Mit anspruchsvollen Strecken von 1 km, 3 km und 9 km bieten wir für alle Trailrunner - ob Anfänger oder erfahrene Läufer - die richtige Herausforderung. Start und Ziel befinden sich in der malerischen Umgebung des Turnvereins. Melden Sie sich jetzt an und stellen Sie sich der Herausforderung!\n\nWir freuen uns darauf, Sie am Start zu sehen!",
     "website_organizer": "https://www.tv-wissgoldingen.de/gebuehren-infos-2017",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "road",
+    "name": "Hüttlinger Muffigellauf",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "73460 Hüttlingen",
+    "latitude": 48.8924135,
+    "longitude": 10.1005875,
+    "organizer": "",
+    "website": "/race-pages/huttlinger-muffigellauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "hüttlinger-muffigellauf_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nAnmeldungen für die Hüttlinger Muffigelläufe sind offen! Nehmen Sie an unserem aufregenden Rennen teil und wählen Sie zwischen der 10 km oder der 5 km Strecke. Egal ob Anfänger oder Erfahrener, dieses Rennen bietet für alle Levels das Richtige. Die malerische Stadt Hüttlingen und die umliegende Landschaft bieten atemberaubende Aussichten. Genießen Sie die tolle Atmosphäre und die Unterstützung der Zuschauer. Nach dem Rennen gibt es einen Festbereich, um zu entspannen und die Impressionen des Rennens zu genießen. Wir freuen uns auf Ihre Teilnahme und wünschen viel Erfolg beim Hüttlinger Muffigelläufe!",
+    "website_organizer": "https://www.muffigellauf.de/anmeldung/",
     "new_version": true
   },
   {
@@ -14117,6 +15329,26 @@
   {
     "date": "20240622",
     "type": "road",
+    "name": "Marpinger IKK Freundschaftslauf",
+    "distance": "1",
+    "distance_m": [
+      1000
+    ],
+    "place": "66646 Marpingen",
+    "latitude": 49.4516231,
+    "longitude": 7.0574135,
+    "organizer": "",
+    "website": "/race-pages/marpinger-ikk-freundschaftslauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Saarland",
+    "id": "marpinger-ikk-freundschaftslauf_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "LTF Marpingen ist ein aufregendes Laufevent am Bergmannskreuz, das Läufer aller Levels herausfordert. Mit Distanzen wie dem Marathon und einem speziellen Laufkurs bietet der Wettbewerb eine Vielzahl an Herausforderungen. Die Rennkategorien umfassen auch 1 km auf der Straße. Ein unvergessliches Lauferlebnis und die Möglichkeit, persönliche Bestleistungen zu erreichen. Seien Sie bereit, sich auf dieses abenteuerliche Rennen einzulassen und erleben Sie die aufregende Atmosphäre.",
+    "website_organizer": "http://ltf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "road",
     "name": "Ikano Bank City Marathon Wiesbaden",
     "distance": "3 km",
     "distance_m": [
@@ -14152,6 +15384,48 @@
     "id": "24-stunden-lauf-in-strinz-margarethä_20240622_httpswwwrunmedelaufkalenderdeutschland",
     "summary": "Der 3. 24 Stunden-Lauf in Strinz-Margarethä bietet Laufbegeisterten die Möglichkeit, an einem aufregenden Langstreckenrennen teilzunehmen. Die Veranstaltung findet auf der Straße statt und umfasst verschiedene Rennkategorien, darunter auch ein 24 km Rennen. Es ist ein Wettbewerb, der Ausdauer und Entschlossenheit erfordert. Die Strecke erstreckt sich durch die malerische Landschaft von Strinz-Margarethä und verspricht den Teilnehmern ein unvergessliches Lauferlebnis. Weitere Informationen finden Sie auf der Veranstaltungswebsite.",
     "website_organizer": "https://www.runme.at/deutschland/24-stunden-lauf-in-strinz-margarethae-65329-hohenstein/",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "trail",
+    "name": "Taunus Trailrun",
+    "distance": "1, 15",
+    "distance_m": [
+      1000,
+      15000
+    ],
+    "place": "65618 Selters-Eisenbach",
+    "latitude": 50.3385016,
+    "longitude": 8.2546897,
+    "organizer": "",
+    "website": "/race-pages/taunus-trailrun.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "taunus-trailrun_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "Herzlich willkommen zur VLG 1969 Eisenbach e.V.! Unser alljährliches Lauf- und Wanderereignis bietet zwei spannende Strecken: 1 km für Familien und jüngere Teilnehmer sowie 15 km für erfahrene Läufer, die eine echte Trail-Herausforderung suchen. Kommen Sie und genießen Sie die Schönheit des Laufens und Gehens in der Natur rund um Eisenbach!",
+    "website_organizer": "https://www.vlg-eisenbach.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "trail",
+    "name": "Internationaler Trail-Lauf - Rund um die Sporkenburg - Sauerstoff pur mit LÖWENSTEIN medical",
+    "distance": "0, 26",
+    "distance_m": [
+      0,
+      26000
+    ],
+    "place": "56335 Neuhäusel",
+    "latitude": 50.38515899999999,
+    "longitude": 7.7093474,
+    "organizer": "",
+    "website": "/race-pages/internationaler-trail-lauf-rund-um-die-sporkenburg-sauerstoff-pur-mit-lowenstein-medical.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Rheinland-Pfalz",
+    "id": "internationaler-trail-lauf-rund-um-die-sporkenburg-sauerstoff-pur-mit-löwenstein-medical_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "Die \"Xtreme Trail Run\" ist ein herausforderndes Rennen für Läufer jeden Niveaus. Wähle zwischen einer 0 km-Strecke für Anfänger und einer anspruchsvollen 26 km Ultra-Distanz. Erlebe die atemberaubende Berglandschaft und anspruchsvolles Terrain auf natürlichen Pfaden. Komm und teste deine Grenzen in unserer sicheren und abenteuerlichen Rennumgebung.",
+    "website_organizer": "https://www.tveitelborn.de/veranstaltungen",
     "new_version": true
   },
   {
@@ -14260,6 +15534,69 @@
   {
     "date": "20240622",
     "type": "road",
+    "name": "Zechenlauf - Neue Zeche Westerholt",
+    "distance": "0, 5",
+    "distance_m": [
+      0,
+      5000
+    ],
+    "place": "45896 Gelsenkirchen",
+    "latitude": 51.6109446,
+    "longitude": 7.019461,
+    "organizer": "",
+    "website": "/race-pages/zechenlauf-neue-zeche-westerholt.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "zechenlauf-neue-zeche-westerholt_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, herzlich willkommen zur jährlichen Laufveranstaltung des SuS Bertlich 1945 e.V. - Abteilung Leichtathletik! Die Strecken umfassen 0 km und 5 km und werden auf Straßen stattfinden. Das Rennen ist für Läufer jeden Alters und Niveaus geöffnet, ideal für erfahrene Marathonläufer und Anfänger. Wir bieten eine großartige Laufumgebung und freuen uns darauf, Sie an der Startlinie zu begrüßen! Viel Spaß beim Rennen!",
+    "website_organizer": "http://www.sus-bertlich.de/la/",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "road",
+    "name": "Benefizlauf für den Landkreis Helmstedt",
+    "distance": "3, 10",
+    "distance_m": [
+      3000,
+      10000
+    ],
+    "place": "38350 Helmstedt",
+    "latitude": 52.2272927,
+    "longitude": 11.003723,
+    "organizer": "",
+    "website": "/race-pages/benefizlauf-fur-den-landkreis-helmstedt.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "benefizlauf-für-den-landkreis-helmstedt_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läufer,\n\nWir sind stolz, den jährlichen Straßenlauf in unserer Stadt zu präsentieren! Unsere Laufstrecke ist eine der schönsten in der Stadt und bietet sowohl Anfängern (3 km) als auch erfahrenen Läufern (10 km) die Möglichkeit, daran teilzunehmen. Sicherheit und Wohlbefinden der Teilnehmer stehen an erster Stelle, daher sind klare Streckenmarkierungen, Wasserstellen und medizinisches Personal entlang der Strecke vorhanden. Nach dem Rennen gibt es eine Preisverleihung für die besten Läufer. Unsere Veranstaltung steht allen Läufern offen und wir freuen uns darauf, Sie alle an diesem aufregenden Tag zu sehen!",
+    "website_organizer": "https://www.landkreis-helmstedt.de/portal/meldungen/benefizlauf-im-landkreis-helmstedt-startet-wieder-900001423-34150.html",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "road",
+    "name": "Schöneicher Eichkaterlauf",
+    "distance": "0, 12",
+    "distance_m": [
+      0,
+      12000
+    ],
+    "place": "15566 Schöneiche bei Berlin",
+    "latitude": 52.4788169,
+    "longitude": 13.6998927,
+    "organizer": "",
+    "website": "/race-pages/schoneicher-eichkaterlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Brandenburg",
+    "id": "schöneicher-eichkaterlauf_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läufer und Läuferinnen! Am 22. Juni 2024 findet der 12. Schöneicher Eichkaterlauf in Schöneiche bei Berlin statt. Es werden verschiedene Rennen auf der Straße angeboten, darunter 0 km und 12 km Strecken. Egal ob Anfänger oder Profi, dieses Event bietet für jeden das Richtige. Genießen Sie die schöne Strecke und die freundliche Atmosphäre - seien Sie dabei! Wir freuen uns darauf, Sie alle am 22. Juni 2024 beim 12. Schöneicher Eichkaterlauf willkommen zu heißen!",
+    "website_organizer": "http://my.raceresult.com/250422/",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "road",
     "name": "FUFFY TWISTER - From Dusk Till Dawn -",
     "distance": "50 km",
     "distance_m": [
@@ -14301,6 +15638,27 @@
   {
     "date": "20240622",
     "type": "road",
+    "name": "Hennigsdorfer Feuerwehr- und Bahnenlauf",
+    "distance": "2, 5",
+    "distance_m": [
+      2000,
+      5000
+    ],
+    "place": "16761 Hennigsdorf",
+    "latitude": 52.6320478,
+    "longitude": 13.2011404,
+    "organizer": "",
+    "website": "/race-pages/hennigsdorfer-feuerwehr-und-bahnenlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Brandenburg",
+    "id": "hennigsdorfer-feuerwehr-und-bahnenlauf_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Laufbegeisterte, der 4. Hennigsdorfer Feuerwehr- und Bahnenlauf findet am 22. Juni 2024 statt. Wir bieten Streckenlängen von 2 km und 5 km an, die über asphaltierte Straßen führen und sowohl Anfängern als auch erfahrenen Läufern die Möglichkeit bieten, sich zu messen und Spaß zu haben. Die Anmeldung erfolgt über myRacePartner.com, und wir versprechen professionelle Zeitnahme und klare Streckenübersicht. Kommt vorbei und seid Teil dieser großartigen Laufgemeinschaft!",
+    "website_organizer": "https://myracepartner.com/veranstaltung/?event-id=231794",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "road",
     "name": "Remmers-Hasetal-Marathon",
     "distance": "1,8 km, 5 km",
     "distance_m": [
@@ -14317,6 +15675,73 @@
     "id": "remmers-hasetal-marathon_20240622_httpswwwrunmedelaufkalenderdeutschland",
     "summary": "Komm und laufe mit beim 22. Remmers-Hasetal-Marathon des VfL Löningen! Egal ob du 1 km, 5 km oder einen Marathon laufen möchtest, dieses Sommerabend-Lauffest hat für jeden Läufer:innen etwas zu bieten. Wir haben auch Staffelrennen, Walking und Nordic Walking. Firmen sind herzlich eingeladen, teilzunehmen. Sei dabei und melde dich jetzt an, um an diesem fantastischen Laufevent teilzunehmen!",
     "website_organizer": "https://remmers-hasetal-marathon.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "road",
+    "name": "Sommerlauf Waren(Müritz) (LC/NLC)",
+    "distance": "5 km0, 15",
+    "distance_m": [
+      5000,
+      0,
+      15000
+    ],
+    "place": "17192 Waren (Müritz)",
+    "latitude": 53.5161667,
+    "longitude": 12.6818562,
+    "organizer": "",
+    "website": "/race-pages/sommerlauf-waren(muritz)-(lcnlc).html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Mecklenburg-Vorpommern",
+    "id": "sommerlauf-warenmüritz-lcnlc_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "Herzlich willkommen zum SV Waren 09 Laufevent \"Gemeinsam Wachsen\"! Wir bieten Ihnen einen 5-km-, 10-km- und 15-km-Lauf auf der malerischen Straßenstrecke rund um die Müritz. Unser Rennen richtet sich an Läufer jeden Alters und Niveaus. Genießen Sie die einzigartige Atmosphäre und Schönheit der Region und erleben Sie ein unvergessliches Rennwochenende. Wir freuen uns darauf, gemeinsam zu wachsen!",
+    "website_organizer": "http://www.sv-waren-09.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "road",
+    "name": "Nordholzer Windmühlenlauf",
+    "distance": "5 km0, 21",
+    "distance_m": [
+      5000,
+      0,
+      21000
+    ],
+    "place": "27639 Wurster Nordseeküste",
+    "latitude": 53.7543426,
+    "longitude": 8.6037524,
+    "organizer": "",
+    "website": "/race-pages/nordholzer-windmuhlenlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "nordholzer-windmühlenlauf_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "Wir freuen uns, den jährlichen Laufwettbewerb bekannt zu geben, der in diesem Jahr in der Stadt stattfindet. Es wird ein 5-km-Lauf, ein 10-km-Lauf und ein Halbmarathon angeboten, alles auf der Straße entlang einer malerischen Strecke. Unsere Veranstaltung ist für Läufer aller Niveaus und bietet für jeden etwas. Wir laden alle Laufbegeisterten ein, sich anzumelden und an diesem aufregenden Event teilzunehmen. Bis bald beim Start!",
+    "website_organizer": "http://www.windmuehlenlauf.jimdofree.com/",
+    "new_version": true
+  },
+  {
+    "date": "20240622",
+    "type": "road",
+    "name": "Brokstedter Dorflauf",
+    "distance": "1, 10",
+    "distance_m": [
+      0,
+      1000,
+      10000,
+      10000
+    ],
+    "place": "24616 Brokstedt",
+    "latitude": 53.989878,
+    "longitude": 9.8151464,
+    "organizer": "",
+    "website": "/race-pages/brokstedter-dorflauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Schleswig-Holstein",
+    "id": "brokstedter-dorflauf_20240622_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer! Herzlich willkommen zum 24. Brokstedter Dorflauf am 22. Juni 2024. Nehmen Sie an unserem Straßenrennen teil und wählen Sie aus den Distanzen von 1 km, 10 km und 20 km. Unser familienfreundliches Programm bietet außerdem verschiedene Aktivitäten für Kinder und leckeres Essen. Seien Sie Teil eines unvergesslichen Lauferlebnisses in Brokstedt! Wir freuen uns auf einen sportlichen und spaßigen Tag!",
+    "website_organizer": "http://www.dorflauf.de/",
     "new_version": true
   },
   {
@@ -14342,6 +15767,139 @@
   {
     "date": "20240623",
     "type": "road",
+    "name": "Lauf in die Sonne",
+    "distance": "5, 10",
+    "distance_m": [
+      5000,
+      10000
+    ],
+    "place": "71397 Leutenbach",
+    "latitude": 48.8876656,
+    "longitude": 9.3925583,
+    "organizer": "",
+    "website": "/race-pages/lauf-in-die-sonne.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "lauf-in-die-sonne_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim jährlichen Lauf in die Sonne, präsentiert von Hot Socks Leutenbach e.V.! Mit Strecken über 5 km und 10 km auf der Straße ist für alle Läufer etwas dabei. Genießen Sie malerische Landschaften und vernetzen Sie sich mit Gleichgesinnten. Seien Sie Teil dieses unvergesslichen Lauferlebnisses und erleben Sie die Freude am Laufen!",
+    "website_organizer": "http://lauf-in-die-sonne.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
+    "name": "UNO URBAN CROSS LAUF",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "66111 Saarbrücken",
+    "latitude": 49.2373226,
+    "longitude": 6.9990459,
+    "organizer": "",
+    "website": "/race-pages/uno-urban-cross-lauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Saarland",
+    "id": "uno-urban-cross-lauf_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Wir freuen uns, das Uno Urban Cross Laufevent in der Saarbrücker Innenstadt begrüßen zu dürfen! Dieser einzigartige Lauf bietet witzige und anspruchsvolle Hindernisse, darunter Schiffscontainer, Autos, Dächer, Reifenstapel und Kabeltrommeln. Mit verschiedenen Distanzen von 5 km und 10 km ist für jeden Läufer etwas dabei, egal ob Sie ein erfahrener Rennläufer sind oder einfach nur Spaß haben möchten. Machen Sie sich bereit für dieses spaßige und herausfordernde Laufevent - wir können es kaum erwarten, Sie dort zu sehen!",
+    "website_organizer": "http://www.uno-urban-cross.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
+    "name": "TVE Sommerlauf",
+    "distance": "10 km0, 10",
+    "distance_m": [
+      0,
+      0,
+      10000,
+      10000,
+      10000
+    ],
+    "place": "68535 Edingen-Neckarhausen",
+    "latitude": 49.4479388,
+    "longitude": 8.6010372,
+    "organizer": "",
+    "website": "/race-pages/tve-sommerlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "tve-sommerlauf_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, seid dabei beim TVE Sommerlauf! Wir bieten Rennen über 5km, 10km und auch eine Kinderlaufstrecke, damit die ganze Familie mitmachen kann. Unsere flache, asphaltierte Strecke durch Edingen verspricht ein schnelles und aufregendes Rennen. Jeder Teilnehmer erhält ein T-Shirt und eine Finisher-Medaille. Es gibt auch tolle Preise für die Gewinner. Mit großartiger Musik und Unterstützung entlang der Strecke wird es ein unvergesslicher Tag! Wir freuen uns auf euch!",
+    "website_organizer": "http://www.tve-sommerlauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
+    "name": "Kreuzwertheimer Landschaftsläufe",
+    "distance": "2, 14",
+    "distance_m": [
+      2000,
+      14000
+    ],
+    "place": "97892 Kreuzwertheim",
+    "latitude": 49.7669435,
+    "longitude": 9.5195932,
+    "organizer": "",
+    "website": "/race-pages/kreuzwertheimer-landschaftslaufe.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "kreuzwertheimer-landschaftsläufe_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Herzlich willkommen zur Laufveranstaltung des TSV \"Jahn\" 1922 e.V. Kreuzwertheim! Wir bieten zwei Strecken: 2 km und 14 km, beide auf der Straße. Alle Läuferinnen und Läufer sind herzlich eingeladen, an diesem freundlichen Rennen teilzunehmen, unabhängig vom Erfahrungslevel. Wir freuen uns auf ein unvergessliches Lauferlebnis! Viel Erfolg allen Teilnehmenden und willkommen beim TSV Kreuzwertheim!",
+    "website_organizer": "http://www.tsv-jahn-kreuzwertheim.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
+    "name": "Grafschafter Ahrtal-Lauf",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "53501 Grafschaft-Vettelhoven",
+    "latitude": 50.5702799,
+    "longitude": 7.057297699999999,
+    "organizer": "",
+    "website": "/race-pages/grafschafter-ahrtal-lauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Rheinland-Pfalz",
+    "id": "grafschafter-ahrtal-lauf_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Laufbegeisterte, wir freuen uns, euch zum Grafschafter Ahrtal-Lauf einzuladen! Erlebt die wunderschöne Landschaft des Ahrtals auf Asphaltstraßen, mit Strecken von 10 km und für Kinder. Egal ob Profi oder Anfänger, für jeden ist die passende Distanz dabei. Genießt die malerischen Weingärten und das Ahrufers und erlebt gemeinsam die Schönheit des Ahrtals. Wir sehen uns an der Startlinie!",
+    "website_organizer": "http://www.ahrtallauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
+    "name": "Benefizlauf",
+    "distance": "10",
+    "distance_m": [
+      0,
+      2000,
+      10000,
+      10000,
+      10000,
+      16000
+    ],
+    "place": "52066 Aachen",
+    "latitude": 50.7533438,
+    "longitude": 6.1123901,
+    "organizer": "",
+    "website": "/race-pages/benefizlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "benefizlauf_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Unser Köln Halbmarathon 2023 war ein großer Erfolg! Teilnehmer konnten zwischen 5 km, 10 km, 15 km und dem Halbmarathon wählen. Lukas erreichte sein Ziel, die 2-Stunden-Marke zu unterbieten, nach 355 Trainingskilometern in 12 Wochen. Die traditionelle Straßenstrecke bot die Möglichkeit, die Stadt zu erkunden. Die Unterstützung von Helfern, Zuschauern und Sponsoren hat die Läufer inspiriert, und wir freuen uns darauf, im nächsten Jahr noch mehr Teilnehmer begrüßen zu dürfen!",
+    "website_organizer": "http://www.lustlauf.com/",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
     "name": "Sachsenlauf Coswig",
     "distance": "5 km",
     "distance_m": [
@@ -14357,6 +15915,48 @@
     "id": "sachsenlauf-coswig_20240623_httpswwwrunmedelaufkalenderdeutschland",
     "summary": "Liebe Läuferinnen und Läufer,\n\nDer 44. Sachsenlauf Coswig im Jahr 2024 steht vor der Tür! Mit Lauf-, Wander- und Walkingstrecken sowie einem spannenden Crosslauf im Friedewald und Moritzburger Forst. Die Onlineanmeldung über Baer-Service ist eröffnet. Wir bieten verschiedene Rennkategorien und Streckenlängen, darunter eine 5 km lange Strecke auf Asphaltstraßen. Egal ob erfahren oder zum Spaß, für jeden ist etwas dabei. Frohe Feiertage und einen guten Rutsch ins neue Jahr! Wir hoffen, euch beim 44. Sachsenlauf zu sehen!\n\nViele Grüße, [Dein Name] - Rennleiter des Sachsenlaufs Coswig",
     "website_organizer": "https://www.sachsenlauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
+    "name": "Breunaer Volkslauf mit 21,1km Malsburglauf",
+    "distance": "1, 21",
+    "distance_m": [
+      1000,
+      21000
+    ],
+    "place": "34479 Breuna",
+    "latitude": 51.41532249999999,
+    "longitude": 9.1846898,
+    "organizer": "",
+    "website": "/race-pages/breunaer-volkslauf-mit-21,1km-malsburglauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "breunaer-volkslauf-mit-211km-malsburglauf_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, der TSV Breuna e.V. lädt Sie herzlich zu unserem jährlichen Leichtathletikrennen ein! Unser Rennen bietet verschiedene Kategorien und Distanzen, darunter ein 1 km-Lauf und einen Halbmarathon, die auf der Straße stattfinden. Egal ob Anfänger oder erfahrene Läufer, bei uns ist für jeden etwas dabei. Besuchen Sie unsere Webseite für weitere Details und Aktualisierungen. Wir freuen uns auf Ihr Interesse und Ihre Teilnahme!",
+    "website_organizer": "http://www.tsv-breuna.de/leichtathletik",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
+    "name": "Parkstadtlauf 2024",
+    "distance": "5, 10",
+    "distance_m": [
+      5000,
+      10000
+    ],
+    "place": "45478 Mülheim an der Ruhr",
+    "latitude": 51.426572,
+    "longitude": 6.8326803,
+    "organizer": "",
+    "website": "/race-pages/parkstadtlauf-2024.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "parkstadtlauf-2024_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen bei La.Net 3! Unser Laufevent bietet Rennen über 5 km und 10 km an, die entlang malerischer Straßen führen. Egal ob erfahrener Läufer oder Anfänger, bei uns findet jeder die passende Herausforderung. Melden Sie sich an und seien Sie Teil dieses unvergesslichen Rennwochenendes.",
+    "website_organizer": "https://lanet3.de/external/dlv/register/6256",
     "new_version": true
   },
   {
@@ -14382,6 +15982,26 @@
   {
     "date": "20240623",
     "type": "road",
+    "name": "Rheda- Autozentrale -Thiel Staffelmarathon",
+    "distance": "42",
+    "distance_m": [
+      42000
+    ],
+    "place": "33378 Rheda-Wiedenbrück",
+    "latitude": 51.8545845,
+    "longitude": 8.2878025,
+    "organizer": "",
+    "website": "/race-pages/rheda-autozentrale-thiel-staffelmarathon.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "rheda-autozentrale-thiel-staffelmarathon_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim jährlichen Marathonrennen! Wir bieten Rennen für alle Leistungsstufen, inklusive des klassischen Marathons. Die malerische Strecke erstreckt sich über asphaltierte Straßen und führt die Läufer durch grüne Parks und ruhige Wohngebiete. Egal ob erfahrener Läufer oder Neuling, bei uns finden Sie die passende Herausforderung. Freuen Sie sich auf ein unvergessliches Rennen und genießen Sie die Gemeinschaft und den Wettbewerb auf der Straße.",
+    "website_organizer": "http://www.lgburg.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
     "name": "Staffelmarathon Autohaus THIEL",
     "distance": "42,2 km (Staffel)",
     "distance_m": [
@@ -14397,6 +16017,285 @@
     "id": "staffelmarathon-autohaus-thiel_20240623_httpswwwrunmedelaufkalenderdeutschland",
     "summary": "Wir freuen uns, den 10. Staffelmarathon Autohaus THIEL am 23. Juni 2024 in Rheda-Wiedenbrück bekannt zu geben. Dieses aufregende Rennen bietet Laufbegeisterten die Möglichkeit, an einem 42 Kilometer langen Straßenmarathon durch die malerische Stadt und ihre umliegende Landschaft teilzunehmen. Treten Sie der inspirierenden Laufgemeinschaft bei und testen Sie Ihre Ausdauer und Stärke auf dieser anspruchsvollen Strecke!",
     "website_organizer": "https://my.raceresult.com/257147/",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
+    "name": "Hohenschönhausener Gartenlauf",
+    "distance": "0, 11",
+    "distance_m": [
+      0,
+      2000,
+      11000,
+      16000
+    ],
+    "place": "13059 Berlin-Hohenschönhausen",
+    "latitude": 52.5786096,
+    "longitude": 13.5206891,
+    "organizer": "",
+    "website": "/race-pages/hohenschonhausener-gartenlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Berlin",
+    "id": "hohenschönhausener-gartenlauf_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, herzlich willkommen zu unserem jährlichen Straßenrennen! Wir bieten Streckenlängen von 0 km, 2 km, 11 km und 16 km für Läufer aller Leistungsstufen. Genießen Sie malerische Stadtviertel und feiern Sie die Gemeinschaft des Laufens. Die Sicherheit unserer Teilnehmer hat oberste Priorität. Machen Sie mit und erleben Sie ein aufregendes Rennen! Viel Glück an alle Teilnehmer!",
+    "website_organizer": "https://anmeldung.laufauswertung.com/Anmeldung/reghome.php",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
+    "name": "K Elbe",
+    "distance": "10 km10",
+    "distance_m": [
+      10000,
+      10000
+    ],
+    "place": "20097 Hamburg",
+    "latitude": 53.548038,
+    "longitude": 10.0176987,
+    "organizer": "",
+    "website": "/race-pages/k-elbe.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hamburg",
+    "id": "k-elbe_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Anmeldung für den 10K Hamburg 2024 ist eröffnet! Unsere gesicherten Wendestrecken auf befestigten Wegen garantieren ein sicheres Lauferlebnis. Wir bieten Rennkategorien und Streckenlängen für alle Läufer an, darunter die beliebten 10 km und 10 km . Seien Sie Teil dieser Straßenveranstaltung und erleben Sie ein unvergessliches Laufevent mit Tausenden von Gleichgesinnten.",
+    "website_organizer": "https://hamburg-10k.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
+    "name": "Seester Sternenlauf",
+    "distance": "1, 10",
+    "distance_m": [
+      0,
+      0,
+      1000,
+      2000,
+      10000,
+      10000,
+      10000,
+      16000
+    ],
+    "place": "25370 Seester",
+    "latitude": 53.7153179,
+    "longitude": 9.614639799999999,
+    "organizer": "",
+    "website": "/race-pages/seester-sternenlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Schleswig-Holstein",
+    "id": "seester-sternenlauf_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer! Unser alljährlicher Stadtlauf findet am 30. Juni 2023 statt! Unabhängig vom Erfahrungslevel und Alter gibt es für jeden Läufer die passende Distanz. Von 1 km für Kinder bis zu 16 km für erfahrene Läufer, alle Strecken finden auf asphaltierten Straßen statt. Seid dabei und erlebt gemeinsam ein unvergessliches Lauferlebnis!",
+    "website_organizer": "http://www.der-sternenlauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240623",
+    "type": "road",
+    "name": "Tine-Flugplatzlauf",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "25813 Husum",
+    "latitude": 54.4855642,
+    "longitude": 9.056639600000002,
+    "organizer": "",
+    "website": "/race-pages/tine-flugplatzlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Schleswig-Holstein",
+    "id": "tine-flugplatzlauf_20240623_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, seid herzlich zur diesjährigen Laufveranstaltung eingeladen! Unser Rennen bietet verschiedene Distanzen, darunter 0 km und 10 km, für Läufer jeden Levels. Die Strecke führt entlang von Straßen, um das städtische Ambiente zu genießen. Ich freue mich auf ein sicheres und unterhaltsames Rennen, bei dem Wettbewerb und Gemeinschaft im Vordergrund stehen. Seid dabei und erlebt mit uns eine wundervolle Laufveranstaltung!",
+    "website_organizer": "https://raceresult.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240624",
+    "type": "road",
+    "name": "Treppenlauf",
+    "distance": "1",
+    "distance_m": [
+      1000
+    ],
+    "place": "74523 Schwäbisch Hall",
+    "latitude": 49.1124645,
+    "longitude": 9.7372649,
+    "organizer": "",
+    "website": "/race-pages/treppenlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "treppenlauf_20240624_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läufer und Läuferinnen, seid herzlich willkommen zum Diakoneo-Lauf! Unser Lauf bietet einen unvergesslichen Tag voller Sport und Spaß, und stärkt gleichzeitig die Gemeinschaft. Mit Rennen für alle Altersgruppen und Fitnesslevels, ist für jeden etwas dabei. Die 1-km-Strecke ist perfekt für Familien und Kinder, und findet auf der Straße statt, um die wunderschöne Landschaft zu genießen. Kommt und erlebt einen Tag voller Spaß, Sport und Solidarität!",
+    "website_organizer": "http://www.diakoneo.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240626",
+    "type": "road",
+    "name": "Erfurter Campuslauf",
+    "distance": "10, 10",
+    "distance_m": [
+      10000,
+      10000
+    ],
+    "place": "99096 Erfurt-Steigerwald",
+    "latitude": 50.9441638,
+    "longitude": 11.0255652,
+    "organizer": "",
+    "website": "/race-pages/erfurter-campuslauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Thüringen",
+    "id": "erfurter-campuslauf_20240626_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läufer und Sportbegeisterte,\n\nam 26. Juni 2023 findet der 8. Erfurter Campuslauf statt! In verschiedenen Rennkategorien bieten wir ein 10-km-Straßenrennen sowie einen 10-km-Lauf an, um Läufer jeden Levels anzusprechen. Die Strecke führt durch die malerische Landschaft der Stadt und verspricht einen Tag voller Laufspaß, Unterhaltung und Gemeinschaft. Seid dabei und genießt einen unvergesslichen Tag voller Energie!\n\nWir freuen uns auf eure Teilnahme!",
+    "website_organizer": "http://www.erfurter-campuslauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240627",
+    "type": "road",
+    "name": "Landesgartenschau Wangen Solmotion Laufcup 1",
+    "distance": "6",
+    "distance_m": [
+      6000
+    ],
+    "place": "88239 Wangen im Allgäu",
+    "latitude": 47.6894006,
+    "longitude": 9.8206437,
+    "organizer": "",
+    "website": "/race-pages/landesgartenschau-wangen-solmotion-laufcup-1.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "landesgartenschau-wangen-solmotion-laufcup-1_20240627_httpswwwlaufendedlv-laufkalender",
+    "summary": "Einladung zum 15. Sonthofer Frühlingslauf! Die SG Niederwangen lädt Läufer aller Könnensstufen ein, an unserem 6 km langen Rennen teilzunehmen. Die Strecke führt durch malerische Straßen und bietet eine tolle Herausforderung. Unser Event ist voller Gemeinschaft und sportlicher Leistung. Seien Sie ein Teil davon und werden Sie Mitglied der SG Niederwangen! Wir freuen uns auf Sie!",
+    "website_organizer": "http://www.sg-niederwangen.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240628",
+    "type": "road",
+    "name": "Endress+Hauser Wetzer Firmen- und Familienlauf",
+    "distance": "0, 6",
+    "distance_m": [
+      0,
+      6000
+    ],
+    "place": "87484 Nesselwang",
+    "latitude": 47.6238599,
+    "longitude": 10.4995094,
+    "organizer": "",
+    "website": "/race-pages/endress+hauser-wetzer-firmen-und-familienlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "endresshauser-wetzer-firmen-und-familienlauf_20240628_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nam 05.07.2019 findet der 10. Allgäuer Endress+Hauser Wetzer Firmen- und Familienlauf in Nesselwang statt. Die Rennen bieten Distanzen von 0 km und 6 km auf asphaltierten Straßen durch die schöne Landschaft des Allgäus. Dieses Laufevent ist für alle Levels geeignet und eine tolle Gelegenheit, gemeinsam mit Kollegen, Freunden und Familie teilzunehmen. Melden Sie sich jetzt an und seien Sie Teil dieses tollen Laufevents! Wir freuen uns auf Sie!",
+    "website_organizer": "https://my.raceresult.com/125884/",
+    "new_version": true
+  },
+  {
+    "date": "20240628",
+    "type": "road",
+    "name": "Heel-Lauf",
+    "distance": "10",
+    "distance_m": [
+      10000
+    ],
+    "place": "76532 Oos (Baden-Baden)",
+    "latitude": 48.7836365,
+    "longitude": 8.1951239,
+    "organizer": "",
+    "website": "/race-pages/heel-lauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "heel-lauf_20240628_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, seien Sie Teil des Heel-Laufs | Stadtlauf Baden-Baden am 28. Juni 2024! Freuen Sie sich auf 10 km malerische Strecken durch die atemberaubende Stadt Baden-Baden. Melden Sie sich jetzt kostenlos an und erleben Sie die Begeisterung und Aufregung dieses besonderen Laufevents. Werden Sie Teil dieses unvergesslichen Tages und genießen Sie das Laufen in einer der schönsten Städte Deutschlands.",
+    "website_organizer": "https://lauf.heel.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240628",
+    "type": "road",
+    "name": "SWP CityLauf Pforzheim 2024",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "75175 Pforzheim",
+    "latitude": 48.88593849999999,
+    "longitude": 8.7208104,
+    "organizer": "",
+    "website": "/race-pages/swp-citylauf-pforzheim-2024.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "swp-citylauf-pforzheim-2024_20240628_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen zum SWP CityLauf Pforzheim! Unser Rennen bietet Streckenlängen von 5 km und 10 km an. Egal ob Anfänger oder erfahrener Läufer, bei uns ist für jeden etwas dabei. Das Anmeldeportal für unser Rennen im Frühjahr 2024 öffnet bald - wir informieren Sie hier, auf Instagram, Facebook und per E-Mail. Genießen Sie die malerische Landschaft rund um Pforzheim und seien Sie dabei! Bis zum nächsten Rennen!",
+    "website_organizer": "http://www.citylauf-pforzheim.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240628",
+    "type": "road",
+    "name": "Bietigheimer Fackellauf",
+    "distance": "9, 9",
+    "distance_m": [
+      9000,
+      9000
+    ],
+    "place": "74321 Bietigheim-Bissingen",
+    "latitude": 48.95356820000001,
+    "longitude": 9.1241772,
+    "organizer": "",
+    "website": "/race-pages/bietigheimer-fackellauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "bietigheimer-fackellauf_20240628_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, am 11. FACKELLAUF, präsentiert von BAUINTACT, erwarten euch spannende Rennen durch die Straßen von Bietigheim. Mit Strecken von 6 km bis 9 km ist für Läufer jeden Levels etwas dabei. Die malerische Strecke verspricht Nervenkitzel und Aufregung. Meldet euch jetzt an und seid Teil dieser unvergesslichen Veranstaltung! Bis bald am Start!",
+    "website_organizer": "http://fackellauf.info/",
+    "new_version": true
+  },
+  {
+    "date": "20240628",
+    "type": "road",
+    "name": "levoBank Stadtlauf des TV Lebach",
+    "distance": "2, 10",
+    "distance_m": [
+      2000,
+      10000
+    ],
+    "place": "66822 Lebach",
+    "latitude": 49.4039607,
+    "longitude": 6.9045054,
+    "organizer": "",
+    "website": "/race-pages/levobank-stadtlauf-des-tv-lebach.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Saarland",
+    "id": "levobank-stadtlauf-des-tv-lebach_20240628_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, freuen Sie sich auf den 38. levoBank Stadtlauf, organisiert vom TV-Lebach 1904 e.V. Der aufregende Lauf findet auf der Straße statt und bietet zwei Streckenlängen an: 2 km und 10 km. Egal ob Anfänger oder erfahrener Läufer, für jeden ist etwas dabei. Nehmen Sie an diesem spannenden Rennen teil und entdecken Sie die malerische Stadt Lebach. Dank der Unterstützung von levoBank und TV-Lebach 1904 e.V. können wir diesen fantastischen Lauf für die Gemeinschaft veranstalten. Seien Sie Teil des levoBank Stadtlaufs 2023!",
+    "website_organizer": "https://www.tv-lebach.de/laufen/levobank-stadtlauf.html",
+    "new_version": true
+  },
+  {
+    "date": "20240628",
+    "type": "road",
+    "name": "Altstadtfestlauf in Lauf",
+    "distance": "10 km5, 10",
+    "distance_m": [
+      10000,
+      5000,
+      10000
+    ],
+    "place": "91207 Lauf an der Pegnitz",
+    "latitude": 49.5110483,
+    "longitude": 11.2780245,
+    "organizer": "",
+    "website": "/race-pages/altstadtfestlauf-in-lauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "altstadtfestlauf-in-lauf_20240628_httpswwwlaufendedlv-laufkalender",
+    "summary": "Herzliche Einladung zur jährlichen Lebenshilfe im Nürnberger Land Laufveranstaltung! Die Rennen umfassen 10 km und 5 km auf der Straße. Unterstützen Sie Menschen mit geistiger Behinderung und informieren Sie sich über krisensichere Berufe bei unserem Event. Jeder ist willkommen, ob erfahrener Läufer oder einfach nur zum Spaß! Kommen Sie und leisten Sie einen Beitrag für einen guten Zweck. Wir freuen uns auf Sie!",
+    "website_organizer": "http://www.lebenshilfe-nbg-land.de/",
     "new_version": true
   },
   {
@@ -14424,6 +16323,48 @@
   {
     "date": "20240628",
     "type": "road",
+    "name": "Burg-Lauf Eppstein",
+    "distance": "7, 7",
+    "distance_m": [
+      7000,
+      7000
+    ],
+    "place": "65817 Eppstein",
+    "latitude": 50.1449687,
+    "longitude": 8.3673263,
+    "organizer": "",
+    "website": "/race-pages/burg-lauf-eppstein.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "burg-lauf-eppstein_20240628_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, seid bereit für den Eppsteiner Burg-Lauf! Am 28. Juni 2024 ist es wieder soweit - der liebenswerte Klassiker im Taunus lädt alle Laufbegeisterten ein, sich der Herausforderung zu stellen. Mit Rennstrecken von 7 km und 7 km bieten wir für jeden Läufer die passende Herausforderung. Der Eppsteiner Burg-Lauf ist ein Straßenrennen, das sich ideal für alle begeisterten Roadrunner eignet. Also schnürt eure Laufschuhe und seid dabei, wenn es wieder heißt: Der Eppsteiner Burg-Lauf ruft!",
+    "website_organizer": "http://www.eppsteiner-burglauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240628",
+    "type": "road",
+    "name": "Sommerabendlauf \"Rund um den Sorpesee\"",
+    "distance": "6, 15",
+    "distance_m": [
+      6000,
+      15000
+    ],
+    "place": "59846 Sundern-Amecke",
+    "latitude": 51.2992504,
+    "longitude": 7.954024500000001,
+    "organizer": "",
+    "website": "/race-pages/sommerabendlauf-rund-um-den-sorpesee.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "sommerabendlauf-rund-um-den-sorpesee_20240628_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nHerzliche Einladung zu unserem jährlichen Laufevent! Wir bieten Strecken von 6 km und 15 km durch malerische Stadtstraßen und Wege an. Perfekt für Straßenläufer, flach und schnell. Zeitnahme wird von taf-timing.de durchgeführt. Ein Teil der Erlöse wird gespendet. Erleben Sie Freude und Unterstützung beim Laufen. Wir freuen uns auf Sie an der Startlinie!\n\nSportliche Grüße,\nDas Team des Laufevents",
+    "website_organizer": "https://www.taf-timing.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240628",
+    "type": "road",
     "name": "Mittsommernachtslauf Hannover",
     "distance": "7,7 km, 21,1 km, 21,1 km (Staffel)",
     "distance_m": [
@@ -14441,6 +16382,27 @@
     "id": "mittsommernachtslauf-hannover_20240628_httpswwwrunmedelaufkalenderdeutschland",
     "summary": "Erleben Sie ein beeindruckendes Straßenrennen mit Kategorien für 7 km, Halbmarathon und Marathon. Die malerische Strecke fordert Läufer aller Fähigkeiten heraus und bietet ein unvergessliches Erlebnis. Motivierende Atmosphäre und Unterstützung machen dieses Rennen für alle Teilnehmer zu etwas Besonderem.",
     "website_organizer": "https://www.mittsommernachtslauf-hannover.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240628",
+    "type": "road",
+    "name": "Filsum Löppt",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "26849 Filsum",
+    "latitude": 53.24256399999999,
+    "longitude": 7.624778099999999,
+    "organizer": "",
+    "website": "/race-pages/filsum-loppt.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Niedersachsen",
+    "id": "filsum-löppt_20240628_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen zum Filsum löppt! Egal ob Profi oder Anfänger, bei unserem Laufevent ist für jeden etwas dabei. Wir bieten 0 km und 10 km Strecken auf asphaltierten Straßen an. Das Thema des Rennens ist Illdy und wir freuen uns auf ein farbenfrohes Event. Vielen Dank an alle Teilnehmer und viel Erfolg! © Copyright 2016. Alle Rechte vorbehalten.",
+    "website_organizer": "https://filsumloeppt.de/",
     "new_version": true
   },
   {
@@ -14486,6 +16448,111 @@
   {
     "date": "20240629",
     "type": "road",
+    "name": "Schönseer Johannislauf",
+    "distance": "0, 9",
+    "distance_m": [
+      0,
+      9000
+    ],
+    "place": "92539 Schönsee",
+    "latitude": 49.5124755,
+    "longitude": 12.5336209,
+    "organizer": "",
+    "website": "/race-pages/schonseer-johannislauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "schönseer-johannislauf_20240629_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Laufbegeisterte, willkommen zur jährlichen Laufveranstaltung des Wintersportvereins Schönsee! Wir bieten zwei Strecken an: 9 km und 0 km für Kinder. Beide führen über asphaltierte Straßen und bieten eine malerische Landschaft. Sicherheit ist gewährleistet und alle Alters- und Leistungsgruppen sind eingeladen. Nach dem Rennen gibt es Erfrischungen und Urkunden. Wir freuen uns auf ein tolles Rennen!",
+    "website_organizer": "http://www.wsvschoensee.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240629",
+    "type": "road",
+    "name": "HUK-COBURG Run and Bike-Night",
+    "distance": "0, 21",
+    "distance_m": [
+      0,
+      21000
+    ],
+    "place": "96450 Coburg",
+    "latitude": 50.255698,
+    "longitude": 10.9550818,
+    "organizer": "",
+    "website": "/race-pages/huk-coburg-run-and-bike-night.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "huk-coburg-run-and-bike-night_20240629_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Lauf- und Radfahrbegeisterte, willkommen zum 13. HUK-COBURG Run und Bike-Night! Wir freuen uns, ein aufregendes Rennen in Coburg anzubieten, darunter ein 10-km-Rennen und einen Halbmarathon. Das Rennen findet auf der Straße statt und ist für alle Erfahrungslevel geeignet. Seien Sie dabei und viel Spaß beim Run und Bike-Team Coburg! Bis bald!",
+    "website_organizer": "http://www.runandbike-team.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240629",
+    "type": "road",
+    "name": "Wallernhäuser Dorflauf",
+    "distance": "1, 10",
+    "distance_m": [
+      1000,
+      10000
+    ],
+    "place": "63667 Nidda-Wallernhausen",
+    "latitude": 50.3941167,
+    "longitude": 9.0166635,
+    "organizer": "",
+    "website": "/race-pages/wallernhauser-dorflauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "wallernhäuser-dorflauf_20240629_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, herzlich willkommen zum LLT Wallernhausen! Unsere jährliche Laufveranstaltung bietet Profis und Hobbyläufern die Möglichkeit, sich auf malerischen Straßenstrecken zu messen. Mit Distanzen von 1 km und 10 km ist für jeden Laufbegeisterten etwas dabei. Die befestigten Straßen bieten eine ideale Laufumgebung und versprechen spannende Wettkämpfe inmitten herrlicher Landschaften. Wir freuen uns auf einen inspirierenden und aufregenden Lauftag!",
+    "website_organizer": "https://www.llt-wallernhausen.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240629",
+    "type": "road",
+    "name": "Heuchelheimer Mitternachtslauf",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "35452 Heuchelheim",
+    "latitude": 50.5839192,
+    "longitude": 8.6205448,
+    "organizer": "",
+    "website": "/race-pages/heuchelheimer-mitternachtslauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "heuchelheimer-mitternachtslauf_20240629_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, seid herzlich willkommen bei den TSF Heuchelheim! Unsere jährliche Laufveranstaltung in Heuchelheim bietet dieses Jahr zwei Rennstrecken an: 10 km und 5 km auf der Straße. Egal ob erfahrener Läufer oder Neuling, bei uns ist für alle etwas dabei. Melden Sie sich heute noch an und erleben Sie ein unvergessliches Rennabenteuer mit tollen Aussichten und lebendiger Atmosphäre. Wir freuen uns auf Sie! Bis bald!",
+    "website_organizer": "http://www.tsf-heuchelheim.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240629",
+    "type": "road",
+    "name": "Isselhorster Nacht",
+    "distance": "0, 9",
+    "distance_m": [
+      0,
+      9000
+    ],
+    "place": "33334 Gütersloh-Isselhorst",
+    "latitude": 51.94538610000001,
+    "longitude": 8.410219099999999,
+    "organizer": "",
+    "website": "/race-pages/isselhorster-nacht.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "isselhorster-nacht_20240629_httpswwwlaufendedlv-laufkalender",
+    "summary": "Bereiten Sie sich auf die diesjährige Isselhorster-nacht vor! Unsere großzügigen Sponsoren unterstützen diese aufregende Nachtlaufrallye, die Rennkategorien und Entfernungen von 0 km und 9 km bietet. Das Rennen auf der Straße verspricht atemberaubende Ausblicke und unvergessliche Erfahrungen. Egal ob erfahren oder Anfänger, hier ist für jeden Läufer etwas dabei. Melden Sie sich an und seien Sie dabei, um Ihre Grenzen zu überschreiten und unvergessliche Erinnerungen zu sammeln!",
+    "website_organizer": "https://www.isselhorster-nacht.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240629",
+    "type": "road",
     "name": "Suderburger Abendlauf",
     "distance": "5,7 km-Laufen & Walking, 10,8 km, 21,6 km",
     "distance_m": [
@@ -14503,6 +16570,50 @@
     "id": "suderburger-abendlauf_20240629_httpswwwrunmedelaufkalenderdeutschland",
     "summary": "Herzlich willkommen beim jährlichen Laufevent! Mit Strecken von 5 km, 10 km und einem Halbmarathon ist für Läufer jeden Niveaus etwas dabei. Unsere malerischen Straßen bieten atemberaubende Ausblicke und die Gemeinschaft macht das Laufen zu einem unvergesslichen Erlebnis. Neben der körperlichen Herausforderung gibt es Live-Unterhaltung, Verpflegungsstände und Aktivitäten für Kinder. Machen Sie sich bereit zum Laufen, feiern und unvergessliche Erinnerungen zu schaffen! Wir freuen uns auf Ihren Besuch!",
     "website_organizer": "https://www.vfl-suderburg.de/index.php?option=com_content&view=category&id=99&Itemid=530",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "Kusterdinger Hornissenlauf - 3. Lauf des VR-Cups",
+    "distance": "1, 10",
+    "distance_m": [
+      1000,
+      10000
+    ],
+    "place": "72127 Kusterdingen",
+    "latitude": 48.4897476,
+    "longitude": 9.102184500000002,
+    "organizer": "",
+    "website": "/race-pages/kusterdinger-hornissenlauf-3.-lauf-des-vr-cups.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "kusterdinger-hornissenlauf-3-lauf-des-vr-cups_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nNehmen Sie am 33. Kusterdinger Hornissenlauf am 30. Juni 2024 teil! Es erwarten Sie eine malerische Straßenroute und eine herzliche Atmosphäre. Wählen Sie zwischen den Rennkategorien 1 km, 10 km und Walking. Egal ob Anfänger oder Profi, seien Sie Teil dieses einzigartigen Lauferlebnisses.\n\nIhr Hornissenlauf-Team",
+    "website_organizer": "http://www.tsv-kusterdingen-la.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "Heumadener Volkslauf 2024",
+    "distance": "5, 21",
+    "distance_m": [
+      5000,
+      5000,
+      10000,
+      21000
+    ],
+    "place": "70619 Stuttgart",
+    "latitude": 48.7430149,
+    "longitude": 9.2150882,
+    "organizer": "",
+    "website": "/race-pages/heumadener-volkslauf-2024.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "heumadener-volkslauf-2024_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen zum TSV Heumaden e.V. Laufevent! Wir bieten Strecken für alle Läufer: 5 km, 10 km und Halbmarathon, alle auf der Straße. Egal ob Anfänger oder Profi, bei uns ist für jeden etwas dabei. Genießen Sie die schöne Landschaft und erleben Sie ein unvergessliches Rennen! Wir freuen uns auf Sie am Start!",
+    "website_organizer": "http://www.tsv-heumaden.de/",
     "new_version": true
   },
   {
@@ -14528,6 +16639,277 @@
   {
     "date": "20240630",
     "type": "road",
+    "name": "Crailsheimer Halbmarathon",
+    "distance": "0, 21",
+    "distance_m": [
+      0,
+      21000
+    ],
+    "place": "74564 Crailsheim",
+    "latitude": 49.1411309,
+    "longitude": 10.0493208,
+    "organizer": "",
+    "website": "/race-pages/crailsheimer-halbmarathon.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "crailsheimer-halbmarathon_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Unser renommiertes Rennen, der 17. Stadtwerke Rothenburg Lichterlauf, bietet eine einzigartige und spannende Laufveranstaltung für alle Altersgruppen und Leistungsniveaus. Mit verschiedenen Rennkategorien, darunter der 10 km-Lauf und der Halbmarathon, ist für jeden Läufer etwas dabei. Die Strecke führt durch die malerischen Straßen von Rothenburg und bietet atemberaubende Ausblicke auf die historische Stadt und ihre beleuchteten Sehenswürdigkeiten.",
+    "website_organizer": "https://www.racesolution.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "Energie-Südwest-Cup",
+    "distance": "5, 10",
+    "distance_m": [
+      5000,
+      10000
+    ],
+    "place": "76829 Nußdorf",
+    "latitude": 49.2244064,
+    "longitude": 8.1085298,
+    "organizer": "",
+    "website": "/race-pages/energie-sudwest-cup.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Rheinland-Pfalz",
+    "id": "energie-südwest-cup_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Unser jährlicher Laufevent bietet eine professionelle Zeitnahme und Rundumpaket für Läufer aller Leistungsklassen. Mit den Rennkategorien 5 km und 10 km, die auf abgesperrten Straßenrouten stattfinden, sorgen wir für ein reibungsloses Lauferlebnis. De-timing kümmert sich um die Online-Anmeldung, Transponder, Auswertung und Ergebnislisten, damit sich die Teilnehmer ganz auf das Laufen konzentrieren können. Zusätzlich bieten wir personalisierte Urkunden und Startnummern, damit sich jeder Teilnehmer besonders fühlt.",
+    "website_organizer": "http://www.de-timing.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "Eschelbronner Schreinerdorflauf",
+    "distance": "10",
+    "distance_m": [
+      10000
+    ],
+    "place": "74927 Eschelbronn",
+    "latitude": 49.3192145,
+    "longitude": 8.864429699999999,
+    "organizer": "",
+    "website": "/race-pages/eschelbronner-schreinerdorflauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "eschelbronner-schreinerdorflauf_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Laufbegeisterte, \n\nWir freuen uns, die 20. Auflage des Schreinerdorflaufs am 25.06.2023 anzukündigen. Entdecken Sie die malerischen Straßen und Landschaften des Schreinerdorfs auf unserer 10 km langen Straßenstrecke. Egal ob Anfänger oder erfahrener Athlet, für jeden ist etwas dabei. Nach dem Rennen laden wir zu einem gemütlichen Dorffest mit lokalen Spezialitäten ein. Seien Sie Teil dieses traditionsreichen Laufevents und erleben Sie die ländliche Schönheit in positiver Atmosphäre. Bis zum Startschuss!",
+    "website_organizer": "https://www.turnverein-eschelbronn.de/schreinerdorflauf/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "HORNBACH Citylauf",
+    "distance": "0, 5",
+    "distance_m": [
+      0,
+      5000
+    ],
+    "place": "67655 Kaiserslautern",
+    "latitude": 49.44282740000001,
+    "longitude": 7.772926799999999,
+    "organizer": "",
+    "website": "/race-pages/hornbach-citylauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Rheinland-Pfalz",
+    "id": "hornbach-citylauf_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, seid bereit für die 1. Ausgabe des Stairway to Devil am 3. März 2024! Die Rennen in den Kategorien 0 km und 5 km auf der Straße bieten euch die perfekte Gelegenheit, neue Bestzeiten zu erreichen. Ihr erhaltet Ergebnisse, Urkunden und Zugang zu Bildern der Veranstaltung. Egal, ob erfahrene Läufer oder Anfänger - seid Teil dieser aufregenden Veranstaltung und feiert die Freude am Laufen. Anmeldungen sind ab sofort möglich!",
+    "website_organizer": "https://www.fck-running.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "BÄRENFELS 84km NAHESTEIG TRAIL mit Marathon und Halbmarathon 2024",
+    "distance": "8",
+    "distance_m": [
+      8000
+    ],
+    "place": "55768 Neubrücke",
+    "latitude": 49.6060649,
+    "longitude": 7.168916499999999,
+    "organizer": "",
+    "website": "/race-pages/barenfels-84km-nahesteig-trail-mit-marathon-und-halbmarathon-2024.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Saarland",
+    "id": "bärenfels-84km-nahesteig-trail-mit-marathon-und-halbmarathon-2024_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nherzlich willkommen zum Bärenfelslauf! Unser Ultramarathon-Event bietet eine einzigartige Laufstrecke durch die malerischen Wälder und Täler der Region. Erlebe die Schönheit der Natur und teste deine Grenzen bei unserem Ultramarathon, Volkslauf oder Marathon. Neu in diesem Jahr ist der 8 km Straßenlauf, ideal für alle, die kürzere Distanzen bevorzugen. Egal ob erfahrener Läufer oder Neuling, bei uns ist für jeden etwas dabei! Wir freuen uns auf einen unvergesslichen Lauftag!",
+    "website_organizer": "http://www.baerenfelslauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "trail",
+    "name": "Neunkirchner Sommerlauf mit Lindelberg-Trail",
+    "distance": "1, 10",
+    "distance_m": [
+      1000,
+      10000
+    ],
+    "place": "91077 Neunkirchen am Brand",
+    "latitude": 49.6115753,
+    "longitude": 11.1308819,
+    "organizer": "",
+    "website": "/race-pages/neunkirchner-sommerlauf-mit-lindelberg-trail.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "neunkirchner-sommerlauf-mit-lindelberg-trail_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Lauffreunde, seid herzlich zum jährlichen Sommerlauf der SportGruppe Neunkirchen am Brand e.V. eingeladen! Unser Motto ist \"Lauf, um zu genießen, lauf, um zu gewinnen, lauf, um fit zu bleiben!\" Dieses Jahr bieten wir ein 1 km Rennen für junge Läufer und ein 10 km Trailrennen für Natur-Liebhaber an. Die Strecke führt durch malerische Wälder, sanfte Hügel und faszinierende Naturlandschaften. Kommt vorbei und genießt die Herausforderung in einer atemberaubenden Umgebung! Wir freuen uns auf euch!",
+    "website_organizer": "http://www.sportgruppe-neunkirchen.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "Internationaler Trierer Stadtlauf",
+    "distance": "0, 21",
+    "distance_m": [
+      0,
+      10000,
+      10000,
+      21000
+    ],
+    "place": "54290 Trier",
+    "latitude": 49.74957389999999,
+    "longitude": 6.633381,
+    "organizer": "",
+    "website": "/race-pages/internationaler-trierer-stadtlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Rheinland-Pfalz",
+    "id": "internationaler-trierer-stadtlauf_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Der Trierer Stadtlauf e.V. präsentiert stolz das aufregende und dynamische #weruntrier2024 Rennen, das Läufer jeder Fähigkeit anspricht. Mit Strecken von 5 km, 10 km und einem Halbmarathon, verläuft das Rennen größtenteils über asphaltierte Straßen und bietet atemberaubende Ausblicke auf Trier und Umgebung. Egal ob erfahrener Läufer oder Laufanfänger, der Trierer Stadtlauf heißt alle willkommen, um gemeinsam die Freude am Laufen zu erleben. Seien Sie Teil der Bewegung und machen Sie sich bereit für ein unvergessliches Rennen durch die malerischen Straßen von Trier!",
+    "website_organizer": "http://www.triererstadtlauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "Uni-Lauf Bamberg",
+    "distance": "10",
+    "distance_m": [
+      10000
+    ],
+    "place": "96050 Bamberg",
+    "latitude": 49.8791421,
+    "longitude": 10.9244,
+    "organizer": "",
+    "website": "/race-pages/uni-lauf-bamberg.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "uni-lauf-bamberg_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Der 10. Uni-Lauf in Bamberg ist ein Volkslauf und landesoffener Straßenlauf, der die Bayerischen Hochschulmeisterschaften 10 km Straßenlauf 2024 beinhaltet. Diese gut organisierte Veranstaltung bietet eine herausfordernde 10 km Strecke durch die malerische Umgebung von Bamberg und ist für Läufer jeglichen Niveaus geeignet. Joinen Sie uns und testen Sie Ihre Grenzen!",
+    "website_organizer": "http://www.uni-lauf-bamberg.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "Schwalbacher Volkslauf - Sport gegen Armut",
+    "distance": "1, 10",
+    "distance_m": [
+      1000,
+      10000
+    ],
+    "place": "65824 Schwalbach am Taunus",
+    "latitude": 50.15113849999999,
+    "longitude": 8.531014299999999,
+    "organizer": "",
+    "website": "/race-pages/schwalbacher-volkslauf-sport-gegen-armut.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "schwalbacher-volkslauf-sport-gegen-armut_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim diesjährigen Straßenrennen! Wir laden Sie ein, an unserer jährlichen Laufveranstaltung teilzunehmen. Mit Strecken von 1 km und 10 km bieten wir für Läufer jeden Levels etwas. Unser Fokus liegt auf Sicherheit und Wohlbefinden, daher sorgen wir für gut ausgeschilderte Strecken, Streckenposten und medizinische Hilfe. Seien Sie dabei und erleben Sie ein spannendes Straßenrennen in malerischer Umgebung. Bis bald!",
+    "website_organizer": "https://www.tgschwalbach.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "Apfellauf der Kelterei Heil",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "35789 Weilmünster-Laubuseschbach",
+    "latitude": 50.397704,
+    "longitude": 8.3352562,
+    "organizer": "",
+    "website": "/race-pages/apfellauf-der-kelterei-heil.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "apfellauf-der-kelterei-heil_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Die \"RUN an den APFEL\" Laufveranstaltung kehrt am Sonntag, den 30. Juni 2024 zurück! Wählen Sie zwischen einer 10 km oder einer 0 km Strecke, die beide über asphaltierte Straßen führen. Teilnehmer jeden Alters sind willkommen. Seien Sie bereit, sich der Herausforderung zu stellen und genießen Sie die frische Luft in der wunderschönen Natur! Die Öffnungszeiten werden in Kürze bekannt gegeben. Wir freuen uns auf Ihr Kommen!",
+    "website_organizer": "http://www.kelterei-heil.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "Enorm in Form in Steckenborn",
+    "distance": "4",
+    "distance_m": [
+      4000
+    ],
+    "place": "52152 Steckenborn",
+    "latitude": 50.6265344,
+    "longitude": 6.3525066,
+    "organizer": "",
+    "website": "/race-pages/enorm-in-form-in-steckenborn.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "enorm-in-form-in-steckenborn_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, wir präsentieren den Komet Steckenborn 1948 e.V., ein aufregendes Rennen mit verschiedenen Laufstrecken, darunter eine 4 km lange Strecke auf der Straße. Egal ob Anfänger oder Profi, bei uns ist für jeden etwas dabei! Neben einer tollen Strecke erwartet euch eine großartige Atmosphäre mit Teilnehmern aus der ganzen Region. Kommt vorbei, habt Spaß und erreicht neue Bestleistungen! Wir freuen uns auf euch!",
+    "website_organizer": "http://komet-steckenborn.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "Sommerlauf des LSV Porz",
+    "distance": "5 km1, 10",
+    "distance_m": [
+      5000,
+      1000,
+      10000
+    ],
+    "place": "51147 Köln-Porz-Eil",
+    "latitude": 50.8681948,
+    "longitude": 7.123898499999999,
+    "organizer": "",
+    "website": "/race-pages/sommerlauf-des-lsv-porz.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "sommerlauf-des-lsv-porz_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen zum 34. Sommerlauf am Sonntag, den 30. Juni 2024! Unsere Rennen bieten Strecken von 5 km, 10 km und einem 1 km langen Kinderlauf, alle auf der Straße. Wir laden Läufer jeden Alters und Niveaus ein, sich uns anzuschließen und die malerische Landschaft zu genießen. Kommen Sie vorbei, melden Sie sich noch heute an und erleben Sie ein unvergessliches Lauferlebnis!",
+    "website_organizer": "http://helmuturbach.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
+    "name": "Kick and Run",
+    "distance": "9",
+    "distance_m": [
+      9000
+    ],
+    "place": "59199 Bönen",
+    "latitude": 51.5986987,
+    "longitude": 7.758582,
+    "organizer": "",
+    "website": "/race-pages/kick-and-run.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "kick-and-run_20240630_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läufer und Lauffreunde, seid herzlich willkommen zum jährlichen Laufevent der Lauffreunde Bönen 1985 e.V.! Unsere 9 km Rennstrecke auf der Straße bietet eine tolle Gelegenheit, euer Laufvermögen und eure Ausdauer zu testen. Neben dem Hauptrennen werden wir auch verschiedene Wettkämpfe und Aktivitäten für Läufer jeden Alters und Niveaus anbieten. Seid dabei, um einen unvergesslichen Renntag zu erleben und lokale Unternehmen zu unterstützen. Wir freuen uns darauf, euch alle am Start zu sehen! Lasst uns zusammen laufen und Spaß haben!",
+    "website_organizer": "http://www.lauffreundeboenen.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240630",
+    "type": "road",
     "name": "hella hamburg halbmarathon 2024",
     "distance": "HM21",
     "distance_m": [
@@ -14543,6 +16925,213 @@
     "id": "hella-hamburg-halbmarathon-2024_20240630_httpswwwlaufendedlv-laufkalender",
     "summary": "Liebe Läuferinnen und Läufer,\nseid dabei beim hella hamburg halbmarathon 2024! Erforscht die Straßen von Hamburg auf 21,1 km und erlebt die Energie und Gemeinschaft des Laufens. Egal, ob erfahrene Läufer oder Anfänger, dieser Lauf ist eine herausfordernde und unvergessliche Erfahrung. Sichert euch jetzt euren Platz und seid Teil dieses aufregenden Events! #hamburghalfmarathon",
     "website_organizer": "https://www.hamburg-halbmarathon.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240701",
+    "type": "road",
+    "name": "Montagslauf Rund um Mackenzell",
+    "distance": "2, 14",
+    "distance_m": [
+      2000,
+      14000
+    ],
+    "place": "36088 Hünfeld- Mackenzell",
+    "latitude": 50.6599555,
+    "longitude": 9.7853707,
+    "organizer": "",
+    "website": "/race-pages/montagslauf-rund-um-mackenzell.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "montagslauf-rund-um-mackenzell_20240701_httpswwwlaufendedlv-laufkalender",
+    "summary": "Wir freuen uns, den 41. Montagslauf Rund um den Mackenzell 2024 anzukündigen! Die aufregende Laufveranstaltung am 01.07.2024 in Hünfeld Mackenzell, Hessen bietet Rennen über 2 km und 14 km, hauptsächlich auf der Straße. Egal, ob erfahrener Athlet oder Freizeitläufer, dieser Lauf verspricht eine herausfordernde Strecke in malerischer Landschaft und die Möglichkeit, persönliche Bestzeiten zu erreichen. Besuchen Sie unsere Webseite, um sich anzumelden und mehr zu erfahren. Wir freuen uns auf Sie!",
+    "website_organizer": "https://events.larasch.de/en/rund-um-den-mackenzell",
+    "new_version": true
+  },
+  {
+    "date": "20240702",
+    "type": "road",
+    "name": "After-Work-Run und Schüler-Cup Lauf 3 von 3",
+    "distance": "0, 5",
+    "distance_m": [
+      0,
+      5000
+    ],
+    "place": "88239 Wangen im Allgäu",
+    "latitude": 47.6894006,
+    "longitude": 9.8206437,
+    "organizer": "",
+    "website": "/race-pages/after-work-run-und-schuler-cup-lauf-3-von-3.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "after-work-run-und-schüler-cup-lauf-3-von-3_20240702_httpswwwlaufendedlv-laufkalender",
+    "summary": "Die SG Niederwangen hat erfolgreich am 15. Sonthofer Frühlingslauf teilgenommen. Unter strahlend blauem Himmel und vor den atemberaubenden Bergen konnten Läuferinnen und Läufer verschiedener Altersgruppen und Fähigkeiten an verschiedenen Rennkategorien und Streckenlängen teilnehmen, einschließlich 5 km Strecken auf malerischen Straßen und Wegen. Die Teilnehmerinnen und Teilnehmer genossen die beeindruckende Umgebung und die gemeinschaftliche Atmosphäre des Laufens. Die SG Niederwangen freut sich bereits auf weitere sportliche Ereignisse.",
+    "website_organizer": "http://www.sg-niederwangen.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240703",
+    "type": "road",
+    "name": "Dachauer VR Firmen- und Behördenlauf",
+    "distance": "6",
+    "distance_m": [
+      6000
+    ],
+    "place": "85221 Dachau",
+    "latitude": 48.2579001,
+    "longitude": 11.452981,
+    "organizer": "",
+    "website": "/race-pages/dachauer-vr-firmen-und-behordenlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "dachauer-vr-firmen-und-behördenlauf_20240703_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nbereit für eine aufregende Herausforderung? Nehmen Sie am ASV Dachau - Leichtathletik-Rennen teil! Erleben Sie die bezaubernden Straßen von Dachau während unseres 6 km-Straßenrennens. Egal ob Profi oder Anfänger, für jeden ist etwas dabei. Sichern Sie sich Ihr unvergessliches Lauferlebnis und seien Sie Teil dieses tollen Events!\n\nMit freundlichen Grüßen,\nDas ASV Dachau - Leichtathletik-Team",
+    "website_organizer": "https://www.asv-dachau.de/sportabteilungen/leichtathletik",
+    "new_version": true
+  },
+  {
+    "date": "20240703",
+    "type": "road",
+    "name": "AOK Firmenlauf Göppingen",
+    "distance": "5",
+    "distance_m": [
+      5000
+    ],
+    "place": "73033 Göppingen",
+    "latitude": 48.7098377,
+    "longitude": 9.653160399999999,
+    "organizer": "",
+    "website": "/race-pages/aok-firmenlauf-goppingen.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "aok-firmenlauf-göppingen_20240703_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, die BW-Running Firmenlaufserie ist eine aufregende Laufveranstaltung, die Unternehmen in Bewegung bringt. Bei unseren Rennen können Mitarbeiter verschiedener Unternehmen auf Straßen gegeneinander antreten. Wir bieten verschiedene Kategorien und Distanzen, darunter die beliebte 5 km-Strecke. Die Teilnahme fördert Gesundheit und Teamgeist und stärkt die Unternehmenskultur. Besucht unsere Website für weitere Informationen und die Anmeldung.",
+    "website_organizer": "http://www.bw-running.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240703",
+    "type": "road",
+    "name": "DAK FIRMENLAUF Nordhessen 2024",
+    "distance": "5",
+    "distance_m": [
+      5000
+    ],
+    "place": "34292 Ahnatal",
+    "latitude": 51.3647405,
+    "longitude": 9.3936175,
+    "organizer": "",
+    "website": "/race-pages/dak-firmenlauf-nordhessen-2024.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "dak-firmenlauf-nordhessen-2024_20240703_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Laufbegeisterte! Willkommen zum jährlichen Laufrennen! Unsere Veranstaltung bietet verschiedene Kategorien für alle Fitnesslevels, inklusive einer 5 km Strecke auf asphaltierter Straße. Egal ob Anfänger oder erfahrener Läufer, bei uns findet jeder eine Herausforderung. Wir freuen uns darauf, mit euch einen unvergesslichen Tag voller Sport und Spaß zu erleben!",
+    "website_organizer": "https://www.firmenlauf-nordhessen.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240704",
+    "type": "road",
+    "name": "Stundenlauf der TFG Nippes",
+    "distance": "0",
+    "distance_m": [
+      0
+    ],
+    "place": "50689 Köln",
+    "latitude": 50.937531,
+    "longitude": 6.9602786,
+    "organizer": "",
+    "website": "/race-pages/stundenlauf-der-tfg-nippes.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "stundenlauf-der-tfg-nippes_20240704_httpswwwlaufendedlv-laufkalender",
+    "summary": "Herzlich willkommen zum jährlichen Laufrennen! Unser Rennen bietet verschiedene Streckenlängen, von 5 km bis zum Halbmarathon, für Läufer jeder Erfahrungsstufe. Die malerischen Strecken bieten atemberaubende Ausblicke, und die Teilnehmer werden entlang der Strecke von motivierten Freiwilligen und Zuschauern unterstützt. Nach dem Rennen können sich die Läufer im Festivalbereich entspannen und lokale Köstlichkeiten genießen. Wir freuen uns auf Ihren Besuch!",
+    "website_organizer": "http://www.tfg-koeln.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240705",
+    "type": "road",
+    "name": "Wielemer Viertele",
+    "distance": "10",
+    "distance_m": [
+      10000
+    ],
+    "place": "88682 Salem",
+    "latitude": 47.7730623,
+    "longitude": 9.297166299999999,
+    "organizer": "",
+    "website": "/race-pages/wielemer-viertele.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "wielemer-viertele_20240705_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nWir laden euch herzlich zum 20. Wielemer Viertele 2024 am 28.06.2024 in Salem, Baden-Württemberg ein! Unser Rennen bietet verschiedene Kategorien und Distanzen, darunter auch einen 10 km langen Straßenlauf. Egal ob erfahren oder Anfänger, für jeden ist etwas dabei. Meldet euch an und erlebt einen unvergesslichen Tag voller Leidenschaft und Gemeinschaft.\n\nEuer Rennsportteam",
+    "website_organizer": "https://events.larasch.de/en/wielemer-viertele",
+    "new_version": true
+  },
+  {
+    "date": "20240705",
+    "type": "road",
+    "name": "Traunreuter Stadtlauf",
+    "distance": "0, 7",
+    "distance_m": [
+      0,
+      0,
+      6000,
+      7000,
+      10000
+    ],
+    "place": "83301 Traunreut",
+    "latitude": 47.9527301,
+    "longitude": 12.5768605,
+    "organizer": "",
+    "website": "/race-pages/traunreuter-stadtlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "traunreuter-stadtlauf_20240705_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Laufbegeisterte,\n\nmarkiert euch den 5. Juli 2024 im Kalender, denn der Traunreuter Stadtlauf 2023 verspricht ein großes Ereignis zu werden! Teilnehmer aller Leistungsklassen sind herzlich eingeladen, sich auf den Straßen zu messen. Wir bieten Streckenlängen von 0 km für Kinder bis hin zu 10 km für erfahrene Läufer an. Lasst euch dieses sportliche Spektakel nicht entgehen!\n\nMit sportlichen Grüßen,\n[Your Name] (Laufdirektor)",
+    "website_organizer": "https://www.stadtlauf-traunreut.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240705",
+    "type": "road",
+    "name": "Bergdorfmeile",
+    "distance": "8",
+    "distance_m": [
+      8000
+    ],
+    "place": "76228 Hohenwettersbach",
+    "latitude": 48.9646358,
+    "longitude": 8.4832021,
+    "organizer": "",
+    "website": "/race-pages/bergdorfmeile.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "bergdorfmeile_20240705_httpswwwlaufendedlv-laufkalender",
+    "summary": "Die Bergdorfmeile 2024 ist ein aufregendes Laufrennen, das am 5. Juli 2024 um 19:00 Uhr stattfindet. Die Strecke erstreckt sich über 8 km und führt die Läufer durch malerische Bergdörfer und atemberaubende Landschaften. Teilnehmer jeden Alters und Niveaus sind herzlich eingeladen, an diesem einzigartigen Laufevent teilzunehmen. Entdecken Sie die Schönheit der Bergregion während eines unvergesslichen Lauferlebnisses auf der Straße.",
+    "website_organizer": "http://www.bergdorfmeile.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240705",
+    "type": "road",
+    "name": "Marburger Nachtmarathon",
+    "distance": "HM, M21, 42",
+    "distance_m": [
+      21000,
+      42000
+    ],
+    "place": "35037 Marburg",
+    "latitude": 50.8037915,
+    "longitude": 8.756556999999999,
+    "organizer": "",
+    "website": "/race-pages/marburger-nachtmarathon.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "marburger-nachtmarathon_20240705_httpswwwlaufendedlv-laufkalender",
+    "summary": "Unsere jährliche Laufveranstaltung kehrt zurück! Wir bieten einen Halbmarathon und Marathon entlang malerischer asphaltierter Straßen. Die 21-km- und 42-km-Strecken sind für alle Läufer geeignet. Teilnehmer können ein professionelles Rennerlebnis in einer fantastischen Landschaft genießen und Teil einer motivierten Laufgemeinschaft sein. Seien Sie dabei!",
+    "website_organizer": "https://ultra-marburg.de/nachtmarathon/",
     "new_version": true
   },
   {
@@ -14563,6 +17152,198 @@
     "id": "kölner-zoolauf_20240705_httpswwwlaufendedlv-laufkalender",
     "summary": "Liebe Läuferinnen und Läufer, am 5. Juli 2024 findet der 11. Kölner Zoolauf statt! Die Anmeldung ist jetzt offen! Wir bieten Rennen in verschiedenen Kategorien und Streckenlängen an, darunter 5 km, 10 km und den 0 km-Lauf für die jüngsten Teilnehmer. Die Strecken führen entlang malerischer Straßen und bieten ein unvergessliches Lauferlebnis. Seid dabei, wenn wir die Straßen von Köln erobern!",
     "website_organizer": "https://koelner-zoolauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240705",
+    "type": "road",
+    "name": "Rotenburger Strandfestlauf durch die historische Altstadt",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "36199 Rotenburg a.d. Fulda",
+    "latitude": 51.0143636,
+    "longitude": 9.738924599999999,
+    "organizer": "",
+    "website": "/race-pages/rotenburger-strandfestlauf-durch-die-historische-altstadt.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "rotenburger-strandfestlauf-durch-die-historische-altstadt_20240705_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer! Seid bereit für den jährlichen Laufevent des LCM-Rotenburg. Egal ob Anfänger oder erfahrener Läufer, wir bieten Streckenlängen von 10 km und 0 km auf gut gepflegten Straßen. Seien Sie ein Teil der LCM-Rotenburg und erleben Sie einzigartige Lauferlebnisse in der wunderschönen Landschaft von Rotenburg an der Fulda. Wir freuen uns darauf, mit Ihnen zu laufen und gemeinsam eine tolle Zeit zu verbringen!",
+    "website_organizer": "https://www.lcm-rotenburg.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240705",
+    "type": "road",
+    "name": "Drevenacker Volksbank Abendlauf",
+    "distance": "5 km5, 10",
+    "distance_m": [
+      5000,
+      5000,
+      10000
+    ],
+    "place": "46569 Hünxe-Drevenack",
+    "latitude": 51.6655887,
+    "longitude": 6.742155899999999,
+    "organizer": "",
+    "website": "/race-pages/drevenacker-volksbank-abendlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Nordrhein-Westfalen",
+    "id": "drevenacker-volksbank-abendlauf_20240705_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nwir laden Sie herzlich zur diesjährigen Laufveranstaltung am 8. und 10. April ein! Mit Strecken für alle Niveaus (5 km, 5 km und 10 km) auf der Straße durch Drevenack und die Landschaft. Auch Regina wird am Rennen teilnehmen. Melden Sie sich noch heute an und seien Sie dabei!\n\nVielen Dank,\nDie Turn- und Spielvereinigung Drevenack 1968 e.V.",
+    "website_organizer": "http://www.tus-drevenack.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240705",
+    "type": "road",
+    "name": "Forster Rosen-Pokal-Lauf",
+    "distance": "5, 10",
+    "distance_m": [
+      5000,
+      10000
+    ],
+    "place": "03149 Forst (Lausitz)",
+    "latitude": 51.7445739,
+    "longitude": 14.6451394,
+    "organizer": "",
+    "website": "/race-pages/forster-rosen-pokal-lauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Brandenburg",
+    "id": "forster-rosen-pokal-lauf_20240705_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer,\n\nwir freuen uns, den Forster Rosen-Pokal-Lauf anzukündigen! Unser Rennen bietet zwei Streckenoptionen: 5 km und 10 km auf der Straße. Egal, ob Sie Einsteiger oder erfahrene Läufer sind, dieses Rennen bietet die perfekte Gelegenheit, um Ihre Laufziele zu erreichen. Kommen Sie und genießen Sie einen actionreichen Tag voller Laufspaß und Herausforderungen!\n\nSportliche Grüße,\n[Name] - Renndirektor",
+    "website_organizer": "http://ltsv.de/ausdauercup-spree-neisse/termine/forster-rosen-pokal-lauf/",
+    "new_version": true
+  },
+  {
+    "date": "20240706",
+    "type": "road",
+    "name": "St. Georgener Stadtfestlauf",
+    "distance": "1, 21",
+    "distance_m": [
+      1000,
+      1000,
+      10000,
+      21000
+    ],
+    "place": "78112 St. Georgen",
+    "latitude": 48.12639970000001,
+    "longitude": 8.3371401,
+    "organizer": "",
+    "website": "/race-pages/st.-georgener-stadtfestlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Baden-Württemberg",
+    "id": "st-georgener-stadtfestlauf_20240706_httpswwwlaufendedlv-laufkalender",
+    "summary": "Seien Sie bereit, Ihre Laufschuhe zu schnüren und am rennen teilzunehmen! Unser Renntag, präsentiert vom Turnverein 1863 St., bietet Strecken von 1 km Kinderlauf bis hin zu einem Halbmarathon. Alle Strecken verlaufen auf der Straße und bieten eine malerische Umgebung. Egal, ob Anfänger oder erfahrener Läufer, es ist für jeden etwas dabei. Familien sind herzlich willkommen und der Kinderlauf ist eine großartige Möglichkeit, Kinder für den Sport zu begeistern. Machen Sie sich bereit, Ihre eigenen Grenzen zu überwinden und gemeinsam mit anderen Ihre Stärke zu entdecken!",
+    "website_organizer": "http://www.tv-st-georgen.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240706",
+    "type": "road",
+    "name": "Charity-Lauf der Volksbanken Raiffeisenbanken",
+    "distance": "0, 12",
+    "distance_m": [
+      0,
+      12000
+    ],
+    "place": "84389 Postmünster",
+    "latitude": 48.41678109999999,
+    "longitude": 12.9025379,
+    "organizer": "",
+    "website": "/race-pages/charity-lauf-der-volksbanken-raiffeisenbanken.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "charity-lauf-der-volksbanken-raiffeisenbanken_20240706_httpswwwlaufendedlv-laufkalender",
+    "summary": "Wir freuen uns, den alljährlichen Charity-Lauf der Volksbanken und Raiffeisenbanken im Landkreis Rottal-Inn anzukündigen. Dieser Lauf bringt die Gemeinschaft zusammen, um Geld für wohltätige Zwecke zu sammeln und gleichzeitig Spaß beim Laufen zu haben. Das Event bietet verschiedene Distanzen, von einem entspannten 0-km-Spaßlauf bis zu einer anspruchsvollen 12-km-Strecke. Die Strecken führen über reizvolle Straßen und bieten tolle Ausblicke auf den Landkreis Rottal-Inn. Ein tolles Event, um sich sportlich zu betätigen und Gutes zu tun. Wir freuen uns auf Läufer aller Altersgruppen und Fähigkeiten!",
+    "website_organizer": "https://www.vr-charity-lauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240706",
+    "type": "road",
+    "name": "Hochstraßenlauf",
+    "distance": "0, 10",
+    "distance_m": [
+      0,
+      10000
+    ],
+    "place": "91085 Weisendorf",
+    "latitude": 49.6254668,
+    "longitude": 10.8187835,
+    "organizer": "",
+    "website": "/race-pages/hochstrassenlauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "hochstraßenlauf_20240706_httpswwwlaufendedlv-laufkalender",
+    "summary": "Liebe Läuferinnen und Läufer, seid dabei beim Hochstrassenlauf Weisendorf! Die Anmeldung ist jetzt offen für das 10 km Straßenrennen und die 5 km Spaßstrecke. Ideal für erfahrene und Anfänger. Meldet euch an und genießt einen aufregenden Lauf entlang malerischer Straßen und atemberaubender Ausblicke! Wir freuen uns darauf, euch an der Startlinie zu sehen!",
+    "website_organizer": "http://www.hochstrassenlauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240706",
+    "type": "road",
+    "name": "Fichtelgebirgsmarathon mit Halbmarathon",
+    "distance": "21, 42",
+    "distance_m": [
+      21000,
+      42000
+    ],
+    "place": "95680 Bad Alexandersbad",
+    "latitude": 50.0101897,
+    "longitude": 12.0290584,
+    "organizer": "",
+    "website": "/race-pages/fichtelgebirgsmarathon-mit-halbmarathon.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Bayern",
+    "id": "fichtelgebirgsmarathon-mit-halbmarathon_20240706_httpswwwlaufendedlv-laufkalender",
+    "summary": "\"Willkommen zum IfL-Fichtelgebirge Bad Alexandersbad Halbmarathon und Marathon! Entdecken Sie die malerische Landschaft des Fichtelgebirges auf anspruchsvollen, aber lohnenden Strecken von 21 bzw. 42 Kilometern. Treffen Sie Gleichgesinnte, knüpfen Sie neue Freundschaften und genießen Sie die Annehmlichkeiten von Bad Alexandersbad. Wir freuen uns auf Ihr Kommen und wünschen allen Teilnehmern viel Erfolg und Spaß!\"",
+    "website_organizer": "http://www.ifl-fichtelgebirge.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240706",
+    "type": "road",
+    "name": "Schneekopflauf",
+    "distance": "12, 22",
+    "distance_m": [
+      12000,
+      22000
+    ],
+    "place": "98528 Schmiedefeld",
+    "latitude": 50.6383545,
+    "longitude": 10.7372183,
+    "organizer": "",
+    "website": "/race-pages/schneekopflauf.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Thüringen",
+    "id": "schneekopflauf_20240706_httpswwwlaufendedlv-laufkalender",
+    "summary": "Willkommen beim GutsMuths-Rennsteiglauf! Europas größter Crosslauf findet am 25. Mai 2024 statt und führt durch den Naturpark Thüringer Wald. Mit Halbmarathon, Marathon, Supermarathon, Nordic Walking, Wanderungen und Junior Cross bietet der Lauf für jeden etwas. Die Strecken von 12 km und 22 km bieten beeindruckende Ausblicke und unvergessliche Erfahrungen. Schnüren Sie Ihre Laufschuhe und seien Sie dabei! Wir freuen uns auf Ihre Teilnahme!",
+    "website_organizer": "https://www.rennsteiglauf.de/",
+    "new_version": true
+  },
+  {
+    "date": "20240706",
+    "type": "road",
+    "name": "Altstadtlauf „AUF DER GOLDSPUR“",
+    "distance": "0, 7",
+    "distance_m": [
+      0,
+      7000
+    ],
+    "place": "34497 Korbach",
+    "latitude": 51.27461659999999,
+    "longitude": 8.8579248,
+    "organizer": "",
+    "website": "/race-pages/altstadtlauf-„auf-der-goldspur“.html",
+    "src_url": "https://www.laufen.de/dlv-laufkalender",
+    "county": "Hessen",
+    "id": "altstadtlauf-auf-der-goldspur_20240706_httpswwwlaufendedlv-laufkalender",
+    "summary": "Wir laden Läufer aller Leistungsstufen ein, an unserem jährlichen Laufwettbewerb teilzunehmen. Mit Strecken für 7 km und beliebige Distanzen, bieten wir Straßenläufe mit atemberaubenden Ausblicken. Unser Ziel ist es, eine sichere und unterhaltsame Veranstaltung für alle Teilnehmer zu organisieren. Melden Sie sich noch heute an und seien Sie Teil unseres großartigen Lauffests!",
+    "website_organizer": "https://www.laufcup-waldeck-frankenberg.de/wp-content/uploads/2023/06/Ausschreibung-Altstadtlauf-2023.pdf",
     "new_version": true
   },
   {
