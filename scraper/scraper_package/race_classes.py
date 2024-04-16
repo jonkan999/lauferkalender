@@ -14,7 +14,7 @@ class Race:
             "type": type,
             "name": name,
             "distance": distance,
-            "distance_m": distance_m,
+            "distance_m": sorted(list(set(distance_m))), # Remove duplicates and sort the list in ascending order
             "place": place,
             "organizer": organizer,
             "website": website,
@@ -223,9 +223,6 @@ class RaceCollection:
         self.races.append(new_race)
         print(f"Race '{new_race.data['name']}' added to the collection.")
         return True
-
-    def clean_races(self):
-        self.races = []
 
         # Check if
     def check_existing_race(self, event_data, existing_races):
