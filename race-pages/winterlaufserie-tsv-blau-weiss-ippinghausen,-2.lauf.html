@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+      re
+    />
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+
+    <script defer="" src="/js/pgJs.js"></script>
+
+    <link href="/css/pg-style.css" rel="stylesheet" />
+    <link href="/css/pg-queries.css" rel="stylesheet" />
+
+    <title>
+      Seite für Laufrennen Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf - 
+    </title>
+    <link rel="icon" href="/img/logo100px.jpg"" />
+    <meta name="description" content="Herzlich Willkommen zum jährlichen Laufevent des TSV Blau-Weiß Ippinghausen! Wir bieten zwei Hauptrennen an: einen 15 km Straßenlauf und einen 5 km Familienlauf. Egal ob jung oder alt, erfahren oder Anfänger, bei uns findet jeder die perfekte Herausforderung. Genießen Sie die atemberaubende Natur und die Gemeinschaft beim Laufen. Wir freuen uns auf Ihren Start!" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+
+  <body>
+    <div class="show-all-overlay" id="showAllOverlay"></div>
+    <button class="hide-grid" id="hideGrid">
+      <ion-icon name="close-outline" class="close-icon"></ion-icon>
+    </button>
+    <header class="header header-black section">
+      <div class="brand-box">
+        <a class="header-brand-name" href="/index.html">
+          <img
+            class="brand-box-small-image"
+            src="/img/logo.svg"
+            alt="Brand logo"
+        /></a>
+      </div>
+      <div class="menu">
+        <ul>
+          <li>
+            <p class="category-link">
+              Seite für Laufrennen: Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf
+            </p>
+          </li>
+        </ul>
+      </div>
+    </header>
+    <main>
+      <section class="venue-page" id="venuePage">
+        <div class="show-all-grid" id="showAllGrid">
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/winterlaufserie-tsv-blau-weiss-ippinghausen,-2.lauf_1.webp"
+              alt="image 1 for: Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/winterlaufserie-tsv-blau-weiss-ippinghausen,-2.lauf_2.webp"
+              alt="image 2 for: Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/winterlaufserie-tsv-blau-weiss-ippinghausen,-2.lauf_3.webp"
+              alt="image 3 for: Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/winterlaufserie-tsv-blau-weiss-ippinghausen,-2.lauf_4.webp"
+              alt="image 4 for: Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/winterlaufserie-tsv-blau-weiss-ippinghausen,-2.lauf_5.webp"
+              alt="image 5 for: Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/winterlaufserie-tsv-blau-weiss-ippinghausen,-2.lauf_6.webp"
+              alt="image 6 for: Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+        </div>
+        <div class="images-section section airy-margin" id="imageSection">
+          <div class="left-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/winterlaufserie-tsv-blau-weiss-ippinghausen,-2.lauf_1.webp"
+              alt="image 1 for: Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf"
+            />
+            <div class="image-overlay"></div>
+          </div>
+          <div class="right-images-section">
+            <div class="top-right-image">
+              <img
+                class="image-inner-img"
+                src="/race-pages/img/winterlaufserie-tsv-blau-weiss-ippinghausen,-2.lauf_2.webp"
+                alt="image 2 for: Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf"
+              />
+              <div class="image-overlay"></div>
+            </div>
+            <div class="bottom-right-images">
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/winterlaufserie-tsv-blau-weiss-ippinghausen,-2.lauf_3.webp"
+                  alt="image 3 for: Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf"
+                />
+                <div class="image-overlay"></div>
+              </div>
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/winterlaufserie-tsv-blau-weiss-ippinghausen,-2.lauf_4.webp"
+                  alt="image 4 for: Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf"
+                />
+                <div class="show-all-container" id="showAll">
+                  <div class="square-icon-container-container">
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                  </div>
+                  <div class="show-all-images-text">
+                    Alle anzeigen
+                  </div>
+                  <div class="image-overlay"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="info-container" id="infoContainer">
+          <!-- Venue Name -->
+          <h1 class="event-space-title">Winterlaufserie TSV Blau-Weiß Ippinghausen, 2.Lauf</h1>
+
+          <!-- Venue Address -->
+          <div class="adress-div">
+            <ion-icon
+              class="icon ion-ios-location-outline"
+              name="location-outline"
+            ></ion-icon>
+            <p class="event-space-address">34466 Wolfhagen-Ippinghausen</p>
+          </div>
+
+          <!-- Highlights Container -->
+          <ul class="highlights-container">
+            <!-- Star Rating -->
+            <div class="highlight-stars">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a href="http://www.wila-ippinghausen.de/"
+                >Link zur Anmeldung</a
+              >
+            </div>
+
+            <!-- Guests and Size Info -->
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 0 km, 15 km
+              </p>
+            </li>
+            <li class="highlight-info mobile full-row">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 0 km, 15 km
+              </p>
+            </li>
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+
+            <!-- Food and Drink Info -->
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-navigate-circle-outline"
+                name="navigate-circle-outline"
+              ></ion-icon>
+              <p>
+                Ort: 34466 Wolfhagen-Ippinghausen
+              </p>
+            </li>
+            <li class="highlight-info second-col mobile">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-calendar-clear-outline"
+                name="calendar-clear-outline"
+              ></ion-icon>
+              <p>
+                Datum: 20241215
+              </p>
+            </li>
+            <div class="highlight-star-mobile second-col">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a class="highlight-link" href="http://www.wila-ippinghausen.de/"
+                >Länk till anmälan</a
+              >
+            </div>
+          </ul>
+
+          <!-- Calendar and Mail Template Containers -->
+          <div class="subsection-split-container">
+            <!-- Description Container -->
+            <div class="description-container">
+              <h2>Über das Rennen:</h2>
+              <div class="disclaimer-box">
+                <p>Alle Informationen auf dieser Seite basieren auf offenen Quelldaten. Wir tun unser Bestes, um sie aktuell zu halten, 
+können jedoch nicht garantieren, dass alles korrekt ist. Wenn Sie Fehler bemerken, kontaktieren Sie uns bitte 
+unter <a href="/kontakt.html">Kontakt</a>, damit wir sie so schnell wie möglich korrigieren können.
+</p>
+              </div>
+              <p class="venue-description">
+                Herzlich Willkommen beim TSV Blau-Weiß IppinghausenLeichtathletik 2023/2024! Wir freuen uns, Ihnen mitteilen zu können, dass unsere jährliche Laufveranstaltung wieder stattfindet. In diesem Jahr bieten wir zwei Hauptrennen an: einen 15 km Straßenlauf und einen Familienlauf über 5 km. Unser Ziel ist es, Läufern jeden Alters und jeder Fähigkeitsstufe die Möglichkeit zu geben, an einem unvergesslichen Lauferlebnis teilzunehmen.
+
+Der Start und Zielbereich für beide Rennen ist in Ippinghausen, wo die atemberaubende Natur und die malerische Umgebung die perfekte Kulisse für einen Tag des Laufens bieten. Die 15 km-Strecke führt die Teilnehmer durch idyllische Dörfer und entlang malerischer Straßen, während der 5 km-Familienlauf eine entspannte und unterhaltsame Atmosphäre für Läufer aller Altersgruppen bietet. Wir freuen uns darauf, die Gemeinschaft zusammenzubringen und Menschen jeden Alters zu ermutigen, sich zu bewegen, Spaß zu haben und ein gesundes, aktives Leben zu führen.
+
+Egal, ob Sie ein erfahrener Läufer oder ein Anfänger sind, bei unserem Leichtathletik-Event finden Sie die perfekte Herausforderung für Ihre Laufziele. Kommen Sie und genießen Sie einen Tag voller gemeinschaftlicher Begeisterung, körperlicher Herausforderung und unvergesslicher Erinnerungen. Wir freuen uns darauf, Sie auf der Strecke zu sehen!
+              </p>
+              <h3>Ausführliche Informationen:</h3>
+              <ul>
+                
+                <li>
+                  Strecken: 0 km, 15 km
+                </li>
+                
+                <li>
+                  Untergrund: road
+                </li>
+                
+                <li>
+                  Ort: 34466 Wolfhagen-Ippinghausen
+                </li>
+                
+                <li>
+                  Datum: 20241215
+                </li>
+                 
+                <li>
+                  Rennkategorien: 0 km, 15 km
+                </li>
+                
+                <li>
+                  Land: Hessen
+                </li>
+                
+                <li>
+                  Veranstalter: 
+                </li>
+                
+              </ul>
+              <h3>Link zur Veranstalter-Website:</h3>
+              <a class="venue-price" href="http://www.wila-ippinghausen.de/">
+                http://www.wila-ippinghausen.de/
+              </a>
+            </div>
+
+            <div class="subsection-right-split-container">
+              <div
+                data-mapboxCenter="[9.1444528, 51.2821639]"
+                data-mapboxcenter="[]"
+                class="map-container mapboxgl-map"
+                id="mapboxContainer"
+              ></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Rest of your HTML content -->
+      </section>
+      <div id="errorMessage" class="error-message"></div>
+    </main>
+  </body>
+</html>
