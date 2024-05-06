@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+      re
+    />
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+
+    <script defer="" src="/js/pgJs.js"></script>
+
+    <link href="/css/pg-style.css" rel="stylesheet" />
+    <link href="/css/pg-queries.css" rel="stylesheet" />
+
+    <title>
+      Seite für Laufrennen Lengericher Firmenstaffel- und Gesundheitslauf - 
+    </title>
+    <link rel="icon" href="/img/logo100px.jpg"" />
+    <meta name="description" content="Liebe Läuferinnen und Läufer,
+
+am 15. Juni 2024 findet der 3. Lengericher Firmenstaffel- und Gesundheitslauf statt. Dieses Laufevent bietet verschiedene Kategorien und Strecken, darunter ein 6 km langer Straßenlauf für Einzelläufer. Die Veranstaltung wird von der Helios Klinik Lengerich unterstützt und umfasst auch eine Gesundheitsmesse und Aktivitäten für Teilnehmer und Zuschauer. Wir freuen uns auf einen Tag voller Laufspaß, Gemeinschaft und Gesundheit. Bis bald beim 3. Lengericher Firmenstaffel- und Gesundheitslauf 2024!" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+
+  <body>
+    <div class="show-all-overlay" id="showAllOverlay"></div>
+    <button class="hide-grid" id="hideGrid">
+      <ion-icon name="close-outline" class="close-icon"></ion-icon>
+    </button>
+    <header class="header header-black section">
+      <div class="brand-box">
+        <a class="header-brand-name" href="/index.html">
+          <img
+            class="brand-box-small-image"
+            src="/img/logo.svg"
+            alt="Brand logo"
+        /></a>
+      </div>
+      <div class="menu">
+        <ul>
+          <li>
+            <p class="category-link">
+              Seite für Laufrennen: Lengericher Firmenstaffel- und Gesundheitslauf
+            </p>
+          </li>
+        </ul>
+      </div>
+    </header>
+    <main>
+      <section class="venue-page" id="venuePage">
+        <div class="show-all-grid" id="showAllGrid">
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/lengericher-firmenstaffel-und-gesundheitslauf_1.webp"
+              alt="image 1 for: Lengericher Firmenstaffel- und Gesundheitslauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/lengericher-firmenstaffel-und-gesundheitslauf_2.webp"
+              alt="image 2 for: Lengericher Firmenstaffel- und Gesundheitslauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/lengericher-firmenstaffel-und-gesundheitslauf_3.webp"
+              alt="image 3 for: Lengericher Firmenstaffel- und Gesundheitslauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/lengericher-firmenstaffel-und-gesundheitslauf_4.webp"
+              alt="image 4 for: Lengericher Firmenstaffel- und Gesundheitslauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/lengericher-firmenstaffel-und-gesundheitslauf_5.webp"
+              alt="image 5 for: Lengericher Firmenstaffel- und Gesundheitslauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/lengericher-firmenstaffel-und-gesundheitslauf_6.webp"
+              alt="image 6 for: Lengericher Firmenstaffel- und Gesundheitslauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+        </div>
+        <div class="images-section section airy-margin" id="imageSection">
+          <div class="left-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/lengericher-firmenstaffel-und-gesundheitslauf_1.webp"
+              alt="image 1 for: Lengericher Firmenstaffel- und Gesundheitslauf"
+            />
+            <div class="image-overlay"></div>
+          </div>
+          <div class="right-images-section">
+            <div class="top-right-image">
+              <img
+                class="image-inner-img"
+                src="/race-pages/img/lengericher-firmenstaffel-und-gesundheitslauf_2.webp"
+                alt="image 2 for: Lengericher Firmenstaffel- und Gesundheitslauf"
+              />
+              <div class="image-overlay"></div>
+            </div>
+            <div class="bottom-right-images">
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/lengericher-firmenstaffel-und-gesundheitslauf_3.webp"
+                  alt="image 3 for: Lengericher Firmenstaffel- und Gesundheitslauf"
+                />
+                <div class="image-overlay"></div>
+              </div>
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/lengericher-firmenstaffel-und-gesundheitslauf_4.webp"
+                  alt="image 4 for: Lengericher Firmenstaffel- und Gesundheitslauf"
+                />
+                <div class="show-all-container" id="showAll">
+                  <div class="square-icon-container-container">
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                  </div>
+                  <div class="show-all-images-text">
+                    Alle anzeigen
+                  </div>
+                  <div class="image-overlay"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="info-container" id="infoContainer">
+          <!-- Venue Name -->
+          <h1 class="event-space-title">Lengericher Firmenstaffel- und Gesundheitslauf</h1>
+
+          <!-- Venue Address -->
+          <div class="adress-div">
+            <ion-icon
+              class="icon ion-ios-location-outline"
+              name="location-outline"
+            ></ion-icon>
+            <p class="event-space-address">49525 Lengerich, Nordrhein</p>
+          </div>
+
+          <!-- Highlights Container -->
+          <ul class="highlights-container">
+            <!-- Star Rating -->
+            <div class="highlight-stars">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a href="https://www.helios-gesundheit.de/standorte-angebote/kliniken/lengerich/aktuelles/lengericher-firmenstaffel-und-gesundheitslauf/"
+                >Link zur Anmeldung</a
+              >
+            </div>
+
+            <!-- Guests and Size Info -->
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 6 km
+              </p>
+            </li>
+            <li class="highlight-info mobile full-row">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 6 km
+              </p>
+            </li>
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+
+            <!-- Food and Drink Info -->
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-navigate-circle-outline"
+                name="navigate-circle-outline"
+              ></ion-icon>
+              <p>
+                Ort: 49525 Lengerich, Nordrhein
+              </p>
+            </li>
+            <li class="highlight-info second-col mobile">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-calendar-clear-outline"
+                name="calendar-clear-outline"
+              ></ion-icon>
+              <p>
+                Datum: 20240525
+              </p>
+            </li>
+            <div class="highlight-star-mobile second-col">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a class="highlight-link" href="https://www.helios-gesundheit.de/standorte-angebote/kliniken/lengerich/aktuelles/lengericher-firmenstaffel-und-gesundheitslauf/"
+                >Länk till anmälan</a
+              >
+            </div>
+          </ul>
+
+          <!-- Calendar and Mail Template Containers -->
+          <div class="subsection-split-container">
+            <!-- Description Container -->
+            <div class="description-container">
+              <h2>Über das Rennen:</h2>
+              <div class="disclaimer-box">
+                <p>Alle Informationen auf dieser Seite basieren auf offenen Quelldaten. Wir tun unser Bestes, um sie aktuell zu halten, 
+können jedoch nicht garantieren, dass alles korrekt ist. Wenn Sie Fehler bemerken, kontaktieren Sie uns bitte 
+unter <a href="/kontakt.html">Kontakt</a>, damit wir sie so schnell wie möglich korrigieren können.
+</p>
+              </div>
+              <p class="venue-description">
+                Liebe Läuferinnen und Läufer,
+
+wir freuen uns, bekannt zu geben, dass der 3. Lengericher Firmenstaffel- und Gesundheitslauf 2024 am 15. Juni stattfinden wird. Diese beliebte Veranstaltung bietet die Möglichkeit, gemeinsam mit Kollegen und Freunden an einem einzigartigen Laufevent teilzunehmen. Der Lauf umfasst verschiedene Kategorien und Strecken, darunter ein 6 km langer Straßenlauf, der für alle Laufbegeisterten zugänglich ist. Diese Veranstaltung wird von der Helios Klinik Lengerich unterstützt und bietet auch eine Gesundheitsmesse und verschiedene Aktivitäten für Teilnehmer und Zuschauer.
+
+Der Ablauf des Tages beinhaltet spannende Staffelläufe, bei denen Teams aus verschiedenen Unternehmen gegeneinander antreten, sowie den Gesundheitslauf, der für Einzelläufer offen ist. Wir laden alle Läuferinnen und Läufer ein, an diesem einzigartigen Laufevent teilzunehmen und die malerische Strecke durch die Stadt Lengerich zu genießen. Wir freuen uns auf einen Tag voller Laufspaß, Gemeinschaft und Gesundheit. Bis bald beim 3. Lengericher Firmenstaffel- und Gesundheitslauf 2024!
+              </p>
+              <h3>Ausführliche Informationen:</h3>
+              <ul>
+                
+                <li>
+                  Strecken: 6 km
+                </li>
+                
+                <li>
+                  Untergrund: road
+                </li>
+                
+                <li>
+                  Ort: 49525 Lengerich, Nordrhein
+                </li>
+                
+                <li>
+                  Datum: 20240525
+                </li>
+                 
+                <li>
+                  Rennkategorien: 6 km
+                </li>
+                
+                <li>
+                  Land: Nordrhein-Westfalen
+                </li>
+                
+                <li>
+                  Veranstalter: 
+                </li>
+                
+              </ul>
+              <h3>Link zur Veranstalter-Website:</h3>
+              <a class="venue-price" href="https://www.helios-gesundheit.de/standorte-angebote/kliniken/lengerich/aktuelles/lengericher-firmenstaffel-und-gesundheitslauf/">
+                https://www.helios-gesundheit.de/standorte-angebote/kliniken/lengerich/aktuelles/lengericher-firmenstaffel-und-gesundheitslauf/
+              </a>
+            </div>
+
+            <div class="subsection-right-split-container">
+              <div
+                data-mapboxCenter="[7.839039699999999, 52.16494059999999]"
+                data-mapboxcenter="[]"
+                class="map-container mapboxgl-map"
+                id="mapboxContainer"
+              ></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Rest of your HTML content -->
+      </section>
+      <div id="errorMessage" class="error-message"></div>
+    </main>
+  </body>
+</html>
