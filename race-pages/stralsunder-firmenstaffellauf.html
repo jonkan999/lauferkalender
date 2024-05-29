@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+      re
+    />
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+
+    <script defer="" src="/js/pgJs.js"></script>
+
+    <link href="/css/pg-style.css" rel="stylesheet" />
+    <link href="/css/pg-queries.css" rel="stylesheet" />
+
+    <title>
+      Seite für Laufrennen Stralsunder Firmenstaffellauf - 
+    </title>
+    <link rel="icon" href="/img/logo100px.jpg"" />
+    <meta name="description" content="Liebe Läuferinnen und Läufer,
+
+wir laden euch herzlich zum 5. Stralsunder Firmenstaffellauf am 14. Juni 2023 ein. Dieser aufregende Staffellauf führt über 12 km durch malerische Straßen und Landschaften. Mit verschiedenen Kategorien und Distanzen ist für jeden etwas dabei. Egal ob erfahren oder Anfänger, dieses Event verspricht Spaß und Teamgeist. Seid dabei und erlebt einen Tag voller positiver Energie!" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+
+  <body>
+    <div class="show-all-overlay" id="showAllOverlay"></div>
+    <button class="hide-grid" id="hideGrid">
+      <ion-icon name="close-outline" class="close-icon"></ion-icon>
+    </button>
+    <header class="header header-black section">
+      <div class="brand-box">
+        <a class="header-brand-name" href="/index.html">
+          <img
+            class="brand-box-small-image"
+            src="/img/logo.svg"
+            alt="Brand logo"
+        /></a>
+      </div>
+      <div class="menu">
+        <ul>
+          <li>
+            <p class="category-link">
+              Seite für Laufrennen: Stralsunder Firmenstaffellauf
+            </p>
+          </li>
+        </ul>
+      </div>
+    </header>
+    <main>
+      <section class="venue-page" id="venuePage">
+        <div class="show-all-grid" id="showAllGrid">
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/stralsunder-firmenstaffellauf_1.webp"
+              alt="image 1 for: Stralsunder Firmenstaffellauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/stralsunder-firmenstaffellauf_2.webp"
+              alt="image 2 for: Stralsunder Firmenstaffellauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/stralsunder-firmenstaffellauf_3.webp"
+              alt="image 3 for: Stralsunder Firmenstaffellauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/stralsunder-firmenstaffellauf_4.webp"
+              alt="image 4 for: Stralsunder Firmenstaffellauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/stralsunder-firmenstaffellauf_5.webp"
+              alt="image 5 for: Stralsunder Firmenstaffellauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/stralsunder-firmenstaffellauf_6.webp"
+              alt="image 6 for: Stralsunder Firmenstaffellauf"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+        </div>
+        <div class="images-section section airy-margin" id="imageSection">
+          <div class="left-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/stralsunder-firmenstaffellauf_1.webp"
+              alt="image 1 for: Stralsunder Firmenstaffellauf"
+            />
+            <div class="image-overlay"></div>
+          </div>
+          <div class="right-images-section">
+            <div class="top-right-image">
+              <img
+                class="image-inner-img"
+                src="/race-pages/img/stralsunder-firmenstaffellauf_2.webp"
+                alt="image 2 for: Stralsunder Firmenstaffellauf"
+              />
+              <div class="image-overlay"></div>
+            </div>
+            <div class="bottom-right-images">
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/stralsunder-firmenstaffellauf_3.webp"
+                  alt="image 3 for: Stralsunder Firmenstaffellauf"
+                />
+                <div class="image-overlay"></div>
+              </div>
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/stralsunder-firmenstaffellauf_4.webp"
+                  alt="image 4 for: Stralsunder Firmenstaffellauf"
+                />
+                <div class="show-all-container" id="showAll">
+                  <div class="square-icon-container-container">
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                  </div>
+                  <div class="show-all-images-text">
+                    Alle anzeigen
+                  </div>
+                  <div class="image-overlay"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="info-container" id="infoContainer">
+          <!-- Venue Name -->
+          <h1 class="event-space-title">Stralsunder Firmenstaffellauf</h1>
+
+          <!-- Venue Address -->
+          <div class="adress-div">
+            <ion-icon
+              class="icon ion-ios-location-outline"
+              name="location-outline"
+            ></ion-icon>
+            <p class="event-space-address">18435 Stralsund, Mecklenburg</p>
+          </div>
+
+          <!-- Highlights Container -->
+          <ul class="highlights-container">
+            <!-- Star Rating -->
+            <div class="highlight-stars">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a href="https://my.raceresult.com/210745/"
+                >Link zur Anmeldung</a
+              >
+            </div>
+
+            <!-- Guests and Size Info -->
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 12 km
+              </p>
+            </li>
+            <li class="highlight-info mobile full-row">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 12 km
+              </p>
+            </li>
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+
+            <!-- Food and Drink Info -->
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-navigate-circle-outline"
+                name="navigate-circle-outline"
+              ></ion-icon>
+              <p>
+                Ort: 18435 Stralsund, Mecklenburg
+              </p>
+            </li>
+            <li class="highlight-info second-col mobile">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-calendar-clear-outline"
+                name="calendar-clear-outline"
+              ></ion-icon>
+              <p>
+                Datum: 20240612
+              </p>
+            </li>
+            <div class="highlight-star-mobile second-col">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a class="highlight-link" href="https://my.raceresult.com/210745/"
+                >Länk till anmälan</a
+              >
+            </div>
+          </ul>
+
+          <!-- Calendar and Mail Template Containers -->
+          <div class="subsection-split-container">
+            <!-- Description Container -->
+            <div class="description-container">
+              <h2>Über das Rennen:</h2>
+              <div class="disclaimer-box">
+                <p>Alle Informationen auf dieser Seite basieren auf offenen Quelldaten. Wir tun unser Bestes, um sie aktuell zu halten, 
+können jedoch nicht garantieren, dass alles korrekt ist. Wenn Sie Fehler bemerken, kontaktieren Sie uns bitte 
+unter <a href="/kontakt.html">Kontakt</a>, damit wir sie so schnell wie möglich korrigieren können.
+</p>
+              </div>
+              <p class="venue-description">
+                Liebe Läuferinnen und Läufer,
+
+wir freuen uns, euch zum 5. Stralsunder Firmenstaffellauf am 14. Juni 2023 in Stralsund einzuladen. Dieser spannende Staffellauf bietet eine großartige Gelegenheit für Firmen, sich zu vernetzen und sich sportlich zu betätigen. Die Strecke erstreckt sich über 12 km und führt die Teilnehmer durch malerische Straßen und Landschaften. Das Rennen findet auf der Straße statt und verspricht ein herausforderndes, aber aufregendes Erlebnis für alle Teilnehmer.
+
+Mit verschiedenen Kategorien und Distanzen ist für jeden etwas dabei. Egal, ob du ein erfahrener Läufer bist oder zum ersten Mal an einem Staffellauf teilnimmst, dieses Event verspricht jede Menge Spaß und gemeinschaftlichen Teamgeist. Also schnürt eure Laufschuhe, bildet Teams und seid bereit, an diesem aufregenden Laufevent teilzunehmen.
+
+Wir freuen uns darauf, euch bei diesem unvergesslichen Laufereignis zu sehen. Seid dabei und erlebt einen Tag voller sportlicher Herausforderungen und positiver Energie!
+              </p>
+              <h3>Ausführliche Informationen:</h3>
+              <ul>
+                
+                <li>
+                  Strecken: 12 km
+                </li>
+                
+                <li>
+                  Untergrund: road
+                </li>
+                
+                <li>
+                  Ort: 18435 Stralsund, Mecklenburg
+                </li>
+                
+                <li>
+                  Datum: 20240612
+                </li>
+                 
+                <li>
+                  Rennkategorien: 12 km
+                </li>
+                
+                <li>
+                  Land: Mecklenburg-Vorpommern
+                </li>
+                
+                <li>
+                  Veranstalter: 
+                </li>
+                
+              </ul>
+              <h3>Link zur Veranstalter-Website:</h3>
+              <a class="venue-price" href="https://my.raceresult.com/210745/">
+                https://my.raceresult.com/210745/
+              </a>
+            </div>
+
+            <div class="subsection-right-split-container">
+              <div
+                data-mapboxCenter="[13.0689539, 54.33033959999999]"
+                data-mapboxcenter="[]"
+                class="map-container mapboxgl-map"
+                id="mapboxContainer"
+              ></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Rest of your HTML content -->
+      </section>
+      <div id="errorMessage" class="error-message"></div>
+    </main>
+  </body>
+</html>
