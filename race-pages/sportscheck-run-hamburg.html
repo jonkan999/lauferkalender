@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+      re
+    />
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+
+    <script defer="" src="/js/pgJs.js"></script>
+
+    <link href="/css/pg-style.css" rel="stylesheet" />
+    <link href="/css/pg-queries.css" rel="stylesheet" />
+
+    <title>
+      Seite für Laufrennen SportScheck RUN Hamburg - 
+    </title>
+    <link rel="icon" href="/img/logo100px.jpg"" />
+    <meta name="description" content="Liebe Läuferinnen und Läufer,
+
+Macht euch bereit für den SportScheck RUN Hamburg am 21.06.2024! Mit den Rennstrecken von 7 km und 15 km entlang malerischer Straßen und atemberaubender Aussichten auf die Stadt ist dieser Lauf für Läufer jeden Levels geeignet. Egal ob erfahrener Läufer oder Anfänger, dieser Lauf ist für jeden. Schnapp dir deine Laufschuhe und sei dabei!" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+
+  <body>
+    <div class="show-all-overlay" id="showAllOverlay"></div>
+    <button class="hide-grid" id="hideGrid">
+      <ion-icon name="close-outline" class="close-icon"></ion-icon>
+    </button>
+    <header class="header header-black section">
+      <div class="brand-box">
+        <a class="header-brand-name" href="/index.html">
+          <img
+            class="brand-box-small-image"
+            src="/img/logo.svg"
+            alt="Brand logo"
+        /></a>
+      </div>
+      <div class="menu">
+        <ul>
+          <li>
+            <p class="category-link">
+              Seite für Laufrennen: SportScheck RUN Hamburg
+            </p>
+          </li>
+        </ul>
+      </div>
+    </header>
+    <main>
+      <section class="venue-page" id="venuePage">
+        <div class="show-all-grid" id="showAllGrid">
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/sportscheck-run-hamburg_1.webp"
+              alt="image 1 for: SportScheck RUN Hamburg"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/sportscheck-run-hamburg_2.webp"
+              alt="image 2 for: SportScheck RUN Hamburg"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/sportscheck-run-hamburg_3.webp"
+              alt="image 3 for: SportScheck RUN Hamburg"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/sportscheck-run-hamburg_4.webp"
+              alt="image 4 for: SportScheck RUN Hamburg"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/sportscheck-run-hamburg_5.webp"
+              alt="image 5 for: SportScheck RUN Hamburg"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/sportscheck-run-hamburg_6.webp"
+              alt="image 6 for: SportScheck RUN Hamburg"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+        </div>
+        <div class="images-section section airy-margin" id="imageSection">
+          <div class="left-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/sportscheck-run-hamburg_1.webp"
+              alt="image 1 for: SportScheck RUN Hamburg"
+            />
+            <div class="image-overlay"></div>
+          </div>
+          <div class="right-images-section">
+            <div class="top-right-image">
+              <img
+                class="image-inner-img"
+                src="/race-pages/img/sportscheck-run-hamburg_2.webp"
+                alt="image 2 for: SportScheck RUN Hamburg"
+              />
+              <div class="image-overlay"></div>
+            </div>
+            <div class="bottom-right-images">
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/sportscheck-run-hamburg_3.webp"
+                  alt="image 3 for: SportScheck RUN Hamburg"
+                />
+                <div class="image-overlay"></div>
+              </div>
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/sportscheck-run-hamburg_4.webp"
+                  alt="image 4 for: SportScheck RUN Hamburg"
+                />
+                <div class="show-all-container" id="showAll">
+                  <div class="square-icon-container-container">
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                  </div>
+                  <div class="show-all-images-text">
+                    Alle anzeigen
+                  </div>
+                  <div class="image-overlay"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="info-container" id="infoContainer">
+          <!-- Venue Name -->
+          <h1 class="event-space-title">SportScheck RUN Hamburg</h1>
+
+          <!-- Venue Address -->
+          <div class="adress-div">
+            <ion-icon
+              class="icon ion-ios-location-outline"
+              name="location-outline"
+            ></ion-icon>
+            <p class="event-space-address">20148 Hamburg, Hamburg  </p>
+          </div>
+
+          <!-- Highlights Container -->
+          <ul class="highlights-container">
+            <!-- Star Rating -->
+            <div class="highlight-stars">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a href="https://www.sportscheck.com/laufen/ausruestung/erlebnisse/events/stadt-hamburg/"
+                >Link zur Anmeldung</a
+              >
+            </div>
+
+            <!-- Guests and Size Info -->
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 7 km, 15 km
+              </p>
+            </li>
+            <li class="highlight-info mobile full-row">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 7 km, 15 km
+              </p>
+            </li>
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+
+            <!-- Food and Drink Info -->
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-navigate-circle-outline"
+                name="navigate-circle-outline"
+              ></ion-icon>
+              <p>
+                Ort: 20148 Hamburg, Hamburg  
+              </p>
+            </li>
+            <li class="highlight-info second-col mobile">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-calendar-clear-outline"
+                name="calendar-clear-outline"
+              ></ion-icon>
+              <p>
+                Datum: 20240621
+              </p>
+            </li>
+            <div class="highlight-star-mobile second-col">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a class="highlight-link" href="https://www.sportscheck.com/laufen/ausruestung/erlebnisse/events/stadt-hamburg/"
+                >Länk till anmälan</a
+              >
+            </div>
+          </ul>
+
+          <!-- Calendar and Mail Template Containers -->
+          <div class="subsection-split-container">
+            <!-- Description Container -->
+            <div class="description-container">
+              <h2>Über das Rennen:</h2>
+              <div class="disclaimer-box">
+                <p>Alle Informationen auf dieser Seite basieren auf offenen Quelldaten. Wir tun unser Bestes, um sie aktuell zu halten, 
+können jedoch nicht garantieren, dass alles korrekt ist. Wenn Sie Fehler bemerken, kontaktieren Sie uns bitte 
+unter <a href="/kontakt.html">Kontakt</a>, damit wir sie so schnell wie möglich korrigieren können.
+</p>
+              </div>
+              <p class="venue-description">
+                Liebe Läuferinnen und Läufer,
+
+jedes Jahr kommen Hunderte von begeisterten Läufern aus ganz Deutschland nach Hamburg, um am SportScheck RUN teilzunehmen. Es ist eine Veranstaltung, die für Läufer jeden Levels geeignet ist und es gibt nicht nur eine, sondern gleich zwei Rennstrecken: Der 7 km und der 15 km Lauf. Beide Strecken führen entlang malerischer Straßen und bieten atemberaubende Aussichten auf die Stadt.
+
+Der SportScheck RUN Hamburg wird am 21.06.2024 stattfinden und wir laden alle Läufer ein, sich anzumelden und dabei zu sein. Es ist eine großartige Möglichkeit, die Stadt Hamburg zu erleben, während man gleichzeitig seinem Körper und Geist eine Herausforderung bietet. Ob du ein erfahrener Marathonläufer oder ein Laufanfänger bist, dieser Lauf ist für jeden geeignet. Also schnapp dir deine Laufschuhe und sei dabei!
+              </p>
+              <h3>Ausführliche Informationen:</h3>
+              <ul>
+                
+                <li>
+                  Strecken: 7 km, 15 km
+                </li>
+                
+                <li>
+                  Untergrund: road
+                </li>
+                
+                <li>
+                  Ort: 20148 Hamburg, Hamburg  
+                </li>
+                
+                <li>
+                  Datum: 20240621
+                </li>
+                 
+                <li>
+                  Rennkategorien: 7 km, 15 km
+                </li>
+                
+                <li>
+                  Land: Hamburg
+                </li>
+                
+                <li>
+                  Veranstalter: 
+                </li>
+                
+              </ul>
+              <h3>Link zur Veranstalter-Website:</h3>
+              <a class="venue-price" href="https://www.sportscheck.com/laufen/ausruestung/erlebnisse/events/stadt-hamburg/">
+                https://www.sportscheck.com/laufen/ausruestung/erlebnisse/events/stadt-hamburg/
+              </a>
+            </div>
+
+            <div class="subsection-right-split-container">
+              <div
+                data-mapboxCenter="[9.996616399999999, 53.5675782]"
+                data-mapboxcenter="[]"
+                class="map-container mapboxgl-map"
+                id="mapboxContainer"
+              ></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Rest of your HTML content -->
+      </section>
+      <div id="errorMessage" class="error-message"></div>
+    </main>
+  </body>
+</html>

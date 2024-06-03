@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+      re
+    />
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+
+    <script defer="" src="/js/pgJs.js"></script>
+
+    <link href="/css/pg-style.css" rel="stylesheet" />
+    <link href="/css/pg-queries.css" rel="stylesheet" />
+
+    <title>
+      Seite für Laufrennen GVG - Abteilauf Brauweiler - 
+    </title>
+    <link rel="icon" href="/img/logo100px.jpg"" />
+    <meta name="description" content="Seien Sie dabei beim GVG - Abteilauf Brauweiler am 30. Juni 2024 in Pulheim! Laufen Sie entweder 5 km oder 10 km auf der Straße und genießen Sie die schöne Landschaft von Pulheim. Egal ob Anfänger oder erfahrener Läufer, dieses Rennen bietet für jeden eine spannende Herausforderung. Besuchen Sie unsere Website, um sich anzumelden und seien Sie bereit für ein unvergessliches Laufabenteuer!" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+
+  <body>
+    <div class="show-all-overlay" id="showAllOverlay"></div>
+    <button class="hide-grid" id="hideGrid">
+      <ion-icon name="close-outline" class="close-icon"></ion-icon>
+    </button>
+    <header class="header header-black section">
+      <div class="brand-box">
+        <a class="header-brand-name" href="/index.html">
+          <img
+            class="brand-box-small-image"
+            src="/img/logo.svg"
+            alt="Brand logo"
+        /></a>
+      </div>
+      <div class="menu">
+        <ul>
+          <li>
+            <p class="category-link">
+              Seite für Laufrennen: GVG - Abteilauf Brauweiler
+            </p>
+          </li>
+        </ul>
+      </div>
+    </header>
+    <main>
+      <section class="venue-page" id="venuePage">
+        <div class="show-all-grid" id="showAllGrid">
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gvg-abteilauf-brauweiler_1.webp"
+              alt="image 1 for: GVG - Abteilauf Brauweiler"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gvg-abteilauf-brauweiler_2.webp"
+              alt="image 2 for: GVG - Abteilauf Brauweiler"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gvg-abteilauf-brauweiler_3.webp"
+              alt="image 3 for: GVG - Abteilauf Brauweiler"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gvg-abteilauf-brauweiler_4.webp"
+              alt="image 4 for: GVG - Abteilauf Brauweiler"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gvg-abteilauf-brauweiler_5.webp"
+              alt="image 5 for: GVG - Abteilauf Brauweiler"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gvg-abteilauf-brauweiler_6.webp"
+              alt="image 6 for: GVG - Abteilauf Brauweiler"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+        </div>
+        <div class="images-section section airy-margin" id="imageSection">
+          <div class="left-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/gvg-abteilauf-brauweiler_1.webp"
+              alt="image 1 for: GVG - Abteilauf Brauweiler"
+            />
+            <div class="image-overlay"></div>
+          </div>
+          <div class="right-images-section">
+            <div class="top-right-image">
+              <img
+                class="image-inner-img"
+                src="/race-pages/img/gvg-abteilauf-brauweiler_2.webp"
+                alt="image 2 for: GVG - Abteilauf Brauweiler"
+              />
+              <div class="image-overlay"></div>
+            </div>
+            <div class="bottom-right-images">
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/gvg-abteilauf-brauweiler_3.webp"
+                  alt="image 3 for: GVG - Abteilauf Brauweiler"
+                />
+                <div class="image-overlay"></div>
+              </div>
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/gvg-abteilauf-brauweiler_4.webp"
+                  alt="image 4 for: GVG - Abteilauf Brauweiler"
+                />
+                <div class="show-all-container" id="showAll">
+                  <div class="square-icon-container-container">
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                  </div>
+                  <div class="show-all-images-text">
+                    Alle anzeigen
+                  </div>
+                  <div class="image-overlay"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="info-container" id="infoContainer">
+          <!-- Venue Name -->
+          <h1 class="event-space-title">GVG - Abteilauf Brauweiler</h1>
+
+          <!-- Venue Address -->
+          <div class="adress-div">
+            <ion-icon
+              class="icon ion-ios-location-outline"
+              name="location-outline"
+            ></ion-icon>
+            <p class="event-space-address">50295 Brauweiler, DE</p>
+          </div>
+
+          <!-- Highlights Container -->
+          <ul class="highlights-container">
+            <!-- Star Rating -->
+            <div class="highlight-stars">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a href="https://running.life/de/termine/gvg-abteilauf-brauweiler"
+                >Link zur Anmeldung</a
+              >
+            </div>
+
+            <!-- Guests and Size Info -->
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 5 km
+              </p>
+            </li>
+            <li class="highlight-info mobile full-row">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 5 km
+              </p>
+            </li>
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+
+            <!-- Food and Drink Info -->
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-navigate-circle-outline"
+                name="navigate-circle-outline"
+              ></ion-icon>
+              <p>
+                Ort: 50295 Brauweiler, DE
+              </p>
+            </li>
+            <li class="highlight-info second-col mobile">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-calendar-clear-outline"
+                name="calendar-clear-outline"
+              ></ion-icon>
+              <p>
+                Datum: 20240630
+              </p>
+            </li>
+            <div class="highlight-star-mobile second-col">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a class="highlight-link" href="https://running.life/de/termine/gvg-abteilauf-brauweiler"
+                >Länk till anmälan</a
+              >
+            </div>
+          </ul>
+
+          <!-- Calendar and Mail Template Containers -->
+          <div class="subsection-split-container">
+            <!-- Description Container -->
+            <div class="description-container">
+              <h2>Über das Rennen:</h2>
+              <div class="disclaimer-box">
+                <p>Alle Informationen auf dieser Seite basieren auf offenen Quelldaten. Wir tun unser Bestes, um sie aktuell zu halten, 
+können jedoch nicht garantieren, dass alles korrekt ist. Wenn Sie Fehler bemerken, kontaktieren Sie uns bitte 
+unter <a href="/kontakt.html">Kontakt</a>, damit wir sie so schnell wie möglich korrigieren können.
+</p>
+              </div>
+              <p class="venue-description">
+                Wir freuen uns, den GVG - Abteilauf Brauweiler am 30. Juni 2024 in Pulheim zu präsentieren! Dieses Rennen bietet Teilnehmern die Möglichkeit, zwischen 5 und 10 Kilometer auf der Straße zu laufen. Es ist eine großartige Gelegenheit, die landschaftliche Schönheit von Pulheim zu erleben und sich mit anderen Läufern zu messen. Der GVG - Abteilauf Brauweiler verspricht ein spannendes und herausforderndes Rennen für alle Teilnehmer, unabhängig von ihrem Erfahrungslevel. Besuchen Sie die Website für weitere Informationen und um sich für das Rennen anzumelden. Machen Sie sich bereit, Ihre Laufschuhe zu schnüren und sich auf ein unvergessliches Laufabenteuer zu begeben!
+              </p>
+              <h3>Ausführliche Informationen:</h3>
+              <ul>
+                
+                <li>
+                  Strecken: 5 km
+                </li>
+                
+                <li>
+                  Untergrund: road
+                </li>
+                
+                <li>
+                  Ort: 50295 Brauweiler, DE
+                </li>
+                
+                <li>
+                  Datum: 20240630
+                </li>
+                 
+                <li>
+                  Rennkategorien: 5 km
+                </li>
+                
+                <li>
+                  Land: Nordrhein-Westfalen
+                </li>
+                
+                <li>
+                  Veranstalter: 
+                </li>
+                
+              </ul>
+              <h3>Link zur Veranstalter-Website:</h3>
+              <a class="venue-price" href="https://running.life/de/termine/gvg-abteilauf-brauweiler">
+                https://running.life/de/termine/gvg-abteilauf-brauweiler
+              </a>
+            </div>
+
+            <div class="subsection-right-split-container">
+              <div
+                data-mapboxCenter="[6.7878444, 50.9589028]"
+                data-mapboxcenter="[]"
+                class="map-container mapboxgl-map"
+                id="mapboxContainer"
+              ></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Rest of your HTML content -->
+      </section>
+      <div id="errorMessage" class="error-message"></div>
+    </main>
+  </body>
+</html>
