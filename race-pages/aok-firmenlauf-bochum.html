@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+      re
+    />
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+
+    <script defer="" src="/js/pgJs.js"></script>
+
+    <link href="/css/pg-style.css" rel="stylesheet" />
+    <link href="/css/pg-queries.css" rel="stylesheet" />
+
+    <title>
+      Seite für Laufrennen AOK-Firmenlauf Bochum - 
+    </title>
+    <link rel="icon" href="/img/logo100px.jpg"" />
+    <meta name="description" content="Liebe Läufer, ich freue mich, den diesjährigen 5 km Straßenlauf vorzustellen. Diese aufregende Veranstaltung bietet eine landschaftlich reizvolle Strecke durch die Stadt und ist die perfekte Gelegenheit für alle Läufer, vom Anfänger bis zum erfahrenen Athleten. Egal ob Herausforderung oder Bestätigung Ihrer Lauffähigkeiten, dieses Rennen bietet die ideale Gelegenheit, sich selbst zu übertreffen und Teil einer lebendigen Laufgemeinschaft zu sein. Wir freuen uns auf Ihr Mitwirken!" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+
+  <body>
+    <div class="show-all-overlay" id="showAllOverlay"></div>
+    <button class="hide-grid" id="hideGrid">
+      <ion-icon name="close-outline" class="close-icon"></ion-icon>
+    </button>
+    <header class="header header-black section">
+      <div class="brand-box">
+        <a class="header-brand-name" href="/index.html">
+          <img
+            class="brand-box-small-image"
+            src="/img/logo.svg"
+            alt="Brand logo"
+        /></a>
+      </div>
+      <div class="menu">
+        <ul>
+          <li>
+            <p class="category-link">
+              Seite für Laufrennen: AOK-Firmenlauf Bochum
+            </p>
+          </li>
+        </ul>
+      </div>
+    </header>
+    <main>
+      <section class="venue-page" id="venuePage">
+        <div class="show-all-grid" id="showAllGrid">
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/aok-firmenlauf-bochum_1.webp"
+              alt="image 1 for: AOK-Firmenlauf Bochum"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/aok-firmenlauf-bochum_2.webp"
+              alt="image 2 for: AOK-Firmenlauf Bochum"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/aok-firmenlauf-bochum_3.webp"
+              alt="image 3 for: AOK-Firmenlauf Bochum"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/aok-firmenlauf-bochum_4.webp"
+              alt="image 4 for: AOK-Firmenlauf Bochum"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+          <div class="gallery-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/aok-firmenlauf-bochum_5.webp"
+              alt="image 5 for: AOK-Firmenlauf Bochum"
+            />
+            <div class="gallery-overlay"></div>
+          </div>
+          
+        </div>
+        <div class="images-section section airy-margin" id="imageSection">
+          <div class="left-image">
+            <img
+              class="image-inner-img"
+              src="/race-pages/img/aok-firmenlauf-bochum_1.webp"
+              alt="image 1 for: AOK-Firmenlauf Bochum"
+            />
+            <div class="image-overlay"></div>
+          </div>
+          <div class="right-images-section">
+            <div class="top-right-image">
+              <img
+                class="image-inner-img"
+                src="/race-pages/img/aok-firmenlauf-bochum_2.webp"
+                alt="image 2 for: AOK-Firmenlauf Bochum"
+              />
+              <div class="image-overlay"></div>
+            </div>
+            <div class="bottom-right-images">
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/aok-firmenlauf-bochum_3.webp"
+                  alt="image 3 for: AOK-Firmenlauf Bochum"
+                />
+                <div class="image-overlay"></div>
+              </div>
+              <div class="bottom-right-image">
+                <img
+                  class="image-inner-img"
+                  src="/race-pages/img/aok-firmenlauf-bochum_4.webp"
+                  alt="image 4 for: AOK-Firmenlauf Bochum"
+                />
+                <div class="show-all-container" id="showAll">
+                  <div class="square-icon-container-container">
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                    <div class="square-icon-container">
+                      <ion-icon
+                        class="icon ion-ios-square-outline md hydrated"
+                        name="square-outline"
+                        role="img"
+                        aria-label="square outline"
+                      ></ion-icon>
+                    </div>
+                  </div>
+                  <div class="show-all-images-text">
+                    Alle anzeigen
+                  </div>
+                  <div class="image-overlay"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="info-container" id="infoContainer">
+          <!-- Venue Name -->
+          <h1 class="event-space-title">AOK-Firmenlauf Bochum</h1>
+
+          <!-- Venue Address -->
+          <div class="adress-div">
+            <ion-icon
+              class="icon ion-ios-location-outline"
+              name="location-outline"
+            ></ion-icon>
+            <p class="event-space-address">58455 Witten, Nordrhein</p>
+          </div>
+
+          <!-- Highlights Container -->
+          <ul class="highlights-container">
+            <!-- Star Rating -->
+            <div class="highlight-stars">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a href="https://www.aok-firmenlauf.de/Veranstaltungen/aok-firmenlauf-bochum/"
+                >Link zur Anmeldung</a
+              >
+            </div>
+
+            <!-- Guests and Size Info -->
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 5 km
+              </p>
+            </li>
+            <li class="highlight-info mobile full-row">
+              <ion-icon
+                class="highlight-icon ion-ios-analytics-outline"
+                name="analytics-outline"
+              ></ion-icon>
+              <p>
+                Strecken: 5 km
+              </p>
+            </li>
+            <li class="highlight-info desktop">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+
+            <!-- Food and Drink Info -->
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-navigate-circle-outline"
+                name="navigate-circle-outline"
+              ></ion-icon>
+              <p>
+                Ort: 58455 Witten, Nordrhein
+              </p>
+            </li>
+            <li class="highlight-info second-col mobile">
+              <ion-icon
+                class="highlight-icon ion-ios-shapes-outline"
+                name="shapes-outline"
+              ></ion-icon>
+              <p>
+                Untergrund: road
+              </p>
+            </li>
+            <li class="highlight-info">
+              <ion-icon
+                class="highlight-icon ion-ios-calendar-clear-outline"
+                name="calendar-clear-outline"
+              ></ion-icon>
+              <p>
+                Datum: 20240627
+              </p>
+            </li>
+            <div class="highlight-star-mobile second-col">
+              <ion-icon
+                class="star-icon ion-ios-star-outline md hydrated"
+                name="star"
+                role="img"
+                aria-label="star"
+              ></ion-icon>
+              <a class="highlight-link" href="https://www.aok-firmenlauf.de/Veranstaltungen/aok-firmenlauf-bochum/"
+                >Länk till anmälan</a
+              >
+            </div>
+          </ul>
+
+          <!-- Calendar and Mail Template Containers -->
+          <div class="subsection-split-container">
+            <!-- Description Container -->
+            <div class="description-container">
+              <h2>Über das Rennen:</h2>
+              <div class="disclaimer-box">
+                <p>Alle Informationen auf dieser Seite basieren auf offenen Quelldaten. Wir tun unser Bestes, um sie aktuell zu halten, 
+können jedoch nicht garantieren, dass alles korrekt ist. Wenn Sie Fehler bemerken, kontaktieren Sie uns bitte 
+unter <a href="/kontakt.html">Kontakt</a>, damit wir sie so schnell wie möglich korrigieren können.
+</p>
+              </div>
+              <p class="venue-description">
+                Als Rennleiter freue ich mich, Ihnen den diesjährigen Straßenlauf über 5 km vorzustellen. Diese aufregende Veranstaltung bietet etwas für Läufer aller Stufen, vom Anfänger bis zum erfahrenen Athleten. Die landschaftlich reizvolle Strecke führt die Teilnehmer durch die Stadt und bietet eine spannende Herausforderung für alle, die sich dem Laufsport verschrieben haben. Egal, ob Sie ein ambitionierter Läufer sind oder einfach nur einen aktiven Lebensstil genießen möchten, dieses Rennen bietet die perfekte Gelegenheit, um sich selbst zu übertreffen und ein unvergessliches Lauferlebnis zu genießen.
+
+Das Rennen besteht aus verschiedenen Kategorien und Streckenlängen, unter anderem die 5 km Distanz. Es ist ein Lauf, bei dem die Teilnehmer auf Asphalt rennen, was eine besondere Herausforderung darstellt und die Wettbewerbsfähigkeit steigert. Ob Sie sich also für den 5 km Straßenlauf als Herausforderung oder als Bestätigung Ihrer bereits vorhandenen Lauffähigkeiten interessieren, dieses Rennen ist die perfekte Gelegenheit, um Ihr Können unter Beweis zu stellen und Teil einer lebendigen Laufgemeinschaft zu sein. Wir freuen uns darauf, Sie alle an der Startlinie zu sehen und gemeinsam eine unvergessliche Lauferfahrung zu teilen.
+              </p>
+              <h3>Ausführliche Informationen:</h3>
+              <ul>
+                
+                <li>
+                  Strecken: 5 km
+                </li>
+                
+                <li>
+                  Untergrund: road
+                </li>
+                
+                <li>
+                  Ort: 58455 Witten, Nordrhein
+                </li>
+                
+                <li>
+                  Datum: 20240627
+                </li>
+                 
+                <li>
+                  Rennkategorien: 5 km
+                </li>
+                
+                <li>
+                  Land: Nordrhein-Westfalen
+                </li>
+                
+                <li>
+                  Veranstalter: 
+                </li>
+                
+              </ul>
+              <h3>Link zur Veranstalter-Website:</h3>
+              <a class="venue-price" href="https://www.aok-firmenlauf.de/Veranstaltungen/aok-firmenlauf-bochum/">
+                https://www.aok-firmenlauf.de/Veranstaltungen/aok-firmenlauf-bochum/
+              </a>
+            </div>
+
+            <div class="subsection-right-split-container">
+              <div
+                data-mapboxCenter="[7.3089317, 51.4406856]"
+                data-mapboxcenter="[]"
+                class="map-container mapboxgl-map"
+                id="mapboxContainer"
+              ></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Rest of your HTML content -->
+      </section>
+      <div id="errorMessage" class="error-message"></div>
+    </main>
+  </body>
+</html>
