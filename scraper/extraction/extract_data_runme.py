@@ -78,6 +78,16 @@ def main():
 
     driver.get(url)
     
+    # Wait for the consent button and click it if it appears within 3 seconds
+    try:
+        consent_button = WebDriverWait(driver, 3).until(
+            EC.element_to_be_clickable((By.CLASS_NAME, "fc-button.fc-cta-consent.fc-primary-button"))
+        )
+        consent_button.click()
+        print("Clicked consent button")
+    except:
+        print("Consent button not found or clickable")
+        
     # Wait for the cookie agreement button and click it if it appears within 3 seconds
     try:
         cookie_button = WebDriverWait(driver, 3).until(
@@ -88,15 +98,7 @@ def main():
     except:
         print("Cookie agreement button not found or clickable")
 
-    # Wait for the consent button and click it if it appears within 3 seconds
-    try:
-        consent_button = WebDriverWait(driver, 3).until(
-            EC.element_to_be_clickable((By.CLASS_NAME, "fc-button.fc-cta-consent.fc-primary-button"))
-        )
-        consent_button.click()
-        print("Clicked consent button")
-    except:
-        print("Consent button not found or clickable")
+
 
     data_directory = {}
     # Wait for the event headers to appear
