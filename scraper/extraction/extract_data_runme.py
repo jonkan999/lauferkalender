@@ -57,6 +57,34 @@ def format_title(title_text):
     formatted_title = re.sub(r'^\d+[:.\s-]*', '', title_text)
     return formatted_title.strip()
 
+# Function to handle the consent and cookie agreement buttons
+def handle_buttons(driver):
+    buttons_handled = 0
+    max_iterations = 2
+    iterations = 0
+
+    while buttons_handled < 2 and iterations < max_iterations:
+        try:
+            consent_button = WebDriverWait(driver, 3).until(
+                EC.element_to_be_clickable((By.CLASS_NAME, "fc-button.fc-cta-consent.fc-primary-button"))
+            )
+            consent_button.click()
+            print("Clicked consent button")
+            buttons_handled += 1
+        except:
+            print("Consent button not found or clickable")
+
+        try:
+            cookie_button = WebDriverWait(driver, 3).until(
+                EC.element_to_be_clickable((By.CLASS_NAME, "btn.btn-primary.btn-order.accept-agreement"))
+            )
+            cookie_button.click()
+            print("Clicked cookie agreement button")
+            buttons_handled += 1
+        except:
+            print("Cookie agreement button not found or clickable")
+
+        iterations += 1
 
 def main():
     options = Options()
@@ -78,27 +106,7 @@ def main():
 
     driver.get(url)
     
-    # Wait for the consent button and click it if it appears within 3 seconds
-    try:
-        consent_button = WebDriverWait(driver, 3).until(
-            EC.element_to_be_clickable((By.CLASS_NAME, "fc-button.fc-cta-consent.fc-primary-button"))
-        )
-        consent_button.click()
-        print("Clicked consent button")
-    except:
-        print("Consent button not found or clickable")
-        
-    # Wait for the cookie agreement button and click it if it appears within 3 seconds
-    try:
-        cookie_button = WebDriverWait(driver, 3).until(
-            EC.element_to_be_clickable((By.CLASS_NAME, "btn.btn-primary.btn-order.accept-agreement"))
-        )
-        cookie_button.click()
-        print("Clicked cookie agreement button")
-    except:
-        print("Cookie agreement button not found or clickable")
-
-
+    handle_buttons(driver)
 
     data_directory = {}
     # Wait for the event headers to appear
@@ -112,6 +120,8 @@ def main():
 
             # Find the third child of the parent element (using 0-based indexing)
             third_child = parent_element.find_elements(By.TAG_NAME, "div")[2]
+            print(third_child.text)
+            print('third chidl')
             third_child.click()
 
             # Find the input third child element
@@ -123,6 +133,7 @@ def main():
             a = WebDriverWait(driver, 3).until(
                 EC.element_to_be_clickable(li_de.find_element(By.TAG_NAME, "a"))
             )
+            print('a')
             a.click()
 
             # Set the value of the input element to "DE"
